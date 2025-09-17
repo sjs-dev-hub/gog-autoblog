@@ -1,0 +1,10 @@
+{
+  "siteTitle": "Guild of Golf — Daily Deals",
+  "amazonTag": "YOURTAG-20",
+  "categories": [
+    { "title": "Drivers by Budget", "terms": ["driver under $300", "driver under $500", "best game improvement driver"] },
+    { "title": "Balls & Accessories", "terms": ["pro v1 deals", "golf balls 3 piece", "alignment sticks", "swing tempo trainer"] },
+    { "title": "Training & Tech", "terms": ["golf launch monitor", "swing analyzer", "putting mat"] },
+    { "title": "Irons & Wedges", "terms": ["players distance irons", "forged irons", "gap wedge 50"] }
+  ]
+}
