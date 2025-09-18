@@ -1,0 +1,111 @@
+---
+---
+
+/* Import Minima first, then override */
+@import "minima";
+
+/* ===== Brand tokens (from your Squarespace) ===== */
+:root{
+  --gg-bg-accent: #fff5d9;   /* pale cream */
+  --gg-ink-heading: #182241; /* deep navy */
+  --gg-ink-body: #536c7c;    /* slate body text */
+  --gg-ink-muted: #7b949c;   /* muted text / meta */
+  --gg-ink-black: #000000;
+  --gg-border: #aaaaaa;
+
+  --gg-link: #182241;        /* links same as headings for cohesion */
+  --gg-link-hover: #0b1a33;  /* slightly darker on hover */
+
+  --gg-radius: 10px;
+  --gg-gap: 24px;
+  --gg-maxw: 860px;
+}
+
+/* ===== Global ===== */
+html, body{
+  font-family: "Nunito Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--gg-ink-body);
+  background: #fff; /* keep page white like Squarespace pages */
+}
+
+.wrapper{
+  max-width: var(--gg-maxw);
+}
+
+/* Headings use Manrope for a strong Squarespace-y feel */
+h1,h2,h3,h4,h5,h6,.site-title{
+  font-family: "Manrope", "Nunito Sans", sans-serif;
+  color: var(--gg-ink-heading);
+  letter-spacing: .2px;
+}
+
+h1{ font-weight:700; }
+h2,h3{ font-weight:600; }
+
+/* Links / CTAs */
+a{
+  color: var(--gg-link);
+  text-decoration: none;
+}
+a:hover{ text-decoration: underline; color: var(--gg-link-hover); }
+
+/* Buttons (use on future CTAs if needed) */
+.button,.btn,.page-link{
+  display:inline-block; padding:10px 16px; border-radius:var(--gg-radius);
+  background: var(--gg-ink-heading); color:#fff !important; border:1px solid var(--gg-ink-heading);
+}
+.button:hover,.btn:hover,.page-link:hover{ filter:brightness(0.95); }
+
+/* Header / Nav */
+.site-header{
+  border: none;
+  padding: 20px 0;
+  background: #fff;
+}
+.site-title{
+  font-size: 20px;
+  font-weight: 700;
+}
+.site-nav .page-link{
+  margin-left: 16px;
+  color: var(--gg-ink-body);
+}
+.site-nav .page-link:hover{ color: var(--gg-link-hover); }
+
+/* Footer */
+.site-footer{
+  border: none;
+  color: var(--gg-ink-muted);
+  background: #fff;
+}
+
+/* ===== Blog index ===== */
+.post-list > li{
+  padding: 18px 20px;
+  margin: 0 0 var(--gg-gap) 0;
+  background: var(--gg-bg-accent);
+  border: 1px solid var(--gg-border);
+  border-radius: var(--gg-radius);
+}
+.post-link{
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--gg-ink-heading);
+}
+.post-meta{ color: var(--gg-ink-muted); }
+
+/* ===== Post page ===== */
+.post-title{
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: var(--gg-ink-heading);
+}
+.post-content p{ margin: 0 0 1em; }
+.post-content ul{ margin: .5em 0 1.2em 1.2em; }
+hr{ border: 0; height:1px; background: var(--gg-border); margin: var(--gg-gap) 0; }
+
+/* Tables / code (if you ever use them) */
+table{ width:100%; border-collapse:collapse; margin: 16px 0; }
+td,th{ border:1px solid var(--gg-border); padding:10px; }
+code,pre{ background:#f7f7f7; border:1px solid var(--gg-border); border-radius:8px; padding:2px 6px; }
