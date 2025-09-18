@@ -1,5 +1,8 @@
 title: Guild of Golf — Daily Deals
 description: Automated daily posts with curated golf gear search links. Some links may be monetized via affiliate programs.
 theme: minima
+plugins:
+  - jekyll-feed
+  
 paginate: 5
 paginate_path: "/page:num/"
