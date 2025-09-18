@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Titleist Golf Balls: Performance and Deals"
-date: 2025-09-18 07:00:00 +0000
+date: 2025-09-17 08:00:00 +0000
 categories: deals
 ---
 
