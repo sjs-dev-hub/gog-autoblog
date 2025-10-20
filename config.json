@@ -1,10 +1,70 @@
 {
   "siteTitle": "Guild of Golf — Daily Deals",
   "amazonTag": "guildofgolfde-20",
+
+  "minCategories": 3,
+  "maxCategories": 4,
+  "minItems": 3,
+  "maxItems": 5,
+  "itemsPerCategory": 5,
+
+  "requiredCategories": ["Drivers by Budget"],
+  "bannedTerms": [],
+  "categoryWeights": {
+    "Drivers by Budget": 2,
+    "Balls & Accessories": 1,
+    "Training & Tech": 1,
+    "Irons & Wedges": 1
+  },
+  "termLabels": {
+    "golf balls 3 piece": "3-piece balls",
+    "gap wedge 50": "50° gap wedges"
+  },
+  "searchOverrides": {
+    "gap wedge 50": "gap wedge 50 degree",
+    "swing tempo trainer": "golf swing tempo trainer"
+  },
+
   "categories": [
-    { "title": "Drivers by Budget", "terms": ["driver under $300", "driver under $500", "best game improvement driver"] },
-    { "title": "Balls & Accessories", "terms": ["pro v1 deals", "golf balls 3 piece", "alignment sticks", "swing tempo trainer"] },
-    { "title": "Training & Tech", "terms": ["golf launch monitor", "swing analyzer", "putting mat"] },
-    { "title": "Irons & Wedges", "terms": ["players distance irons", "forged irons", "gap wedge 50"] }
+    {
+      "title": "Drivers by Budget",
+      "terms": [
+        "driver under $300",
+        "driver under $500",
+        "best game improvement driver",
+        "high MOI driver",
+        "draw bias driver"
+      ]
+    },
+    {
+      "title": "Balls & Accessories",
+      "terms": [
+        "pro v1 deals",
+        "golf balls 3 piece",
+        "alignment sticks",
+        "swing tempo trainer",
+        "winter golf balls yellow"
+      ]
+    },
+    {
+      "title": "Training & Tech",
+      "terms": [
+        "golf launch monitor",
+        "swing analyzer",
+        "putting mat",
+        "putting mirror",
+        "impact bag"
+      ]
+    },
+    {
+      "title": "Irons & Wedges",
+      "terms": [
+        "players distance irons",
+        "forged irons",
+        "gap wedge 50",
+        "raw wedge",
+        "hollow body irons"
+      ]
+    }
   ]
 }
