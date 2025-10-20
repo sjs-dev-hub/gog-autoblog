@@ -15,7 +15,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checkout main branch with history so rebase works
+      # Checkout main with full history so rebase works
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -29,15 +29,17 @@ jobs:
       - name: Install dependencies
         run: npm ci || npm i
 
-      # ✅ Compute a truly unique suffix for THIS run
-      #    Use run_id (globally unique) + HHMMSS for readability
+      # ✅ Compute a truly unique suffix for THIS run.
+      # Uses run_id + run_attempt + time + random bytes for extremely low collision risk.
       - name: Compute unique suffix for manual run
-        run: echo "SLUG_SUFFIX=extra-${{ github.run_id }}-$(date -u +%H%M%S)" >> $GITHUB_ENV
+        run: |
+          RAND=$(head -c8 /dev/urandom | od -An -tx1 | tr -d ' \n')
+          echo "SLUG_SUFFIX=extra-${{ github.run_id }}-${{ github.run_attempt }}-$(date -u +%H%M%S)-$RAND" >> $GITHUB_ENV
 
       - name: Show suffix (debug)
         run: echo "SLUG_SUFFIX=$SLUG_SUFFIX"
 
-      # Run bot (reads SLUG_SUFFIX from env)
+      # Run bot (reads SLUG_SUFFIX from env and generates a unique post)
       - name: Run content bot (manual)
         run: node bot.js
 
