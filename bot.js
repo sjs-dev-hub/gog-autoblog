@@ -1,10 +1,23 @@
+// bot.js
+// Guild of Golf — Daily Deals content generator
+// - Non-redundant titles/slugs
+// - Randomized copy per topic
+// - Same-day duplicate-prevention
+// - Works with or without a GPT draft step
+
 const fs = require('fs');
 const path = require('path');
 
 /* =========================
-   Load config (unchanged)
+   Load config
    ========================= */
 const cfg = JSON.parse(fs.readFileSync(path.join(__dirname, 'config.json'), 'utf8'));
+
+// normalize/unique each category's terms defensively
+cfg.categories = (cfg.categories || []).map(c => ({
+  title: String(c.title || '').trim(),
+  terms: Array.from(new Set((c.terms || []).map(t => String(t).trim()).filter(Boolean)))
+}));
 
 /* =========================
    Utilities
@@ -23,7 +36,7 @@ function utcParts(d = new Date()) {
 function toSlug(s) {
   return String(s)
     .toLowerCase()
-    .replace(/\s*\$\s*/g, '')         // normalize “$300”
+    .replace(/\s*\$\s*/g, '')         // remove $ spacing
     .replace(/[^a-z0-9]+/g, '-')      // non-alnum -> hyphen
     .replace(/-+/g, '-')              // collapse
     .replace(/^-|-$/g, '');           // trim
@@ -234,12 +247,12 @@ const POOLS = {
       "Price vs review count",
       "Model year / tech carryover",
       "Sizing/fit & returns",
-      "Prime/fast shipping if timing matters"
+      "Fast shipping if timing matters"
     ]
   }
 };
 
-// Map terms → pools (themes). Expand as you add terms.
+// Term → theme mapping
 function themeFor(term) {
   const t = term.toLowerCase();
   if (t.includes('pro v1')) return 'BALL_TOUR';
@@ -256,7 +269,7 @@ function themeFor(term) {
   return 'GENERIC';
 }
 
-// Compose fresh paragraph + checklist per term using pools.
+// Compose fresh paragraph + checklist per term using pools
 function blurbFor(term, rng) {
   const pool = POOLS[themeFor(term)] || POOLS.GENERIC;
   const sCount = 2 + Math.floor(rng() * 2); // 2–3 sentences
@@ -267,7 +280,90 @@ function blurbFor(term, rng) {
 }
 
 /* =========================
-   Article templates
+   Canonicalization & de-duplication
+   ========================= */
+function canonicalLabel(term) {
+  const t = term.toLowerCase();
+  if (t.includes('driver') && t.includes('$300')) return 'drivers ≤ $300';
+  if (t.includes('driver') && t.includes('$500')) return 'drivers ≤ $500';
+  if (t.includes('game improvement') && t.includes('driver')) return 'GI drivers';
+  if (t.includes('pro v1')) return 'Pro V1 balls';
+  if (t.includes('3 piece') || t.includes('3-piece')) return '3-piece balls';
+  if (t.includes('alignment')) return 'alignment sticks';
+  if (t.includes('tempo')) return 'tempo trainers';
+  if (t.includes('launch monitor')) return 'launch monitors';
+  if (t.includes('players distance irons')) return 'players-distance irons';
+  if (t.includes('forged irons')) return 'forged irons';
+  if (t.includes('gap wedge') || t.includes(' 50')) return '50° gap wedges';
+  return humanize(term).toLowerCase();
+}
+function conflictKey(term) {
+  const t = term.toLowerCase();
+  if (t.includes('driver') && (t.includes('$300') || t.includes('$500') || t.includes('game improvement')))
+    return 'driver-tier';
+  if (t.includes('pro v1') || t.includes('3 piece') || t.includes('3-piece'))
+    return 'ball-family';
+  return null;
+}
+function dedupeConflicts(terms, rng) {
+  const byGroup = new Map();
+  const rest = [];
+
+  for (const term of terms) {
+    const key = conflictKey(term);
+    if (!key) { rest.push(term); continue; }
+    if (!byGroup.has(key)) byGroup.set(key, []);
+    byGroup.get(key).push(term);
+  }
+
+  const resolved = [];
+  for (const [key, list] of byGroup.entries()) {
+    if (key === 'driver-tier') {
+      const has500 = list.some(t => t.includes('$500'));
+      const has300 = list.some(t => t.includes('$300'));
+      const hasGI  = list.some(t => t.includes('game improvement'));
+      if (has500 && has300) { resolved.push(list.find(t => t.includes('$500'))); }
+      else if ((has500 || has300) && hasGI) {
+        resolved.push(list.find(t => t.includes('$500') || t.includes('$300')));
+      } else {
+        resolved.push(list[Math.floor(rng() * list.length)]);
+      }
+    } else if (key === 'ball-family') {
+      const pro = list.find(t => t.toLowerCase().includes('pro v1'));
+      resolved.push(pro || list[Math.floor(rng() * list.length)]);
+    } else {
+      resolved.push(list[Math.floor(rng() * list.length)]);
+    }
+  }
+  return [...rest, ...resolved];
+}
+function buildNiceTitle(siteTitle, y, m, d, chosenTerms) {
+  const labels = [];
+  const seen = new Set();
+  for (const t of chosenTerms) {
+    const label = canonicalLabel(t);
+    if (!seen.has(label)) { seen.add(label); labels.push(label); }
+    if (labels.length >= 3) break;
+  }
+  const dateStr = `${y}-${m}-${d}`;
+  const suffix = labels.length ? `: ${labels.join(', ')}` : '';
+  return `${siteTitle || 'Daily Golf Deals'} — ${dateStr}${suffix}`;
+}
+function buildNiceSlug(y, m, d, chosenTerms) {
+  const labels = [];
+  const seen = new Set();
+  for (const t of chosenTerms) {
+    const label = canonicalLabel(t);
+    if (!seen.has(label)) { seen.add(label); labels.push(label); }
+    if (labels.length >= 5) break;
+  }
+  let base = `golf-deals-${labels.map(l => toSlug(l)).join('-')}`;
+  if (base.length > 80) base = base.slice(0, 80).replace(/-+[^-]*$/, '');
+  return `${y}-${m}-${d}-${base}.md`;
+}
+
+/* =========================
+   Article scaffolding
    ========================= */
 const INTRO = [
   `If you want value without doom-scrolling, start here. We explain what to compare, then link straight into high-intent searches.`,
@@ -314,9 +410,14 @@ const OUTRO = [
       return { title: cat.title, terms: sampleN(cat.terms || [], k, rng) };
     });
 
+    // Shuffle sections for variety
     sections = shuffle(sections, mulberry32(hash32(seedStr) ^ 0x9e3779b1));
 
     flatTerms = sections.flatMap(s => s.terms);
+    // De-duplicate overlapping/near-duplicate topics (driver tiers, ball families, etc.)
+    flatTerms = dedupeConflicts(flatTerms, rng);
+
+    // Signature for same-day duplicate check
     const termKey = flatTerms.map(t => toSlug(t)).sort().join('|');
     sig = `sig:${hash32(termKey).toString(16)}`;
 
@@ -330,31 +431,27 @@ const OUTRO = [
     attempt++; seedStr += `::${attempt}`;
   }
 
-  // slug & title
-  const slugBits = flatTerms.slice(0, 6).map(toSlug).filter(Boolean);
-  let baseSlug = slugBits.length ? `golf-deals-${slugBits.join('-')}` : 'golf-deals';
-  if (baseSlug.length > 80) baseSlug = baseSlug.slice(0, 80).replace(/-+[^-]*$/, '');
-
-  let filename = `${y}-${m}-${day}-${baseSlug}.md`;
+  // Build title & slug using canonicalized labels
+  const postTitle = buildNiceTitle(cfg.siteTitle, y, m, day, flatTerms);
+  let filename = buildNiceSlug(y, m, day, flatTerms);
   const full = (n) => path.join(postsDir, n);
   if (fs.existsSync(full(filename))) {
     const nonce = Math.random().toString(36).slice(2, 6);
-    filename = `${y}-${m}-${day}-${baseSlug}-${nonce}.md`;
+    filename = filename.replace(/\.md$/, `-${nonce}.md`);
   }
 
+  // Date in front-matter: daily = 07:00 UTC; manual = now
   const fmTime = suffixRaw ? `${y}-${m}-${day} ${hh}:${mm}:00 +0000`
                            : `${y}-${m}-${day} 07:00:00 +0000`;
 
-  const titleBits = flatTerms.slice(0, 3).map(humanize);
-  const titleTail = titleBits.length ? `: ${titleBits.join(', ')}` : '';
+  // Compose article
   const intro = INTRO[hash32(seedStr) % INTRO.length];
   const bridge = BRIDGE[(hash32(seedStr) + 7) % BRIDGE.length];
   const outro = OUTRO[(hash32(seedStr) + 13) % OUTRO.length];
 
-  // Compose article
   let md = `---\n`;
   md += `layout: post\n`;
-  md += `title: "${(cfg.siteTitle || 'Daily Golf Deals')} — ${dateKey}${titleTail}"\n`;
+  md += `title: "${postTitle}"\n`;
   md += `date: ${fmTime}\n`;
   md += `categories: deals\n`;
   md += `---\n\n`;
@@ -362,8 +459,14 @@ const OUTRO = [
   md += `<!-- ${sig} -->\n\n`;
   md += `${intro} ${bridge}\n\n`;
 
+  // Render sections & randomized blurbs
   sections.forEach((sec, i) => {
+    // Skip sections that lost all terms after de-dupe
+    const keptTerms = sec.terms.filter(t => flatTerms.includes(t));
+    if (!keptTerms.length) return;
+
     md += `### ${sec.title}\n\n`;
+
     const leadIns = [
       (t) => `**${t}.** A fast way to compare current options and pricing:`,
       (t) => `**${t}.** Use these filters when you want clarity, not clutter:`,
@@ -371,9 +474,9 @@ const OUTRO = [
     ];
     md += `${leadIns[(hash32(seedStr + i) % leadIns.length)](sec.title)}\n\n`;
 
-    for (const term of sec.terms) {
+    for (const term of keptTerms) {
       const t = humanize(term);
-      const info = blurbFor(term, rng);  // <<< randomized paragraph + checklist
+      const info = blurbFor(term, rng);
       md += `**${t}.** ${info.paragraph}\n\n`;
       md += `_What to compare:_\n`;
       for (const item of info.checklist) md += `- ${item}\n`;
