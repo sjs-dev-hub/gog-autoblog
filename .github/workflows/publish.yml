@@ -1,22 +1,46 @@
 name: Publish Daily Post
+
 on:
   schedule:
     - cron: "0 7 * * *"   # daily at 07:00 UTC
-  workflow_dispatch:       # manual trigger
+  workflow_dispatch: {}    # optional manual kick for testing
+
+permissions:
+  contents: write
+
+# Serialize with the manual workflow so they don't collide
+concurrency:
+  group: publish-main
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npm ci || npm i
-      - run: node bot.js
+
+      - name: Install deps
+        run: npm ci || npm i
+
+      # No SLUG_SUFFIX here → bot.js will treat it as the 07:00 UTC daily
+      - name: Generate post
+        run: node bot.js
+
       - name: Commit & Push
         run: |
+          set -e
           git config user.name "gog-bot"
           git config user.email "bot@users.noreply.github.com"
           git add _posts/*.md || true
           git commit -m "Auto post $(date -u +'%Y-%m-%d')" || echo "No changes"
-          git push
+          # Rebase prevents a push rejection if a manual publish just landed
+          git pull --rebase origin main || true
+          git push origin main
