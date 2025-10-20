@@ -6,6 +6,7 @@ on:
 permissions:
   contents: write
 
+# Avoid colliding with the daily job
 concurrency:
   group: publish-main
   cancel-in-progress: false
@@ -14,6 +15,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout main branch with history so rebase works
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -27,16 +29,19 @@ jobs:
       - name: Install dependencies
         run: npm ci || npm i
 
-      # Clean, readable suffix like "extra-0736"
+      # ✅ Compute a truly unique suffix for THIS run
+      #    Use run_id (globally unique) + HHMMSS for readability
       - name: Compute unique suffix for manual run
-        run: echo "SLUG_SUFFIX=extra-$(date -u +%H%M)" >> $GITHUB_ENV
+        run: echo "SLUG_SUFFIX=extra-${{ github.run_id }}-$(date -u +%H%M%S)" >> $GITHUB_ENV
 
       - name: Show suffix (debug)
         run: echo "SLUG_SUFFIX=$SLUG_SUFFIX"
 
+      # Run bot (reads SLUG_SUFFIX from env)
       - name: Run content bot (manual)
         run: node bot.js
 
+      # Commit & push safely (rebase to avoid non-fast-forward)
       - name: Commit & Push
         run: |
           set -e
