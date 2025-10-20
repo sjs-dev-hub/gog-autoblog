@@ -6,7 +6,6 @@ on:
 permissions:
   contents: write
 
-# Prevent collisions with your daily job
 concurrency:
   group: publish-main
   cancel-in-progress: false
@@ -14,39 +13,30 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1) Check out main with full history so rebase works
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
 
-      # 2) Node setup
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      # 3) Install deps
       - name: Install dependencies
         run: npm ci || npm i
 
-      # 4) Compute a unique suffix for THIS manual run
-      #    (Write it to $GITHUB_ENV so later steps inherit it;
-      #     the $(date ...) is expanded by the shell here.)
+      # Clean, readable suffix like "extra-0736"
       - name: Compute unique suffix for manual run
-        run: echo "SLUG_SUFFIX=manual-${{ github.run_number }}-$(date -u +%H%M%S)" >> $GITHUB_ENV
+        run: echo "SLUG_SUFFIX=extra-$(date -u +%H%M)" >> $GITHUB_ENV
 
-      # 5) Optional: show the suffix in logs (good for debugging)
       - name: Show suffix (debug)
         run: echo "SLUG_SUFFIX=$SLUG_SUFFIX"
 
-      # 6) Run your bot (it will read SLUG_SUFFIX from env)
       - name: Run content bot (manual)
         run: node bot.js
 
-      # 7) Commit & push (with rebase to avoid non-fast-forward)
       - name: Commit & Push
         run: |
           set -e
@@ -56,6 +46,5 @@ jobs:
           git add _posts/*.md || true
           git commit -m "Manual post $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
 
-          # If the daily workflow committed just now, rebase onto it
           git pull --rebase origin main || true
           git push origin main
