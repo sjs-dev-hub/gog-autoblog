@@ -1,9 +1,14 @@
 // bot.js
 // Guild of Golf — Daily Deals content generator
-// - Optional OpenAI paragraphs (USE_AI=1, OPENAI_API_KEY set) with safe fallback
 // - Non-redundant titles/slugs
 // - Randomized copy per topic
 // - Same-day duplicate-prevention
+// - Optional AI paragraphs via OpenAI (env-driven)
+
+// --------------------------------------------------
+// Optional: load .env locally; CI ignores if not present
+try { require('dotenv').config(); } catch (_) {}
+// --------------------------------------------------
 
 const fs = require('fs');
 const path = require('path');
@@ -89,56 +94,7 @@ function sampleDistinct(arr, k, rng) {
 }
 
 /* =========================
-   OPTIONAL OpenAI (lazy)
-   ========================= */
-let openai = null;
-async function getOpenAI() {
-  if (process.env.USE_AI !== '1') return null;
-  if (openai) return openai;
-  const apiKey = process.env.OPENAI_API_KEY;
-  if (!apiKey) return null;
-  // dynamic import to work in CommonJS
-  const { default: OpenAI } = await import('openai');
-  openai = new OpenAI({ apiKey });
-  return openai;
-}
-
-// Ask the model for one concise paragraph (80–140 words) per term
-async function aiBlurb(term) {
-  const client = await getOpenAI();
-  if (!client) return null;
-
-  const model = process.env.OPENAI_MODEL || 'gpt-4o-mini';
-  const maxTokens = Number(process.env.OPENAI_MAXTOKENS || 700);
-
-  const prompt = [
-    "You are a golf gear expert writing deal-focused micro-guides.",
-    "Write ONE concise paragraph (80–140 words) that helps a shopper compare options quickly.",
-    "Avoid brand endorsements; focus on specs, fit, forgiveness, feel, and value checks.",
-    "No prices, no emojis. US audience.",
-    `Topic: ${term}`
-  ].join('\n');
-
-  try {
-    const res = await client.chat.completions.create({
-      model,
-      temperature: 0.7,
-      max_tokens: maxTokens,
-      messages: [
-        { role: "system", content: "You write succinct, impartial buying guidance for golfers." },
-        { role: "user", content: prompt }
-      ]
-    });
-    const text = res.choices?.[0]?.message?.content?.trim();
-    return text || null;
-  } catch (err) {
-    console.warn('AI blurb failed:', err?.message || err);
-    return null;
-  }
-}
-
-/* =========================
-   Randomized content pools
+   Randomized content pools (fallback)
    ========================= */
 const POOLS = {
   DRIVER_BUDGET: {
@@ -313,7 +269,7 @@ function themeFor(term) {
   if (t.includes('tempo')) return 'TRAINING_TEMPO';
   if (t.includes('launch monitor')) return 'TECH_LAUNCH_MONITOR';
   if (t.includes('players distance')) return 'IRONS_PLAYERS_DISTANCE';
-  if (t.includes('forged')) return 'IRONS_FORGED';
+  if (t.includes('forged irons') || (t.includes('forged') && t.includes('iron'))) return 'IRONS_FORGED';
   if (t.includes('gap wedge') || t.includes(' 50')) return 'WEDGE_GAP_50';
   return 'GENERIC';
 }
@@ -402,6 +358,74 @@ function buildNiceSlug(y, m, d, chosenTerms) {
 }
 
 /* =========================
+   AI loader + blurb generator (AI-first, fallback to pools)
+   ========================= */
+let _openai = null;
+async function getOpenAI() {
+  if (process.env.USE_AI !== '1') return null;
+  const key = process.env.OPENAI_API_KEY;
+  if (!key) return null;
+  if (_openai) return _openai;
+  const { default: OpenAI } = await import('openai');
+  _openai = new OpenAI({ apiKey: key });
+  return _openai;
+}
+
+async function blurbFor(term, rng) {
+  const ai = await getOpenAI();
+  const t = humanize(term);
+
+  // Try AI JSON output first (kept small/cheap)
+  if (ai) {
+    try {
+      const model = process.env.OPENAI_MODEL || 'gpt-4o-mini';
+      const maxTokens = Number(process.env.OPENAI_MAXTOKENS || 700);
+
+      const system = `
+You are a concise golf-gear expert writing buyer advice.
+Return strict JSON: {"paragraph":"...", "checklist":["...","...","..."]}.
+- 1 paragraph (80-120 words), practical, no hype.
+- 4-5 checklist bullet fragments, actionable, no trailing periods.
+- Do NOT include prices or brand claims; stay evergreen.
+      `.trim();
+
+      const user = `
+Topic: ${t}
+Context categories you might cover: drivers, balls, training aids, launch monitors, irons, wedges.
+      `.trim();
+
+      const resp = await ai.chat.completions.create({
+        model,
+        temperature: 0.7,
+        max_tokens: maxTokens,
+        response_format: { type: "json_object" },
+        messages: [
+          { role: "system", content: system },
+          { role: "user", content: user }
+        ]
+      });
+
+      const content = resp.choices?.[0]?.message?.content || "{}";
+      const data = JSON.parse(content);
+      if (data.paragraph && Array.isArray(data.checklist) && data.checklist.length) {
+        const bullets = data.checklist.slice(0, 5).map(s => String(s).trim()).filter(Boolean);
+        return { paragraph: String(data.paragraph).trim(), checklist: bullets };
+      }
+    } catch (_) {
+      // Any API/JSON error—fall through to pools
+    }
+  }
+
+  // Deterministic fallback using POOLS
+  const pool = POOLS[themeFor(term)] || POOLS.GENERIC;
+  const sCount = 2 + Math.floor(rng() * 2);  // 2–3 sentences
+  const bCount = 3 + Math.floor(rng() * 3);  // 3–5 bullets
+  const sentences = sampleDistinct(pool.sentences, sCount, rng);
+  const bullets = sampleDistinct(pool.checklist, bCount, rng);
+  return { paragraph: sentences.join(' '), checklist: bullets };
+}
+
+/* =========================
    Article scaffolding
    ========================= */
 const INTRO = [
@@ -439,19 +463,13 @@ const OUTRO = [
   while (attempt < 8) {
     rng = mulberry32(hash32(seedStr));
 
-    // Category and term sampling
-    const minCats = Number(cfg.minCategories || 3);
-    const maxCats = Number(cfg.maxCategories || 4);
-    const numCats = Math.max(minCats, Math.min(maxCats, minCats + Math.floor(rng() * (maxCats - minCats + 1))));
+    const numCats = 3 + Math.floor(rng() * 2); // 3–4 categories
     const chosenCats = sampleN(cfg.categories, numCats, rng);
 
-    const MIN_ITEMS = Number(cfg.minItems || 3);
-    const MAX_ITEMS = Number(cfg.maxItems || cfg.itemsPerCategory || 5);
-
+    const MAX_ITEMS = Number(cfg.itemsPerCategory || 5);
     sections = chosenCats.map(cat => {
-      const maxItems = Math.min(5, MAX_ITEMS, (cat.terms || []).length || 0);
-      const minItems = Math.min(MIN_ITEMS, maxItems);
-      const k = Math.max(minItems, Math.min(maxItems, MIN_ITEMS + Math.floor(rng() * Math.max(1, (maxItems - MIN_ITEMS + 1)))));
+      const minItems = 3, maxItems = Math.min(5, MAX_ITEMS, (cat.terms || []).length || 0);
+      const k = Math.max(minItems, Math.min(maxItems, 3 + Math.floor(rng() * 3))); // 3–5
       return { title: cat.title, terms: sampleN(cat.terms || [], k, rng) };
     });
 
@@ -504,9 +522,11 @@ const OUTRO = [
   md += `<!-- ${sig} -->\n\n`;
   md += `${intro} ${bridge}\n\n`;
 
-  // Render sections & paragraphs
+  // Render sections & randomized blurbs
   for (let i = 0; i < sections.length; i++) {
     const sec = sections[i];
+
+    // Skip sections that lost all terms after de-dupe
     const keptTerms = sec.terms.filter(t => flatTerms.includes(t));
     if (!keptTerms.length) continue;
 
