@@ -1,9 +1,9 @@
 // bot.js
 // Guild of Golf — Daily Deals content generator
+// - Optional OpenAI paragraphs (USE_AI=1, OPENAI_API_KEY set) with safe fallback
 // - Non-redundant titles/slugs
 // - Randomized copy per topic
 // - Same-day duplicate-prevention
-// - Works with or without a GPT draft step
 
 const fs = require('fs');
 const path = require('path');
@@ -86,6 +86,55 @@ function sampleDistinct(arr, k, rng) {
     used.add(i); out.push(arr[i]);
   }
   return out;
+}
+
+/* =========================
+   OPTIONAL OpenAI (lazy)
+   ========================= */
+let openai = null;
+async function getOpenAI() {
+  if (process.env.USE_AI !== '1') return null;
+  if (openai) return openai;
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) return null;
+  // dynamic import to work in CommonJS
+  const { default: OpenAI } = await import('openai');
+  openai = new OpenAI({ apiKey });
+  return openai;
+}
+
+// Ask the model for one concise paragraph (80–140 words) per term
+async function aiBlurb(term) {
+  const client = await getOpenAI();
+  if (!client) return null;
+
+  const model = process.env.OPENAI_MODEL || 'gpt-4o-mini';
+  const maxTokens = Number(process.env.OPENAI_MAXTOKENS || 700);
+
+  const prompt = [
+    "You are a golf gear expert writing deal-focused micro-guides.",
+    "Write ONE concise paragraph (80–140 words) that helps a shopper compare options quickly.",
+    "Avoid brand endorsements; focus on specs, fit, forgiveness, feel, and value checks.",
+    "No prices, no emojis. US audience.",
+    `Topic: ${term}`
+  ].join('\n');
+
+  try {
+    const res = await client.chat.completions.create({
+      model,
+      temperature: 0.7,
+      max_tokens: maxTokens,
+      messages: [
+        { role: "system", content: "You write succinct, impartial buying guidance for golfers." },
+        { role: "user", content: prompt }
+      ]
+    });
+    const text = res.choices?.[0]?.message?.content?.trim();
+    return text || null;
+  } catch (err) {
+    console.warn('AI blurb failed:', err?.message || err);
+    return null;
+  }
 }
 
 /* =========================
@@ -269,16 +318,6 @@ function themeFor(term) {
   return 'GENERIC';
 }
 
-// Compose fresh paragraph + checklist per term using pools
-function blurbFor(term, rng) {
-  const pool = POOLS[themeFor(term)] || POOLS.GENERIC;
-  const sCount = 2 + Math.floor(rng() * 2); // 2–3 sentences
-  const bCount = 3 + Math.floor(rng() * 3); // 3–5 bullets
-  const sentences = sampleDistinct(pool.sentences, sCount, rng);
-  const bullets   = sampleDistinct(pool.checklist, bCount, rng);
-  return { paragraph: sentences.join(' '), checklist: bullets };
-}
-
 /* =========================
    Canonicalization & de-duplication
    ========================= */
@@ -383,7 +422,7 @@ const OUTRO = [
 /* =========================
    Main
    ========================= */
-(function main () {
+(async function main () {
   const now = new Date();
   const { y, m, day, hh, mm } = utcParts(now);
   const dateKey = `${y}-${m}-${day}`;
@@ -400,13 +439,19 @@ const OUTRO = [
   while (attempt < 8) {
     rng = mulberry32(hash32(seedStr));
 
-    const numCats = 3 + Math.floor(rng() * 2); // 3–4 categories
+    // Category and term sampling
+    const minCats = Number(cfg.minCategories || 3);
+    const maxCats = Number(cfg.maxCategories || 4);
+    const numCats = Math.max(minCats, Math.min(maxCats, minCats + Math.floor(rng() * (maxCats - minCats + 1))));
     const chosenCats = sampleN(cfg.categories, numCats, rng);
 
-    const MAX_ITEMS = Number(cfg.itemsPerCategory || 5);
+    const MIN_ITEMS = Number(cfg.minItems || 3);
+    const MAX_ITEMS = Number(cfg.maxItems || cfg.itemsPerCategory || 5);
+
     sections = chosenCats.map(cat => {
-      const minItems = 3, maxItems = Math.min(5, MAX_ITEMS, (cat.terms || []).length || 0);
-      const k = Math.max(minItems, Math.min(maxItems, 3 + Math.floor(rng() * 3))); // 3–5
+      const maxItems = Math.min(5, MAX_ITEMS, (cat.terms || []).length || 0);
+      const minItems = Math.min(MIN_ITEMS, maxItems);
+      const k = Math.max(minItems, Math.min(maxItems, MIN_ITEMS + Math.floor(rng() * Math.max(1, (maxItems - MIN_ITEMS + 1)))));
       return { title: cat.title, terms: sampleN(cat.terms || [], k, rng) };
     });
 
@@ -459,11 +504,11 @@ const OUTRO = [
   md += `<!-- ${sig} -->\n\n`;
   md += `${intro} ${bridge}\n\n`;
 
-  // Render sections & randomized blurbs
-  sections.forEach((sec, i) => {
-    // Skip sections that lost all terms after de-dupe
+  // Render sections & paragraphs
+  for (let i = 0; i < sections.length; i++) {
+    const sec = sections[i];
     const keptTerms = sec.terms.filter(t => flatTerms.includes(t));
-    if (!keptTerms.length) return;
+    if (!keptTerms.length) continue;
 
     md += `### ${sec.title}\n\n`;
 
@@ -476,13 +521,13 @@ const OUTRO = [
 
     for (const term of keptTerms) {
       const t = humanize(term);
-      const info = blurbFor(term, rng);
+      const info = await blurbFor(term, rng); // may use AI or fallback
       md += `**${t}.** ${info.paragraph}\n\n`;
       md += `_What to compare:_\n`;
       for (const item of info.checklist) md += `- ${item}\n`;
       md += `\n➡️  [See ${t} on Amazon](${amazonSearch(term, cfg.amazonTag)})\n\n`;
     }
-  });
+  }
 
   md += `${outro}\n`;
 
