@@ -39,8 +39,13 @@ jobs:
       - name: Show suffix (debug)
         run: echo "SLUG_SUFFIX=$SLUG_SUFFIX"
 
-      # Run bot (reads SLUG_SUFFIX from env and generates a unique post)
+      # 🧠 Run content bot with OpenAI integration
       - name: Run content bot (manual)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          USE_AI: "1"
+          OPENAI_MODEL: "gpt-4o-mini"
+          OPENAI_MAXTOKENS: "700"
         run: node bot.js
 
       # Commit & push safely (rebase to avoid non-fast-forward)
