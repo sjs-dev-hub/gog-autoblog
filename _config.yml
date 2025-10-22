@@ -1,8 +1,28 @@
+# _config.yml
 title: Guild of Golf — Daily Deals
 description: Automated daily posts with curated golf gear search links. Some links may be monetized via affiliate programs.
+
+# Theme
 theme: minima
+
+# Plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
-  
+  - jekyll-paginate
+
+# Pagination
 paginate: 5
 paginate_path: "/page:num/"
+
+# Make sure Markdown allows raw/block HTML (needed for Amazon widget <script> blocks)
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true      # <-- keeps multi-line <script> and other block HTML
+  hard_wrap: false
+  syntax_highlighter_opts:
+    disable: true
+
+# (Optional but recommended) set site URL for proper canonical links/RSS
+# url: "https://deals.guildofgolf.com"
+# baseurl: ""  # keep empty if site is at the domain root
