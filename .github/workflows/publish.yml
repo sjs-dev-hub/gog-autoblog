@@ -3,12 +3,11 @@ name: Publish Daily Post
 on:
   schedule:
     - cron: "0 7 * * *"   # runs every day at 07:00 UTC
-  workflow_dispatch: {}    # optional: lets you trigger this same job manually
+  workflow_dispatch: {}    # optional: trigger daily manually
 
 permissions:
   contents: write
 
-# Serialize with the manual publisher to avoid push collisions
 concurrency:
   group: publish-main
   cancel-in-progress: false
@@ -30,13 +29,13 @@ jobs:
       - name: Install dependencies
         run: npm ci || npm i
 
-      # No SLUG_SUFFIX here → bot.js treats this as the 07:00 UTC "daily" post
+      # Daily run: no SLUG_SUFFIX on purpose
       - name: Run content bot (daily)
         env:
+          USE_AI: "1"
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          USE_AI: "1"                 # set to "0" to disable AI paragraphs
-          OPENAI_MODEL: "gpt-4o-mini" # balanced cost/quality
-          OPENAI_MAXTOKENS: "700"     # cap tokens per request to control spend
+          OPENAI_MODEL: "gpt-4o-mini"
+          OPENAI_MAXTOKENS: "700"
         run: node bot.js
 
       - name: Commit & Push
@@ -44,10 +43,7 @@ jobs:
           set -e
           git config user.name "gog-bot"
           git config user.email "bot@users.noreply.github.com"
-
           git add _posts/*.md || true
           git commit -m "Auto post $(date -u +'%Y-%m-%d')" || echo "No changes"
-
-          # Rebase prevents non-fast-forward if a manual post just landed
           git pull --rebase origin main || true
           git push origin main
