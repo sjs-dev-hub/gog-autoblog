@@ -1,1 +1,1 @@
-Pilot retry 2 requested 2026-08-14 after extending completeness checks to all reader-facing fields. Generates five review-only rewrites on an isolated branch.
+Pilot diagnostic retry requested 2026-08-14. Preserves rejected-draft diagnostics without exposing credentials.

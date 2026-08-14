@@ -28,6 +28,8 @@ jobs:
       - name: Run quality tests
         run: node --test scripts/prototype/quality.test.js
       - name: Generate non-publishing rewrites
+        id: generate
+        continue-on-error: true
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: "gpt-5.6-terra"
@@ -39,18 +41,25 @@ jobs:
             node scripts/migration/rewrite.js
           fi
       - name: Upload drafts for review
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: guild-rewrite-pilot
-          path: _drafts/rewrites/*.md
-          if-no-files-found: error
+          path: |
+            _drafts/rewrites/*.md
+            _drafts/rewrite-diagnostics/*.json
+          if-no-files-found: warn
       - name: Publish drafts to an isolated review branch
+        if: always()
         run: |
           set -e
           BRANCH="ai-rewrite-pilot-${GITHUB_RUN_ID}"
           git config user.name "gog-editorial-bot"
           git config user.email "bot@users.noreply.github.com"
           git switch -c "$BRANCH"
-          git add _drafts/rewrites/*.md
-          git commit -m "Draft five OpenAI article rewrites"
+          git add _drafts || true
+          git commit -m "Draft five OpenAI article rewrites" || exit 0
           git push origin "$BRANCH"
+      - name: Enforce rewrite quality result
+        if: steps.generate.outcome == 'failure'
+        run: exit 1

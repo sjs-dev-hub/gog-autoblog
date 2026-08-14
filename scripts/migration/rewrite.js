@@ -32,10 +32,14 @@ function parseTargets() {
 
 async function generateValidatedRewrite(brief, filename) {
   let revision = null;
+  let lastArticle = null;
+  let lastErrors = [];
   for (let attempt = 1; attempt <= 2; attempt += 1) {
     const article = await generateArticle(revision ? { ...brief, revision } : brief);
     const errors = validateArticle(article);
     if (!errors.length) return article;
+    lastArticle = article;
+    lastErrors = errors;
     console.warn(`${filename} attempt ${attempt} rejected by ${errors.length} quality check(s)`);
     revision = {
       instruction: 'Revise the complete draft to correct every listed quality error. Preserve all valid evidence boundaries and return a complete replacement JSON article.',
@@ -43,6 +47,9 @@ async function generateValidatedRewrite(brief, filename) {
       rejectedDraft: article
     };
   }
+  const diagnosticsDir = path.join(root, '_drafts', 'rewrite-diagnostics');
+  fs.mkdirSync(diagnosticsDir, { recursive: true });
+  fs.writeFileSync(path.join(diagnosticsDir, `${filename}.json`), `${JSON.stringify({ filename, errors: lastErrors, rejectedDraft: lastArticle }, null, 2)}\n`, 'utf8');
   throw new Error(`${filename} failed quality checks after two OpenAI passes`);
 }
 
