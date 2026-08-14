@@ -30,6 +30,22 @@ function parseTargets() {
   return targetIndex >= 0 ? [process.argv[targetIndex + 1]] : defaultTargets;
 }
 
+async function generateValidatedRewrite(brief, filename) {
+  let revision = null;
+  for (let attempt = 1; attempt <= 2; attempt += 1) {
+    const article = await generateArticle(revision ? { ...brief, revision } : brief);
+    const errors = validateArticle(article);
+    if (!errors.length) return article;
+    console.warn(`${filename} attempt ${attempt} rejected by ${errors.length} quality check(s)`);
+    revision = {
+      instruction: 'Revise the complete draft to correct every listed quality error. Preserve all valid evidence boundaries and return a complete replacement JSON article.',
+      qualityErrors: errors,
+      rejectedDraft: article
+    };
+  }
+  throw new Error(`${filename} failed quality checks after two OpenAI passes`);
+}
+
 (async () => {
   if (!process.env.OPENAI_API_KEY) throw new Error('OPENAI_API_KEY is required; no fallback rewrite will be created');
   fs.mkdirSync(outputDir, { recursive: true });
@@ -41,7 +57,7 @@ function parseTargets() {
     const brief = chooseBrief(filename);
     const date = filename.slice(0, 10);
     const slug = filename.slice(11, -3);
-    const article = await generateArticle({
+    const articleBrief = {
       ...brief,
       publicationDate: date,
       affiliateTag: config.amazonTag,
@@ -55,9 +71,8 @@ function parseTargets() {
           'Teach a useful decision process before presenting shopping options.'
         ]
       }
-    });
-    const errors = validateArticle(article);
-    if (errors.length) throw new Error(`${filename} failed quality checks:\n- ${errors.join('\n- ')}`);
+    };
+    const article = await generateValidatedRewrite(articleBrief, filename);
     let rendered = renderArticle(article, date, slug, config.amazonTag, { prototype: false });
     rendered = rendered.replace('categories: deals\n', `categories: deals\nmigration_target: "_posts/${filename}"\noriginal_url_preserved: true\n`);
     fs.writeFileSync(path.join(outputDir, filename), rendered, 'utf8');

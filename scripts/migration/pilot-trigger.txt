@@ -1,1 +1,1 @@
-Pilot requested 2026-08-14. Generates five review-only rewrites on an isolated branch.
+Pilot retry requested 2026-08-14 after adding a guarded OpenAI revision pass. Generates five review-only rewrites on an isolated branch.
