@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const { generateArticle } = require('../content/openai');
-const { articleText, validateArticle } = require('../prototype/quality');
+const { articleText, similarity, validateArticle } = require('../prototype/quality');
 const { renderArticle } = require('../prototype/render');
 
 const root = path.resolve(__dirname, '..', '..');
@@ -41,13 +41,17 @@ function parseTargets() {
   return targetIndex >= 0 ? [process.argv[targetIndex + 1]] : defaultTargets;
 }
 
-async function generateValidatedRewrite(brief, filename, comparisons) {
+async function generateValidatedRewrite(brief, filename, comparisons, acceptedTitles) {
   let revision = null;
   let lastArticle = null;
   let lastErrors = [];
   for (let attempt = 1; attempt <= 2; attempt += 1) {
     const article = await generateArticle(revision ? { ...brief, revision } : brief);
     const errors = validateArticle(article, comparisons);
+    for (const title of acceptedTitles) {
+      const score = similarity(article.title, title);
+      if (score >= 0.55) errors.push(`title overlaps another rewrite in this batch (${score.toFixed(2)}): ${title}`);
+    }
     if (!errors.length) return article;
     lastArticle = article;
     lastErrors = errors;
@@ -75,6 +79,7 @@ async function generateValidatedRewrite(brief, filename, comparisons) {
   if (!process.env.OPENAI_API_KEY) throw new Error('OPENAI_API_KEY is required; no fallback rewrite will be created');
   fs.mkdirSync(outputDir, { recursive: true });
   const acceptedRewrites = [];
+  const acceptedTitles = [];
   for (const [targetIndex, filename] of parseTargets().entries()) {
     if (!/^\d{4}-\d{2}-\d{2}-[a-z0-9-]+\.md$/.test(filename)) throw new Error(`Invalid target filename: ${filename}`);
     const sourcePath = path.join(postsDir, filename);
@@ -107,8 +112,9 @@ async function generateValidatedRewrite(brief, filename, comparisons) {
         distinctEditorialAngle: rewriteAngles[targetIndex % rewriteAngles.length]
       }
     };
-    const article = await generateValidatedRewrite(articleBrief, filename, comparisons.concat(acceptedRewrites));
+    const article = await generateValidatedRewrite(articleBrief, filename, comparisons.concat(acceptedRewrites), acceptedTitles);
     acceptedRewrites.push(articleText(article));
+    acceptedTitles.push(article.title);
     let rendered = renderArticle(article, date, slug, config.amazonTag, { prototype: false });
     rendered = rendered.replace('categories: deals\n', `categories: deals\nmigration_target: "_posts/${filename}"\noriginal_url_preserved: true\n`);
     fs.writeFileSync(path.join(outputDir, filename), rendered, 'utf8');
