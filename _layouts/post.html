@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post-shell" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <a class="back-link" href="{{ '/' | relative_url }}">← All gear guides</a>
+    <p class="eyebrow">{{ page.article_type | default: "Guild gear guide" | replace: "-", " " }}</p>
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {%- if page.description -%}<p class="post-dek">{{ page.description }}</p>{%- endif -%}
+    <div class="post-byline">
+      <span>Guild of Golf editorial</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+    </div>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  <aside class="app-callout">
+    <div>
+      <p class="eyebrow">More than equipment</p>
+      <h2>Find your next round with the Guild.</h2>
+      <p>Discover courses, connect with compatible golfers, and coordinate open rounds.</p>
+    </div>
+    <a class="primary-action" href="https://app.guildofgolf.com">Open the Guild app</a>
+  </aside>
+</article>

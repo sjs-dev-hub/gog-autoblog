@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="guild-shield-title guild-shield-desc">
+  <title id="guild-shield-title">Guild of Golf shield</title>
+  <desc id="guild-shield-desc">A modern forest-green shield with a cream double-G monogram.</desc>
+  <path d="M32 3 57 11v19.5C57 45.2 47.5 56 32 61 16.5 56 7 45.2 7 30.5V11L32 3Z" fill="#174d35" stroke="#fffdf9" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M16 17h32" fill="none" stroke="#e7cf8a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M31 23H22.5C16.2 23 12.5 27 12.5 33s3.7 10 10 10H32V32H23v5h3v1h-3.5c-3.1 0-5-1.8-5-5s1.9-5 5-5H31v-5Zm20 0h-8.5c-6.3 0-10 4-10 10s3.7 10 10 10H52V32h-9v5h3v1h-3.5c-3.1 0-5-1.8-5-5s1.9-5 5-5H51v-5Z" fill="#fffdf9"/>
+</svg>
