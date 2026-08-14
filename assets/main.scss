@@ -78,6 +78,9 @@ h1, h2, h3, h4 { color: var(--ink); font-weight: 800; letter-spacing: -.035em; }
 .primary-action:hover { color: white; background: var(--green-dark); text-decoration: none; }
 .secondary-action { color: var(--green); border: 1px solid #cbd8c9; background: rgba(255,255,255,.7); }
 .secondary-action:hover { background: white; text-decoration: none; }
+.post-content .primary-action { color: white; }
+.post-content .primary-action:hover { color: white; }
+.post-content .secondary-action { color: var(--green); }
 .hero-art { position: relative; overflow: hidden; margin: 0; border: 1px solid rgba(23,77,53,.16); border-radius: 30px 30px 90px 30px; background: #f7f4ea; box-shadow: 0 30px 70px rgba(23,77,53,.2); }
 .hero-art::after { content: ""; position: absolute; inset: 0; border: 1px solid rgba(255,255,255,.45); border-radius: inherit; pointer-events: none; }
 .hero-art img { display: block; width: 100%; aspect-ratio: 3/2; object-fit: cover; }
