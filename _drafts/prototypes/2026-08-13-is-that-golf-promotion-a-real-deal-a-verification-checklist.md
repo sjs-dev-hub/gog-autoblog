@@ -53,6 +53,26 @@ Prices, coupons, inventory, and seller terms can change quickly. A responsible d
 
 **Guild recommendation:** Require a source URL and verification time for every price or discount statement; omit the claim when either is unavailable.
 
+<section class="practice-plan" aria-label="Practice plan">
+
+<p class="practice-time">Try this · 10 minutes</p>
+
+## Verify a promotion in ten minutes
+
+Open the exact listing, a second seller or manufacturer reference, and a blank note for recording comparable details.
+
+<ol>
+
+<li>Record the exact model, condition, seller, included components, and return terms.</li>
+<li>Compare the same model and condition elsewhere instead of relying on the crossed-out reference price.</li>
+<li>Decide the maximum acceptable total cost before returning to the promotional page.</li>
+
+</ol>
+
+<p class="success-signal"><strong>What progress looks like:</strong> You can explain the value without relying on a countdown, an unverifiable percentage, or a different product variant.</p>
+
+</section>
+
 <section class="shopping-guide" aria-label="Shopping options">
 
 ## Put the guide to work

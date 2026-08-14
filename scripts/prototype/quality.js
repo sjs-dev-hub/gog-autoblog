@@ -39,7 +39,13 @@ function validateArticle(article, comparisons = []) {
   if (!Array.isArray(article.sources) || article.sources.length < 2) errors.push('at least two sources are required');
   if (!article.verdict?.bottomLine || !article.verdict?.bestFor || !article.verdict?.skipIf) errors.push('decision verdict is incomplete');
   if (!article.visualBrief?.concept || !article.visualBrief?.alt || !article.visualBrief?.caption) errors.push('visual brief is incomplete');
+  if (!article.practicePlan?.title || !Array.isArray(article.practicePlan?.steps) || article.practicePlan.steps.length < 3) errors.push('practice plan is incomplete');
   if (!Array.isArray(article.shoppingOptions) || article.shoppingOptions.length < 2 || article.shoppingOptions.length > 3) errors.push('two or three shopping options are required');
+  for (const option of article.shoppingOptions || []) {
+    if (/https?:|amazon\./i.test(option.query || '')) errors.push(`shopping query must be search terms, not a URL: ${option.label || 'unnamed option'}`);
+  }
+  const completeSentenceFields = [article.verdict?.bottomLine, article.verdict?.bestFor, article.verdict?.skipIf, ...(article.shoppingOptions || []).map(option => option.why)];
+  for (const value of completeSentenceFields) if (value && !/[.!?)]$/.test(value.trim())) errors.push(`truncated or incomplete sentence: ${value.slice(0, 45)}...`);
   for (const source of article.sources || []) {
     try {
       const url = new URL(source.url);

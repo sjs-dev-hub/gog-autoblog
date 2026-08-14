@@ -54,6 +54,26 @@ Manufacturers describe stability with terms such as high MOI, perimeter weightin
 
 **Guild recommendation:** Shortlist two or three conforming heads, test them with comparable shafts, and keep the current driver in the session as a baseline.
 
+<section class="practice-plan" aria-label="Practice plan">
+
+<p class="practice-time">Try this · 15 minutes</p>
+
+## Build a five-swing strike map
+
+Use your current driver, one ball model, a consistent tee height, and face spray or impact tape at a safe practice range.
+
+<ol>
+
+<li>Choose one target corridor and make five normal swings rather than trying to manufacture extra speed.</li>
+<li>Mark the strike location and note the starting direction and curve after every shot.</li>
+<li>Circle the pattern you produced most often and use that ordinary pattern as your fitting baseline.</li>
+
+</ol>
+
+<p class="success-signal"><strong>What progress looks like:</strong> You finish with a repeatable description of contact and ball flight that is more useful than your single longest drive.</p>
+
+</section>
+
 <section class="shopping-guide" aria-label="Shopping options">
 
 ## Put the guide to work

@@ -15,6 +15,7 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
     caption: 'Use the decision criteria in this guide before comparing products.'
   };
   const shoppingOptions = article.shoppingOptions || [{ label: 'Compare relevant options', query: article.title, why: 'Use the criteria above to compare the options currently available.' }];
+  const practicePlan = article.practicePlan;
   const lines = [
     '---',
     'layout: post',
@@ -49,6 +50,11 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
   }
   for (const section of article.sections) {
     lines.push(`## ${section.heading}`, '', section.body, '', `**Guild recommendation:** ${section.recommendation}`, '');
+  }
+  if (practicePlan) {
+    lines.push('<section class="practice-plan" aria-label="Practice plan">', '', `<p class="practice-time">Try this · ${practicePlan.time}</p>`, '', `## ${practicePlan.title}`, '', practicePlan.setup, '', '<ol>', '');
+    practicePlan.steps.forEach(step => lines.push(`<li>${step}</li>`));
+    lines.push('', '</ol>', '', `<p class="success-signal"><strong>What progress looks like:</strong> ${practicePlan.successSignal}</p>`, '', '</section>', '');
   }
   lines.push('<section class="shopping-guide" aria-label="Shopping options">', '', '## Put the guide to work', '', '<p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>', '', '<div class="shopping-grid">', '');
   shoppingOptions.forEach(option => {

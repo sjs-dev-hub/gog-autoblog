@@ -3,7 +3,7 @@
 const articleSchema = {
   type: 'object',
   additionalProperties: false,
-  required: ['articleType', 'title', 'description', 'audience', 'dek', 'verdict', 'visualBrief', 'shoppingOptions', 'sections', 'takeaways', 'faq', 'sources', 'affiliateDisclosure'],
+  required: ['articleType', 'title', 'description', 'audience', 'dek', 'verdict', 'visualBrief', 'practicePlan', 'shoppingOptions', 'sections', 'takeaways', 'faq', 'sources', 'affiliateDisclosure'],
   properties: {
     articleType: { type: 'string', enum: ['evergreen-guide', 'comparison', 'current-deals'] },
     title: { type: 'string', minLength: 20, maxLength: 80 },
@@ -13,17 +13,27 @@ const articleSchema = {
     verdict: {
       type: 'object', additionalProperties: false, required: ['bottomLine', 'bestFor', 'skipIf'],
       properties: {
-        bottomLine: { type: 'string', minLength: 40, maxLength: 320 },
-        bestFor: { type: 'string', minLength: 20, maxLength: 220 },
-        skipIf: { type: 'string', minLength: 20, maxLength: 220 }
+        bottomLine: { type: 'string', minLength: 40, maxLength: 500 },
+        bestFor: { type: 'string', minLength: 20, maxLength: 360 },
+        skipIf: { type: 'string', minLength: 20, maxLength: 360 }
       }
     },
     visualBrief: {
       type: 'object', additionalProperties: false, required: ['concept', 'alt', 'caption'],
       properties: {
-        concept: { type: 'string', minLength: 30, maxLength: 400 },
+        concept: { type: 'string', minLength: 30, maxLength: 700 },
         alt: { type: 'string', minLength: 20, maxLength: 180 },
         caption: { type: 'string', minLength: 20, maxLength: 220 }
+      }
+    },
+    practicePlan: {
+      type: 'object', additionalProperties: false, required: ['title', 'time', 'setup', 'steps', 'successSignal'],
+      properties: {
+        title: { type: 'string', minLength: 8, maxLength: 80 },
+        time: { type: 'string', minLength: 3, maxLength: 40 },
+        setup: { type: 'string', minLength: 25, maxLength: 300 },
+        steps: { type: 'array', minItems: 3, maxItems: 5, items: { type: 'string', minLength: 15, maxLength: 260 } },
+        successSignal: { type: 'string', minLength: 25, maxLength: 300 }
       }
     },
     shoppingOptions: {
@@ -33,7 +43,7 @@ const articleSchema = {
         properties: {
           label: { type: 'string', minLength: 8, maxLength: 80 },
           query: { type: 'string', minLength: 4, maxLength: 100 },
-          why: { type: 'string', minLength: 25, maxLength: 180 }
+          why: { type: 'string', minLength: 25, maxLength: 320 }
         }
       }
     },

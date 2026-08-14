@@ -1,6 +1,10 @@
 name: Draft Existing-Content Pilot
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/migration/pilot-trigger.txt"
   workflow_dispatch:
     inputs:
       target:
@@ -9,7 +13,7 @@ on:
         type: string
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   draft:
@@ -40,3 +44,13 @@ jobs:
           name: guild-rewrite-pilot
           path: _drafts/rewrites/*.md
           if-no-files-found: error
+      - name: Publish drafts to an isolated review branch
+        run: |
+          set -e
+          BRANCH="ai-rewrite-pilot-${GITHUB_RUN_ID}"
+          git config user.name "gog-editorial-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git switch -c "$BRANCH"
+          git add _drafts/rewrites/*.md
+          git commit -m "Draft five OpenAI article rewrites"
+          git push origin "$BRANCH"

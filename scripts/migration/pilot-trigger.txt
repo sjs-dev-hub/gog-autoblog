@@ -1,0 +1,1 @@
+Pilot requested 2026-08-14. Generates five review-only rewrites on an isolated branch.

@@ -54,6 +54,26 @@ Using both tools can be productive when the mirror provides a setup checkpoint a
 
 **Guild recommendation:** Write one measurable goal for a ten-minute session—for example, start eight of ten balls through a gate—then use only the tool that informs that goal.
 
+<section class="practice-plan" aria-label="Practice plan">
+
+<p class="practice-time">Try this · 10 minutes</p>
+
+## Run the ten-putt feedback test
+
+Choose a straight six-foot putt or an equivalent indoor target and use only the feedback tool you already own.
+
+<ol>
+
+<li>Hit five putts while tracking start line and where each ball finishes.</li>
+<li>Use the mirror or mat feedback for one specific adjustment, then reset fully before every stroke.</li>
+<li>Hit five more putts and compare the pattern rather than counting only makes.</li>
+
+</ol>
+
+<p class="success-signal"><strong>What progress looks like:</strong> The useful aid makes one observable pattern easier to repeat; if the feedback remains unclear, define a narrower practice question.</p>
+
+</section>
+
 <section class="shopping-guide" aria-label="Shopping options">
 
 ## Put the guide to work
