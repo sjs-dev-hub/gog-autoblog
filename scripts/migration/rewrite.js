@@ -13,11 +13,16 @@ const config = JSON.parse(fs.readFileSync(path.join(root, 'config.json'), 'utf8'
 const topicPlan = JSON.parse(fs.readFileSync(path.join(root, 'scripts', 'content', 'topic-plan.json'), 'utf8'));
 const defaultTargets = JSON.parse(fs.readFileSync(path.join(__dirname, 'pilot-targets.json'), 'utf8'));
 const rewriteAngles = [
-  'Choose among setup, ball-roll, and motion feedback based on the miss the golfer can actually observe.',
-  'Build a compact home-practice station for a golfer with limited floor space and short practice windows.',
-  'Create a progressive practice routine that changes tools only after a measurable success signal.',
-  'Explain which measurements are useful, which are distractions, and when simple visual feedback is enough.',
-  'Help an improving golfer decide the order in which to add practice tools instead of buying several at once.'
+  'Start with the golfer’s observable performance problem and show how to choose only the feature that addresses it.',
+  'Build a useful practice or equipment setup for a golfer with limited space, time, and tolerance for complexity.',
+  'Create a progressive improvement routine that changes equipment only after a measurable success signal.',
+  'Separate measurements that guide a decision from specifications and data that merely create noise.',
+  'Help an improving golfer decide the order in which to upgrade instead of buying several overlapping products.',
+  'Give a newer golfer a plain-language decision path without assuming advanced technique or equipment knowledge.',
+  'Show an experienced golfer how to audit current equipment before deciding that a replacement is necessary.',
+  'Explain the fitting tradeoffs and observable tests that matter more than construction labels or marketing categories.',
+  'Prevent redundant purchases by mapping the product’s job against equipment or practice tools the golfer already owns.',
+  'Evaluate long-term ownership: setup effort, durability, storage, maintenance, and whether the product will keep being used.'
 ];
 
 function bodyOf(text) { return text.replace(/^---[\s\S]*?---\s*/, ''); }
