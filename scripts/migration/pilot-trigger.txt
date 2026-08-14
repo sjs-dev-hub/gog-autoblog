@@ -1,1 +1,1 @@
-Pilot final retry requested 2026-08-14 after allowing completed quotations in the sentence validator.
+Pilot topic-routing retry requested 2026-08-14 after correcting source-to-brief scoring.

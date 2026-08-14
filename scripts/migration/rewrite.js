@@ -18,12 +18,16 @@ function titleOf(text, filename) {
   const match = text.match(/^title:\s*["']?(.*?)["']?\s*$/m);
   return match ? match[1] : filename.slice(11, -3).replace(/-/g, ' ');
 }
-function scoreBrief(filename, brief) {
-  const haystack = `${filename} ${brief.topic}`.toLowerCase();
-  return brief.topic.toLowerCase().split(/\W+/).filter(word => word.length > 4 && haystack.includes(word)).length;
+function scoreBrief(sourceText, brief) {
+  const haystack = sourceText.toLowerCase();
+  const phrases = brief.topic.toLowerCase().split(/\s+(?:versus|vs\.?|and|for|using|before|without|the|a|an|to)\s+/).filter(phrase => phrase.length > 5);
+  const words = brief.topic.toLowerCase().split(/\W+/).filter(word => word.length > 4);
+  return phrases.filter(phrase => haystack.includes(phrase)).length * 5 + words.filter(word => haystack.includes(word)).length;
 }
-function chooseBrief(filename) {
-  return topicPlan.slice().sort((a, b) => scoreBrief(filename, b) - scoreBrief(filename, a))[0];
+function chooseBrief(filename, source) {
+  const sourceText = `${titleOf(source, filename)} ${bodyOf(source).slice(0, 5000)}`;
+  const totalScore = brief => scoreBrief(filename, brief) * 4 + scoreBrief(sourceText, brief);
+  return topicPlan.slice().sort((a, b) => totalScore(b) - totalScore(a))[0];
 }
 function parseTargets() {
   const targetIndex = process.argv.indexOf('--target');
@@ -54,6 +58,13 @@ async function generateValidatedRewrite(brief, filename) {
 }
 
 (async () => {
+  if (process.argv.includes('--show-topics')) {
+    for (const filename of parseTargets()) {
+      const source = fs.readFileSync(path.join(postsDir, filename), 'utf8');
+      console.log(`${filename} -> ${chooseBrief(filename, source).topic}`);
+    }
+    return;
+  }
   if (!process.env.OPENAI_API_KEY) throw new Error('OPENAI_API_KEY is required; no fallback rewrite will be created');
   fs.mkdirSync(outputDir, { recursive: true });
   for (const filename of parseTargets()) {
@@ -61,7 +72,7 @@ async function generateValidatedRewrite(brief, filename) {
     const sourcePath = path.join(postsDir, filename);
     if (!fs.existsSync(sourcePath)) throw new Error(`Target does not exist: ${filename}`);
     const source = fs.readFileSync(sourcePath, 'utf8');
-    const brief = chooseBrief(filename);
+    const brief = chooseBrief(filename, source);
     const date = filename.slice(0, 10);
     const slug = filename.slice(11, -3);
     const articleBrief = {
