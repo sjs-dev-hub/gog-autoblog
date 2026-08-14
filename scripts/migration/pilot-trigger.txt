@@ -1,1 +1,1 @@
-Pilot diagnostic retry requested 2026-08-14. Preserves rejected-draft diagnostics without exposing credentials.
+Pilot final retry requested 2026-08-14 after allowing completed quotations in the sentence validator.

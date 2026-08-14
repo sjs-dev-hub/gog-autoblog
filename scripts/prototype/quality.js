@@ -53,7 +53,7 @@ function validateArticle(article, comparisons = []) {
     ...(article.shoppingOptions || []).map(option => option.why),
     ...(article.faq || []).map(item => item.answer)
   ];
-  for (const value of completeSentenceFields) if (value && !/[.!?)]$/.test(value.trim())) errors.push(`truncated or incomplete sentence: ${value.slice(0, 45)}...`);
+  for (const value of completeSentenceFields) if (value && !/[.!?)\]"'”’]$/.test(value.trim())) errors.push(`truncated or incomplete sentence: ${value.slice(0, 45)}...`);
   for (const source of article.sources || []) {
     try {
       const url = new URL(source.url);
