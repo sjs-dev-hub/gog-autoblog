@@ -1,1 +1,1 @@
-Pilot topic-routing retry requested 2026-08-14 after correcting source-to-brief scoring.
+Putting-cluster uniqueness pilot requested 2026-08-14 after adding archive-wide similarity checks.

@@ -1,12 +1,12 @@
 # Existing-content pilot audit
 
-Generated 2026-08-14T02:45:37.805Z. This is a repository-content audit, not a Search Console performance report. Existing URLs and dates remain untouched.
+Generated 2026-08-14T16:31:54.994Z. This is a repository-content audit, not a Search Console performance report. Existing URLs and dates remain untouched.
 
 ## Inventory
 
-- Posts analyzed: 342
-- Posts containing tracked generic language: 302
-- Posts containing malformed standalone Markdown markers: 298
+- Posts analyzed: 343
+- Posts containing tracked generic language: 301
+- Posts containing malformed standalone Markdown markers: 297
 - Posts at least 80% similar to another post by five-word shingles: 8
 
 ## First five draft-only candidates

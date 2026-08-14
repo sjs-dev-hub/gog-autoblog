@@ -7,6 +7,59 @@
     return String(value).replace(/[&<>'"]/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[character]);
   }
 
+  function searchWords(value) {
+    const ignored = new Set(['guild', 'golf', 'daily', 'deals', 'guide', 'the', 'and', 'for', 'with', 'how', 'choose']);
+    const raw = String(value).toLowerCase().match(/[a-z0-9]+/g) || [];
+    const useful = raw.filter(word => !ignored.has(word) && !/^\d+$/.test(word));
+    return useful.length ? useful : raw;
+  }
+
+  function overlap(left, right) {
+    const a = new Set(searchWords(left));
+    const b = new Set(searchWords(right));
+    if (!a.size || !b.size) return 0;
+    let shared = 0;
+    for (const word of a) if (b.has(word)) shared += 1;
+    return shared / Math.min(a.size, b.size);
+  }
+
+  function resultBucket(guide, query) {
+    const text = `${guide.title} ${guide.excerpt}`.toLowerCase();
+    const topics = ['putting mirror', 'putting mat', 'putting alignment', 'putting pace', 'launch monitor', 'swing analyzer', 'tempo trainer', 'alignment sticks', 'golf balls', 'driver fitting', 'driver loft', 'draw bias', 'game improvement irons', 'wedge gaps'];
+    return topics.find(topic => text.includes(topic)) || searchWords(query)[0] || 'general';
+  }
+
+  function rankGuides(guides, query, limit = 8) {
+    const normalizedQuery = query.trim().toLowerCase();
+    const queryWords = searchWords(normalizedQuery);
+    const ranked = guides.map((guide, order) => {
+      const title = guide.title.toLowerCase();
+      const excerpt = guide.excerpt.toLowerCase();
+      const allText = `${title} ${excerpt}`;
+      if (!queryWords.every(word => allText.includes(word))) return null;
+      let score = guide.editorial ? 100 : 0;
+      if (title.includes(normalizedQuery)) score += 45;
+      score += queryWords.filter(word => title.includes(word)).length * 14;
+      score += queryWords.filter(word => excerpt.includes(word)).length * 4;
+      return { guide, order, score, bucket: resultBucket(guide, normalizedQuery) };
+    }).filter(Boolean).sort((a, b) => b.score - a.score || a.order - b.order);
+
+    const selected = [];
+    const bucketCounts = new Map();
+    for (const candidate of ranked) {
+      if ((bucketCounts.get(candidate.bucket) || 0) >= 2) continue;
+      if (selected.some(item => overlap(candidate.guide.title, item.guide.title) >= 0.72)) continue;
+      selected.push(candidate);
+      bucketCounts.set(candidate.bucket, (bucketCounts.get(candidate.bucket) || 0) + 1);
+      if (selected.length === limit) break;
+    }
+    return selected.map(item => item.guide);
+  }
+
+  function displayTitle(title) {
+    return title.replace(/^Guild of Golf\s*[—-]\s*Daily Deals\s*[—-]\s*\d{4}-\d{2}-\d{2}:?\s*/i, '') || title;
+  }
+
   if (searchInput && results) {
     searchInput.addEventListener('input', async () => {
       const query = searchInput.value.trim().toLowerCase();
@@ -21,9 +74,9 @@
       });
       try {
         const guides = await indexPromise;
-        const matches = guides.filter(guide => `${guide.title} ${guide.excerpt}`.toLowerCase().includes(query)).slice(0, 8);
+        const matches = rankGuides(guides, query);
         results.innerHTML = matches.length
-          ? matches.map(guide => `<a href="${escapeHtml(guide.url)}"><small>${escapeHtml(guide.type)} · ${escapeHtml(guide.date)}</small><strong>${escapeHtml(guide.title)}</strong><span>${escapeHtml(guide.excerpt)}</span></a>`).join('')
+          ? matches.map(guide => `<a href="${escapeHtml(guide.url)}"><small>${escapeHtml(guide.type)} · ${escapeHtml(guide.date)}</small><strong>${escapeHtml(displayTitle(guide.title))}</strong><span>${escapeHtml(guide.excerpt)}</span></a>`).join('')
           : '<p>No guides found. Try a gear type, problem, or practice goal.</p>';
         results.hidden = false;
       } catch {

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T02:45:37.805Z",
+  "generatedAt": "2026-08-14T16:31:54.994Z",
   "methodology": "Repository-only content analysis. Search traffic and revenue were not available, so this does not classify SEO performance.",
   "totals": {
-    "posts": 342,
-    "postsWithGenericLanguage": 302,
-    "postsWithMalformedMarkers": 298,
+    "posts": 343,
+    "postsWithGenericLanguage": 301,
+    "postsWithMalformedMarkers": 297,
     "postsWithVeryHighSimilarity": 8
   },
   "pilotCandidates": [
