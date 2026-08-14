@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{%- assign featured = site.posts.first -%}
+{%- assign editorial_posts = site.posts | where_exp: "post", "post.article_type" -%}
+{%- assign featured = editorial_posts.first | default: site.posts.first -%}
 <section class="home-hero">
   <div class="hero-copy">
     <p class="eyebrow">Independent-minded golf buying guides</p>
@@ -66,7 +67,7 @@ layout: default
   </article>
   {%- endif -%}
 
-  {%- assign post_collection = site.posts | slice: 0, 7 -%}
+  {%- assign post_collection = editorial_posts | slice: 0, 7 -%}
   <div class="post-grid">
     {%- for post in post_collection -%}
       {%- unless post.url == featured.url -%}
