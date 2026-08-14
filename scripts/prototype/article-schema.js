@@ -32,7 +32,7 @@ const articleSchema = {
         title: { type: 'string', minLength: 8, maxLength: 80 },
         time: { type: 'string', minLength: 3, maxLength: 40 },
         setup: { type: 'string', minLength: 25, maxLength: 500 },
-        steps: { type: 'array', minItems: 3, maxItems: 5, items: { type: 'string', minLength: 15, maxLength: 260 } },
+        steps: { type: 'array', minItems: 3, maxItems: 5, items: { type: 'string', minLength: 15, maxLength: 420 } },
         successSignal: { type: 'string', minLength: 25, maxLength: 300 }
       }
     },
