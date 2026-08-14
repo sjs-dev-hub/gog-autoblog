@@ -143,6 +143,16 @@ h1, h2, h3, h4 { color: var(--ink); font-weight: 800; letter-spacing: -.035em; }
 .platform-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin: 12px 0 46px; }
 .platform-grid section { padding: 28px; border: 1px solid var(--line); border-radius: 18px; background: var(--soft); }
 .platform-grid h2 { margin-top: 0; font-size: 28px; }
+.contact-options { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin: 12px 0 44px; }
+.contact-options section { display: flex; flex-direction: column; align-items: flex-start; padding: 28px; border: 1px solid var(--line); border-radius: 18px; background: var(--soft); }
+.contact-options h2 { margin: 0 0 8px; font-size: 27px; }
+.contact-options p:not(.eyebrow) { color: var(--muted); }
+.contact-options a { margin-top: auto; }
+.policy-nav { position: sticky; z-index: 3; top: 12px; display: flex; flex-wrap: wrap; gap: 7px; margin: 0 0 24px; padding: 10px; border: 1px solid var(--line); border-radius: 13px; background: rgba(255,255,255,.94); box-shadow: 0 8px 28px rgba(32,49,36,.08); backdrop-filter: blur(10px); }
+.policy-nav a { padding: 7px 10px; border-radius: 8px; font-size: 12px; font-weight: 800; text-decoration: none; }
+.policy-nav a:hover { background: var(--soft); }
+.policy-note { padding: 18px 20px; border-left: 4px solid var(--gold); border-radius: 0 10px 10px 0; background: #fff7df; }
+.page-shell .post-content h2[id] { scroll-margin-top: 90px; }
 
 .post-shell { max-width: 1080px; margin: 0 auto; padding-top: clamp(52px, 8vw, 90px); }
 .page-shell { max-width: 900px; margin: 0 auto; padding-top: clamp(52px, 8vw, 90px); }
@@ -248,7 +258,7 @@ h1, h2, h3, h4 { color: var(--ink); font-weight: 800; letter-spacing: -.035em; }
   .section-heading { align-items: start; }
   .post-card { min-height: 0; }
   .post-content { padding: 26px 20px; border-radius: 16px; }
-  .app-callout, .footer-grid, .footer-main, .platform-grid { display: grid; grid-template-columns: 1fr; }
+  .app-callout, .footer-grid, .footer-main, .platform-grid, .contact-options { display: grid; grid-template-columns: 1fr; }
   .footer-main { gap: 28px; }
   .footer-column { padding-left: 55px; }
   .footer-legal { display: grid; gap: 8px; }
