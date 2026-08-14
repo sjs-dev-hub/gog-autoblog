@@ -1,0 +1,42 @@
+name: Draft Existing-Content Pilot
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Optional exact post filename; leave blank for the five-page pilot"
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install dependencies
+        run: npm ci || npm i
+      - name: Run quality tests
+        run: node --test scripts/prototype/quality.test.js
+      - name: Generate non-publishing rewrites
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: "gpt-5.6-terra"
+          TARGET: ${{ inputs.target }}
+        run: |
+          if [ -n "$TARGET" ]; then
+            node scripts/migration/rewrite.js --target "$TARGET"
+          else
+            node scripts/migration/rewrite.js
+          fi
+      - name: Upload drafts for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: guild-rewrite-pilot
+          path: _drafts/rewrites/*.md
+          if-no-files-found: error

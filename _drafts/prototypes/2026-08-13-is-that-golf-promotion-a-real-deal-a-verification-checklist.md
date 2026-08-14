@@ -9,6 +9,7 @@ prototype: true
 permalink: /prototype/is-that-golf-promotion-a-real-deal-a-verification-checklist/
 hero_alt: "Illustrated golf products beside a magnifier and visual verification checklist."
 hero_caption: "Verify the exact product and terms before treating a golf promotion as a genuine deal."
+visual_prompt: "An editorial shopping verification scene with a golf glove, ball sleeve, magnifier, checklist shapes, and comparison cards, with no brands, prices, labels, or text."
 ---
 
 <div class="article-audience">
@@ -52,13 +53,45 @@ Prices, coupons, inventory, and seller terms can change quickly. A responsible d
 
 **Guild recommendation:** Require a source URL and verification time for every price or discount statement; omit the claim when either is unavailable.
 
+<section class="shopping-guide" aria-label="Shopping options">
+
+## Put the guide to work
+
+<p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
+
+<div class="shopping-grid">
+
+<div class="shopping-option">
+
+### Current golf promotions
+
+Use the checklist in this guide to verify the exact model, seller, condition, and return terms.
+
+<a href="https://www.amazon.com/s?k=golf%20equipment%20deals&tag=guildofgolf02-20" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>
+
+</div>
+
+<div class="shopping-option">
+
+### Previous-generation golf gear
+
+Older models can be useful comparison points when specifications and condition are verified like for like.
+
+<a href="https://www.amazon.com/s?k=previous%20model%20golf%20equipment&tag=guildofgolf02-20" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>
+
+</div>
+
+</div>
+
+<p class="shopping-disclosure">If you buy through these links, Guild of Golf may earn a commission at no extra cost to you.</p>
+
+</section>
+
 ## The practical takeaway
 
 - Match model, configuration, condition, seller, and included components before comparing offers.
 - Evaluate delivered cost, return terms, warranty, and fit—not only a displayed percentage reduction.
 - Treat every price and inventory observation as time-sensitive and require a source plus verification time.
-
- [Compare relevant options on Amazon](https://www.amazon.com/s?k=Is%20That%20Golf%20Promotion%20a%20Real%20Deal%3F%20A%20Verification%20Checklist&tag=guildofgolf02-20){: .gg-cta }
 
 ## Frequently asked questions
 

@@ -9,7 +9,8 @@ prototype: true
 permalink: /prototype/how-to-choose-a-forgiving-driver-without-guessing/
 hero_alt: "Illustrated driver face, impact locations, and three possible golf-ball flight arcs."
 hero_caption: "Strike pattern and ball flight give a fitting decision more context than a forgiveness label."
-hero_image: /assets/generated/driver-fitting-field-guide.png
+visual_prompt: "An editorial driver fitting diagram showing a neutral club head, impact points, and three ball-flight arcs on a subtle measurement grid, with no product branding or text."
+hero_image: "/assets/generated/driver-fitting-field-guide.png"
 ---
 
 <div class="article-audience">
@@ -53,13 +54,45 @@ Manufacturers describe stability with terms such as high MOI, perimeter weightin
 
 **Guild recommendation:** Shortlist two or three conforming heads, test them with comparable shafts, and keep the current driver in the session as a baseline.
 
+<section class="shopping-guide" aria-label="Shopping options">
+
+## Put the guide to work
+
+<p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
+
+<div class="shopping-grid">
+
+<div class="shopping-option">
+
+### Forgiving driver heads
+
+Start here when off-center stability and adjustable loft belong on your shortlist.
+
+<a href="https://www.amazon.com/s?k=high%20MOI%20forgiving%20golf%20driver%20adjustable%20loft&tag=guildofgolf02-20" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>
+
+</div>
+
+<div class="shopping-option">
+
+### Draw-biased driver options
+
+Compare these only when your strike and ball-flight pattern supports testing draw-biased setups.
+
+<a href="https://www.amazon.com/s?k=draw%20bias%20golf%20driver%20adjustable&tag=guildofgolf02-20" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>
+
+</div>
+
+</div>
+
+<p class="shopping-disclosure">If you buy through these links, Guild of Golf may earn a commission at no extra cost to you.</p>
+
+</section>
+
 ## The practical takeaway
 
 - Map strike location and ball flight before selecting a driver category.
 - Compare dispersion, carry, and launch across repeated swings rather than selecting the longest single result.
 - Evaluate the complete club; head marketing cannot account for shaft, length, weight, or individual delivery.
-
- [Compare relevant options on Amazon](https://www.amazon.com/s?k=How%20to%20Choose%20a%20Forgiving%20Driver%20Without%20Guessing&tag=guildofgolf02-20){: .gg-cta }
 
 ## Frequently asked questions
 

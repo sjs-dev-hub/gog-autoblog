@@ -39,6 +39,7 @@ function validateArticle(article, comparisons = []) {
   if (!Array.isArray(article.sources) || article.sources.length < 2) errors.push('at least two sources are required');
   if (!article.verdict?.bottomLine || !article.verdict?.bestFor || !article.verdict?.skipIf) errors.push('decision verdict is incomplete');
   if (!article.visualBrief?.concept || !article.visualBrief?.alt || !article.visualBrief?.caption) errors.push('visual brief is incomplete');
+  if (!Array.isArray(article.shoppingOptions) || article.shoppingOptions.length < 2 || article.shoppingOptions.length > 3) errors.push('two or three shopping options are required');
   for (const source of article.sources || []) {
     try {
       const url = new URL(source.url);

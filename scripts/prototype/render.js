@@ -5,7 +5,6 @@ function escapeYaml(value) {
 }
 
 function renderArticle(article, date, slug, amazonTag, options = { prototype: true }) {
-  const searchLink = `https://www.amazon.com/s?k=${encodeURIComponent(article.title)}&tag=${encodeURIComponent(amazonTag)}`;
   const verdict = article.verdict || {
     bottomLine: article.dek,
     bestFor: article.audience,
@@ -15,6 +14,7 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
     alt: 'Editorial golf equipment buying-guide illustration.',
     caption: 'Use the decision criteria in this guide before comparing products.'
   };
+  const shoppingOptions = article.shoppingOptions || [{ label: 'Compare relevant options', query: article.title, why: 'Use the criteria above to compare the options currently available.' }];
   const lines = [
     '---',
     'layout: post',
@@ -43,12 +43,21 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
   if (options.prototype !== false) {
     lines.splice(7, 0, 'prototype: true', `permalink: /prototype/${slug}/`);
   }
+  if (options.heroImage) {
+    const closingFrontMatter = lines.indexOf('---', 1);
+    lines.splice(closingFrontMatter, 0, `hero_image: "${escapeYaml(options.heroImage)}"`);
+  }
   for (const section of article.sections) {
     lines.push(`## ${section.heading}`, '', section.body, '', `**Guild recommendation:** ${section.recommendation}`, '');
   }
-  lines.push('## The practical takeaway', '');
+  lines.push('<section class="shopping-guide" aria-label="Shopping options">', '', '## Put the guide to work', '', '<p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>', '', '<div class="shopping-grid">', '');
+  shoppingOptions.forEach(option => {
+    const optionLink = `https://www.amazon.com/s?k=${encodeURIComponent(option.query)}&tag=${encodeURIComponent(amazonTag)}`;
+    lines.push('<div class="shopping-option">', '', `### ${option.label}`, '', option.why, '', `<a href="${optionLink}" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>`, '', '</div>', '');
+  });
+  lines.push('</div>', '', '<p class="shopping-disclosure">If you buy through these links, Guild of Golf may earn a commission at no extra cost to you.</p>', '', '</section>', '', '## The practical takeaway', '');
   article.takeaways.forEach(item => lines.push(`- ${item}`));
-  lines.push('', ` [Compare relevant options on Amazon](${searchLink}){: .gg-cta }`, '', '## Frequently asked questions', '');
+  lines.push('', '## Frequently asked questions', '');
   article.faq.forEach(item => lines.push(`### ${item.question}`, '', item.answer, ''));
   lines.push('## Sources used for this draft', '');
   article.sources.forEach(source => lines.push(`- [${source.title}](${source.url}) — ${source.supports}`));

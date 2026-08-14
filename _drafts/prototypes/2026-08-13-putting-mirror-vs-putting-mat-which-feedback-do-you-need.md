@@ -9,6 +9,8 @@ prototype: true
 permalink: /prototype/putting-mirror-vs-putting-mat-which-feedback-do-you-need/
 hero_alt: "Side-by-side illustration of a putting mirror setup and an indoor putting mat."
 hero_caption: "The useful choice depends on whether you need feedback about setup or the rolling ball."
+visual_prompt: "A split editorial diagram comparing a neutral putting mirror setup with a putting mat and start-line gate, using simple golf shapes without brands, labels, or words."
+hero_image: "/assets/generated/putting-feedback-field-guide.png"
 ---
 
 <div class="article-audience">
@@ -52,13 +54,45 @@ Using both tools can be productive when the mirror provides a setup checkpoint a
 
 **Guild recommendation:** Write one measurable goal for a ten-minute session—for example, start eight of ten balls through a gate—then use only the tool that informs that goal.
 
+<section class="shopping-guide" aria-label="Shopping options">
+
+## Put the guide to work
+
+<p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
+
+<div class="shopping-grid">
+
+<div class="shopping-option">
+
+### Putting mirrors
+
+Use this search when setup, eye line, and movement awareness are the feedback you need.
+
+<a href="https://www.amazon.com/s?k=golf%20putting%20mirror%20alignment&tag=guildofgolf02-20" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>
+
+</div>
+
+<div class="shopping-option">
+
+### Putting mats
+
+Use this search when repeatable start-line and pace practice matter more than reflected setup feedback.
+
+<a href="https://www.amazon.com/s?k=indoor%20putting%20mat%20start%20line%20practice&tag=guildofgolf02-20" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>
+
+</div>
+
+</div>
+
+<p class="shopping-disclosure">If you buy through these links, Guild of Golf may earn a commission at no extra cost to you.</p>
+
+</section>
+
 ## The practical takeaway
 
 - A mirror primarily gives setup and movement feedback; a mat primarily gives ball-roll and target feedback.
 - Neither tool recreates the changing slope, speed, and surface conditions found on a course.
 - The better purchase is the one tied to a defined drill you will repeat and measure.
-
- [Compare relevant options on Amazon](https://www.amazon.com/s?k=Putting%20Mirror%20vs.%20Putting%20Mat%3A%20Which%20Feedback%20Do%20You%20Need%3F&tag=guildofgolf02-20){: .gg-cta }
 
 ## Frequently asked questions
 

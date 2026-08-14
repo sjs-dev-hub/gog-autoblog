@@ -86,6 +86,19 @@ h1, h2, h3, h4 { color: var(--ink); font-weight: 800; letter-spacing: -.035em; }
 .editorial-strip strong, .editorial-strip span { display: block; }
 .editorial-strip strong { margin-bottom: 4px; color: var(--green); font-size: 15px; }
 .editorial-strip span { color: var(--muted); font-size: 14px; }
+.guide-paths { margin: 0 0 88px; }
+.guide-path-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.guide-path { position: relative; min-height: 390px; overflow: hidden; border-radius: 24px; color: white; background: #101713; box-shadow: 0 16px 42px rgba(23,48,32,.14); text-decoration: none; }
+.guide-path-wide { grid-column: 1 / -1; min-height: 460px; }
+.guide-path img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .55s ease; }
+.guide-path::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg,transparent 28%,rgba(10,20,14,.18) 52%,rgba(10,20,14,.9) 100%); }
+.guide-path:hover { color: white; text-decoration: none; }
+.guide-path:hover img { transform: scale(1.025); }
+.guide-path > span { position: absolute; z-index: 1; right: 0; bottom: 0; left: 0; display: grid; gap: 7px; padding: clamp(24px,4vw,42px); }
+.guide-path small { color: var(--gold-light); font-size: 11px; font-weight: 900; letter-spacing: .13em; text-transform: uppercase; }
+.guide-path strong { max-width: 680px; color: white; font-size: clamp(26px,3.5vw,44px); line-height: 1.06; letter-spacing: -.035em; }
+.guide-path:not(.guide-path-wide) strong { font-size: clamp(24px,2.7vw,34px); }
+.guide-path em { color: #eef5ee; font-size: 13px; font-style: normal; font-weight: 800; }
 .latest-section { scroll-margin-top: 24px; }
 .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 20px; margin-bottom: 24px; }
 .section-heading h2 { margin: 0; font-size: clamp(30px, 4vw, 46px); }
@@ -133,6 +146,16 @@ h1, h2, h3, h4 { color: var(--ink); font-weight: 800; letter-spacing: -.035em; }
 .decision-grid strong, .decision-grid span { display: block; }
 .decision-grid strong { margin-bottom: 4px; color: var(--green); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
 .decision-grid span { color: var(--muted); font-size: 14px; line-height: 1.5; }
+.shopping-guide { margin: 42px -14px; padding: clamp(24px,4vw,38px); border-radius: 20px; color: white; background: linear-gradient(135deg,#101713,#174d35); }
+.shopping-guide h2 { margin-top: 0; color: white; }
+.shopping-intro { color: #cfdbd0; }
+.shopping-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px; margin-top: 20px; }
+.shopping-option { display: flex; flex-direction: column; padding: 20px; border: 1px solid rgba(255,255,255,.12); border-radius: 14px; background: rgba(255,255,255,.07); }
+.shopping-option h3 { margin: 0 0 8px; color: white; font-size: 20px; }
+.shopping-option p { color: #dce6dc; font-size: 14px; }
+.shopping-option .gg-cta { align-self: flex-start; margin-top: auto; color: #172119; background: var(--gold-light); }
+.shopping-option .gg-cta:hover { color: #172119; background: #f6dc98; }
+.shopping-disclosure { margin: 17px 0 0 !important; color: #b9c8ba; font-size: 11px; line-height: 1.5; }
 .post-content h2 { margin: 2.2em 0 .65em; padding-top: .2em; font-size: clamp(27px, 4vw, 36px); line-height: 1.18; }
 .post-content h2:first-child { margin-top: 0; }
 .post-content h3 { margin: 1.8em 0 .5em; font-size: 23px; line-height: 1.25; }
@@ -166,7 +189,9 @@ h1, h2, h3, h4 { color: var(--ink); font-weight: 800; letter-spacing: -.035em; }
   .site-nav { gap: 2px; }
   .site-nav a { padding: 7px 9px; font-size: 13px; }
   .site-nav > a:first-child { display: none; }
-  .home-hero, .editorial-strip, .post-grid, .featured-story, .article-frame { grid-template-columns: 1fr; }
+  .home-hero, .editorial-strip, .post-grid, .featured-story, .article-frame, .guide-path-grid, .shopping-grid { grid-template-columns: 1fr; }
+  .guide-path-wide { grid-column: auto; }
+  .guide-path, .guide-path-wide { min-height: 360px; }
   .hero-art { border-radius: 22px 22px 60px 22px; }
   .featured-story { gap: 10px; }
   .article-rail { position: static; }

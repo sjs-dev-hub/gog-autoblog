@@ -5,6 +5,7 @@ const path = require('path');
 const { generateArticle } = require('./openai');
 const { articleText, similarity, validateArticle } = require('../prototype/quality');
 const { renderArticle } = require('../prototype/render');
+const { generateArticleImage } = require('./image');
 
 const root = path.resolve(__dirname, '..', '..');
 const postsDir = path.join(root, '_posts');
@@ -49,6 +50,7 @@ function chooseTopic(date, recent) {
   const slug = slugify(article.title);
   const outputPath = path.join(postsDir, `${date}-${slug}.md`);
   if (fs.existsSync(outputPath)) throw new Error(`Refusing to overwrite ${path.basename(outputPath)}`);
-  fs.writeFileSync(outputPath, renderArticle(article, date, slug, config.amazonTag, { prototype: false }), 'utf8');
+  const heroImage = process.env.GENERATE_ARTICLE_IMAGE === '0' ? null : await generateArticleImage(article, date, slug);
+  fs.writeFileSync(outputPath, renderArticle(article, date, slug, config.amazonTag, { prototype: false, heroImage }), 'utf8');
   console.log(`Wrote validated daily article: ${path.relative(root, outputPath)}`);
 })().catch(error => { console.error(error.message); process.exitCode = 1; });

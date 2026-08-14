@@ -25,7 +25,7 @@ async function requestArticle(brief) {
       model,
       reasoning: { effort: 'medium' },
       input: [
-        { role: 'system', content: 'You are the Guild of Golf editor. Write specific, restrained, useful golf buying guidance using only the evidence supplied. State uncertainty. Never invent prices, testing, discounts, specifications, reviews, or personal experience. Avoid generic marketing language.' },
+        { role: 'system', content: 'You are a senior Guild of Golf equipment editor. Write polished, natural, specific golf buying guidance using only the evidence supplied. Teach the decision before presenting two or three focused shopping searches. State uncertainty. Never mention AI or automation and never invent prices, testing, discounts, specifications, reviews, or personal experience. Avoid generic marketing language.' },
         { role: 'user', content: JSON.stringify(brief) }
       ],
       text: { format: { type: 'json_schema', name: 'golf_article', strict: true, schema: articleSchema } }
@@ -60,7 +60,11 @@ async function requestArticle(brief) {
   const date = '2026-08-13';
   for (const article of accepted) {
     const slug = slugify(article.title);
-    fs.writeFileSync(path.join(outputDir, `${date}-${slug}.md`), renderArticle(article, date, slug, fixture.amazonTag), 'utf8');
+    const heroImages = {
+      'how-to-choose-a-forgiving-driver-without-guessing': '/assets/generated/driver-fitting-field-guide.png',
+      'putting-mirror-vs-putting-mat-which-feedback-do-you-need': '/assets/generated/putting-feedback-field-guide.png'
+    };
+    fs.writeFileSync(path.join(outputDir, `${date}-${slug}.md`), renderArticle(article, date, slug, fixture.amazonTag, { prototype: true, heroImage: heroImages[slug] }), 'utf8');
   }
   console.log(`Wrote ${accepted.length} validated, non-publishing drafts to ${path.relative(root, outputDir)}`);
 })().catch(error => { console.error(error.message); process.exitCode = 1; });

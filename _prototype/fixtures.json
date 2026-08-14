@@ -38,6 +38,10 @@
       "dek": "Forgiveness is not one specification and the highest advertised stability is not automatically the best fit. Start with impact pattern, launch, and your usual miss, then compare heads and shafts in that context.",
       "verdict": { "bottomLine": "Choose the driver that tightens your ordinary strike pattern and ball-flight window, not the head that produces one exceptional shot or carries the loudest forgiveness label.", "bestFor": "Golfers who can compare impact location and dispersion across several realistic swings.", "skipIf": "You are buying from a category label without checking loft, shaft, strike, and usual miss together." },
       "visualBrief": { "concept": "An editorial driver fitting diagram showing a neutral club head, impact points, and three ball-flight arcs on a subtle measurement grid, with no product branding or text.", "alt": "Illustrated driver face, impact locations, and three possible golf-ball flight arcs.", "caption": "Strike pattern and ball flight give a fitting decision more context than a forgiveness label." },
+      "shoppingOptions": [
+        { "label": "Forgiving driver heads", "query": "high MOI forgiving golf driver adjustable loft", "why": "Start here when off-center stability and adjustable loft belong on your shortlist." },
+        { "label": "Draw-biased driver options", "query": "draw bias golf driver adjustable", "why": "Compare these only when your strike and ball-flight pattern supports testing draw-biased setups." }
+      ],
       "sections": [
         {
           "heading": "Begin with the miss you need to manage",
@@ -78,6 +82,10 @@
       "dek": "A mirror and a mat are not interchangeable. A mirror mainly makes setup and movement visible; a mat mainly gives the ball a repeatable surface and target. Your current practice question should decide which one earns space at home.",
       "verdict": { "bottomLine": "Buy the feedback system that matches the mistake you are diagnosing: a mirror for setup and movement awareness, or a mat for start-line and pace practice.", "bestFor": "Golfers who can name one specific putting behavior they want their home practice to reveal.", "skipIf": "You expect either aid to diagnose an undefined stroke problem without a focused practice routine." },
       "visualBrief": { "concept": "A split editorial diagram comparing a neutral putting mirror setup with a putting mat and start-line gate, using simple golf shapes without brands, labels, or words.", "alt": "Side-by-side illustration of a putting mirror setup and an indoor putting mat.", "caption": "The useful choice depends on whether you need feedback about setup or the rolling ball." },
+      "shoppingOptions": [
+        { "label": "Putting mirrors", "query": "golf putting mirror alignment", "why": "Use this search when setup, eye line, and movement awareness are the feedback you need." },
+        { "label": "Putting mats", "query": "indoor putting mat start line practice", "why": "Use this search when repeatable start-line and pace practice matter more than reflected setup feedback." }
+      ],
       "sections": [
         {
           "heading": "Choose a mirror for visible setup feedback",
@@ -118,6 +126,10 @@
       "dek": "This prototype intentionally makes no live price claim because no verified product feed was supplied. It demonstrates how a daily deals article should separate confirmed facts from shopping guidance instead of manufacturing urgency.",
       "verdict": { "bottomLine": "A promotion becomes useful only after the exact model, seller, condition, return terms, and recent comparison price have been verified at the time of purchase.", "bestFor": "Shoppers willing to verify the listing details and compare like-for-like options before checking out.", "skipIf": "The offer relies on a countdown, vague percentage claim, or crossed-out price that you cannot independently confirm." },
       "visualBrief": { "concept": "An editorial shopping verification scene with a golf glove, ball sleeve, magnifier, checklist shapes, and comparison cards, with no brands, prices, labels, or text.", "alt": "Illustrated golf products beside a magnifier and visual verification checklist.", "caption": "Verify the exact product and terms before treating a golf promotion as a genuine deal." },
+      "shoppingOptions": [
+        { "label": "Current golf promotions", "query": "golf equipment deals", "why": "Use the checklist in this guide to verify the exact model, seller, condition, and return terms." },
+        { "label": "Previous-generation golf gear", "query": "previous model golf equipment", "why": "Older models can be useful comparison points when specifications and condition are verified like for like." }
+      ],
       "sections": [
         {
           "heading": "Verify the exact product and seller",

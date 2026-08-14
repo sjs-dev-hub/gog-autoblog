@@ -3,7 +3,7 @@
 const articleSchema = {
   type: 'object',
   additionalProperties: false,
-  required: ['articleType', 'title', 'description', 'audience', 'dek', 'verdict', 'visualBrief', 'sections', 'takeaways', 'faq', 'sources', 'affiliateDisclosure'],
+  required: ['articleType', 'title', 'description', 'audience', 'dek', 'verdict', 'visualBrief', 'shoppingOptions', 'sections', 'takeaways', 'faq', 'sources', 'affiliateDisclosure'],
   properties: {
     articleType: { type: 'string', enum: ['evergreen-guide', 'comparison', 'current-deals'] },
     title: { type: 'string', minLength: 20, maxLength: 80 },
@@ -24,6 +24,17 @@ const articleSchema = {
         concept: { type: 'string', minLength: 30, maxLength: 400 },
         alt: { type: 'string', minLength: 20, maxLength: 180 },
         caption: { type: 'string', minLength: 20, maxLength: 220 }
+      }
+    },
+    shoppingOptions: {
+      type: 'array', minItems: 2, maxItems: 3,
+      items: {
+        type: 'object', additionalProperties: false, required: ['label', 'query', 'why'],
+        properties: {
+          label: { type: 'string', minLength: 8, maxLength: 80 },
+          query: { type: 'string', minLength: 4, maxLength: 100 },
+          why: { type: 'string', minLength: 25, maxLength: 180 }
+        }
       }
     },
     sections: {
