@@ -12,6 +12,10 @@ const outputDir = path.join(root, '_drafts', 'rewrites');
 const config = JSON.parse(fs.readFileSync(path.join(root, 'config.json'), 'utf8'));
 const topicPlan = JSON.parse(fs.readFileSync(path.join(root, 'scripts', 'content', 'topic-plan.json'), 'utf8'));
 const defaultTargets = JSON.parse(fs.readFileSync(path.join(__dirname, 'pilot-targets.json'), 'utf8'));
+const briefOverridesPath = path.join(__dirname, 'pilot-brief-overrides.json');
+const briefOverrides = fs.existsSync(briefOverridesPath)
+  ? JSON.parse(fs.readFileSync(briefOverridesPath, 'utf8'))
+  : {};
 const rewriteAngles = [
   'Start with the golfer’s observable performance problem and show how to choose only the feature that addresses it.',
   'Build a useful practice or equipment setup for a golfer with limited space, time, and tolerance for complexity.',
@@ -37,6 +41,11 @@ function scoreBrief(sourceText, brief) {
   return phrases.filter(phrase => haystack.includes(phrase)).length * 5 + words.filter(word => haystack.includes(word)).length;
 }
 function chooseBrief(filename, source) {
+  if (briefOverrides[filename]) {
+    const override = topicPlan.find(brief => brief.topic === briefOverrides[filename]);
+    if (!override) throw new Error(`Unknown brief override for ${filename}: ${briefOverrides[filename]}`);
+    return override;
+  }
   const sourceText = `${titleOf(source, filename)} ${bodyOf(source).slice(0, 5000)}`;
   const totalScore = brief => scoreBrief(filename, brief) * 4 + scoreBrief(sourceText, brief);
   return topicPlan.slice().sort((a, b) => totalScore(b) - totalScore(a))[0];

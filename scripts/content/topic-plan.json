@@ -70,5 +70,41 @@
       { "title": "PGA of America: Practice With Purpose", "url": "https://www.pga.com/story/practice-with-purpose-to-improve-your-game", "facts": ["Purposeful practice connects the activity to a specific goal."] },
       { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Equipment and use during a stipulated round are governed by applicable rules."] }
     ]
+  },
+  {
+    "articleType": "evergreen-guide",
+    "topic": "High-MOI drivers: when forgiveness helps and what it cannot fix",
+    "audience": "Golfers whose off-center strikes lose too much speed or curve unpredictably and who need to distinguish forgiveness from swing correction.",
+    "evidence": [
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Driver design and conformance are governed by the equipment rules."] },
+      { "title": "PGA of America: Club Fitting", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "facts": ["A fitting evaluates equipment for the individual golfer using measured results."] }
+    ]
+  },
+  {
+    "articleType": "evergreen-guide",
+    "topic": "Draw-bias drivers: identify the golfer and miss pattern they actually suit",
+    "audience": "Right-handed golfers considering draw bias for a recurring right miss who need to separate face, path, strike, and setup effects.",
+    "evidence": [
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Adjustable and non-adjustable driver designs must conform to the applicable equipment rules."] },
+      { "title": "PGA of America: Club Fitting", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "facts": ["Club fitting should account for the individual golfer and measured ball flight."] }
+    ]
+  },
+  {
+    "articleType": "evergreen-guide",
+    "topic": "How to set a realistic driver budget without buying features you cannot use",
+    "audience": "Value-conscious golfers comparing driver price tiers who want to spend on fit, condition, and useful adjustability rather than prestige.",
+    "evidence": [
+      { "title": "USGA Informational Club Database", "url": "https://www.usga.org/InfoClubsDB/index.html", "facts": ["The database provides driver conformance information that can help evaluate models across generations."] },
+      { "title": "FTC Advertising and Marketing Basics", "url": "https://www.ftc.gov/business-guidance/advertising-marketing", "facts": ["Objective product claims should be truthful and supported."] }
+    ]
+  },
+  {
+    "articleType": "evergreen-guide",
+    "topic": "How to choose a game-improvement driver by strike pattern and playable miss",
+    "audience": "Golfers seeking a more playable driver who want to evaluate strike consistency, dispersion, launch, and confidence without relying on a vague game-improvement label.",
+    "evidence": [
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Conforming club requirements apply regardless of marketing category."] },
+      { "title": "PGA of America: Club Fitting", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "facts": ["Fit and measured results matter when comparing club options."] }
+    ]
   }
 ]
