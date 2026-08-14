@@ -4,6 +4,7 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const { similarity, validateArticle } = require('./quality');
 const { renderArticle } = require('./render');
+const { normalizeUrl, validateTrend } = require('../content/research');
 const { extractOutputText } = require('../content/openai');
 
 test('similarity recognizes identical and unrelated copy', () => {
@@ -40,4 +41,19 @@ test('production renderer uses the supplied associate tag and omits prototype me
 test('Responses payload text can be extracted from raw output items', () => {
   const payload = { output: [{ content: [{ type: 'output_text', text: '{"ok":true}' }] }] };
   assert.equal(extractOutputText(payload), '{"ok":true}');
+});
+
+test('current-topic research requires cited, recent, multi-domain evidence', () => {
+  const trend = {
+    articleType: 'comparison',
+    topic: 'What a newly released adjustable driver changes for fitting decisions',
+    audience: 'Golfers comparing a newly released driver with their current fitted club.',
+    evidence: [
+      { title: 'Launch', url: 'https://maker.example/new-driver', publishedAt: '2026-08-01', facts: ['The manufacturer announced the fitting options.'] },
+      { title: 'Review', url: 'https://review.example/driver-test', publishedAt: '2026-08-05', facts: ['Independent testing discusses the relevant tradeoffs.'] }
+    ]
+  };
+  const citations = new Set(trend.evidence.map(source => normalizeUrl(source.url)));
+  assert.deepEqual(validateTrend(trend, citations, '2026-08-14'), []);
+  assert.match(validateTrend(trend, new Set(), '2026-08-14').join('\n'), /not returned as a web-search citation/);
 });

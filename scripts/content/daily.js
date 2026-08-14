@@ -6,6 +6,7 @@ const { generateArticle } = require('./openai');
 const { articleText, similarity, validateArticle } = require('../prototype/quality');
 const { renderArticle } = require('../prototype/render');
 const { generateArticleImage } = require('./image');
+const { discoverCurrentTrend } = require('./research');
 
 const root = path.resolve(__dirname, '..', '..');
 const postsDir = path.join(root, '_posts');
@@ -39,7 +40,17 @@ function chooseTopic(date, recent) {
     return;
   }
   const recent = recentPosts();
-  const brief = chooseTopic(date, recent);
+  let brief;
+  try {
+    brief = await discoverCurrentTrend({
+      date,
+      recentTitles: recent.map(post => post.name.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.md$/, '').replace(/-/g, ' '))
+    });
+    console.log(`Selected researched current topic: ${brief.topic}`);
+  } catch (error) {
+    console.warn(`${error.message}\nFalling back to the vetted evergreen topic plan.`);
+    brief = chooseTopic(date, recent);
+  }
   const article = await generateArticle({ ...brief, publicationDate: date, affiliateTag: config.amazonTag });
   const errors = validateArticle(article, recent.map(post => post.text));
   const allowedSources = new Set(brief.evidence.map(source => source.url));
