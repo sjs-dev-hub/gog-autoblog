@@ -6,11 +6,10 @@ description: Search the complete Guild of Golf library by equipment, practice go
 ---
 
 <section class="finder-intro">
-<p class="lead">You should not have to browse hundreds of headlines to find one useful answer. Describe the club, miss, practice goal, or buying decision on your mind.</p>
+<p class="lead">Every published guide is available here. Describe the club, miss, practice goal, or buying decision on your mind, then scan a compact set of matching articles.</p>
 <div class="guide-search guide-search-page">
-<div><p class="eyebrow">Search the complete library</p><h2>What do you want help with?</h2><p>Results appear as you type.</p></div>
+<div><p class="eyebrow">Search the complete library</p><h2>What do you want help with?</h2><p>Search checks titles, summaries, and article content.</p></div>
 <label><span class="sr-only">Search all golf guides</span><input type="search" data-guide-search placeholder="Try 'putting pace' or 'wedge gaps'" autocomplete="off" autofocus></label>
-<div class="search-results" data-search-results hidden></div>
 </div>
 <div class="finder-prompts" aria-label="Search suggestions">
 <button type="button" data-search-suggestion="putting">Putting practice</button>
@@ -19,4 +18,10 @@ description: Search the complete Guild of Golf library by equipment, practice go
 <button type="button" data-search-suggestion="golf ball">Golf balls</button>
 <button type="button" data-search-suggestion="launch monitor">Practice technology</button>
 </div>
+</section>
+
+<section class="guide-library" data-guide-library aria-live="polite">
+<div class="library-heading"><div><p class="eyebrow">Complete archive</p><h2>Browse every guide</h2></div><p data-library-count>Loading the library…</p></div>
+<div class="library-results" data-search-results></div>
+<button class="secondary-action library-more" type="button" data-library-more hidden>Show more results</button>
 </section>

@@ -20,10 +20,22 @@ layout: default
 </section>
 
 <section class="guide-search" aria-labelledby="guide-search-title">
-  <div><p class="eyebrow">343 guides, one useful answer</p><h2 id="guide-search-title">What are you trying to improve?</h2><p>Search by gear, miss, practice goal, or buying question.</p></div>
+  <div><p class="eyebrow">{{ site.posts | size }} guides, one useful answer</p><h2 id="guide-search-title">What are you trying to improve?</h2><p>Search every guide by gear, miss, practice goal, or buying question.</p></div>
   <label><span class="sr-only">Search all golf guides</span><input type="search" data-guide-search placeholder="Try “putting alignment” or “forgiving driver”" autocomplete="off"></label>
   <div class="search-results" data-search-results hidden></div>
 </section>
+
+<nav class="library-scope" aria-label="Browse the complete guide library">
+  <div><strong>Explore all {{ site.posts | size }} articles</strong><span>The homepage is a curated starting point. The complete archive remains searchable.</span></div>
+  <div class="library-topics">
+    <a href="{{ '/guides/?q=putter' | relative_url }}">Putting</a>
+    <a href="{{ '/guides/?q=driver' | relative_url }}">Drivers</a>
+    <a href="{{ '/guides/?q=wedge' | relative_url }}">Wedges</a>
+    <a href="{{ '/guides/?q=iron' | relative_url }}">Irons</a>
+    <a href="{{ '/guides/?q=practice' | relative_url }}">Practice</a>
+    <a class="library-all" href="{{ '/guides/' | relative_url }}">View complete library →</a>
+  </div>
+</nav>
 
 <section class="editorial-strip" aria-label="Editorial standards">
   <div><strong>Start with the golfer</strong><span>The right answer depends on your miss, goals, and setup.</span></div>
@@ -81,5 +93,5 @@ layout: default
     {%- endfor -%}
   </div>
 
-  <div class="archive-cta"><p>Looking for something specific? Search all 343 guides by the problem you want to solve.</p><a class="secondary-action" href="{{ '/guides/' | relative_url }}">Open the guide finder →</a></div>
+  <div class="archive-cta"><p>These are featured selections—not the entire archive. Search all {{ site.posts | size }} guides by the problem you want to solve.</p><a class="secondary-action" href="{{ '/guides/' | relative_url }}">Open the complete library →</a></div>
 </section>

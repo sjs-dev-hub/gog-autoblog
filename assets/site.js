@@ -7,63 +7,66 @@
     return String(value).replace(/[&<>'"]/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[character]);
   }
 
+  function normalizeWord(word) {
+    if (word.length > 4 && word.endsWith('ies')) return `${word.slice(0, -3)}y`;
+    if (word.length > 4 && word.endsWith('es') && /(sses|shes|ches|xes|zes)$/.test(word)) return word.slice(0, -2);
+    if (word.length > 4 && word.endsWith('s') && !word.endsWith('ss')) return word.slice(0, -1);
+    return word;
+  }
+
   function searchWords(value) {
     const ignored = new Set(['guild', 'golf', 'daily', 'deals', 'guide', 'the', 'and', 'for', 'with', 'how', 'choose']);
     const raw = String(value).toLowerCase().match(/[a-z0-9]+/g) || [];
-    const useful = raw.filter(word => !ignored.has(word) && !/^\d+$/.test(word));
+    const useful = raw.filter(word => !ignored.has(word) && !/^\d+$/.test(word)).map(normalizeWord);
     return useful.length ? useful : raw;
   }
 
-  function overlap(left, right) {
-    const a = new Set(searchWords(left));
-    const b = new Set(searchWords(right));
-    if (!a.size || !b.size) return 0;
-    let shared = 0;
-    for (const word of a) if (b.has(word)) shared += 1;
-    return shared / Math.min(a.size, b.size);
-  }
-
-  function resultBucket(guide, query) {
-    const text = `${guide.title} ${guide.excerpt}`.toLowerCase();
-    const topics = ['putting mirror', 'putting mat', 'putting alignment', 'putting pace', 'launch monitor', 'swing analyzer', 'tempo trainer', 'alignment sticks', 'golf balls', 'driver fitting', 'driver loft', 'draw bias', 'game improvement irons', 'wedge gaps'];
-    return topics.find(topic => text.includes(topic)) || searchWords(query)[0] || 'general';
-  }
-
-  function rankGuides(guides, query, limit = 8) {
+  function rankGuides(guides, query) {
     const normalizedQuery = query.trim().toLowerCase();
     const queryWords = searchWords(normalizedQuery);
-    const ranked = guides.map((guide, order) => {
+    return guides.map((guide, order) => {
       const title = guide.title.toLowerCase();
       const excerpt = guide.excerpt.toLowerCase();
-      const allText = `${title} ${excerpt}`;
-      if (!queryWords.every(word => allText.includes(word))) return null;
+      const searchable = new Set(searchWords(`${title} ${excerpt} ${guide.searchText || ''}`));
+      if (!queryWords.every(word => searchable.has(word))) return null;
       let score = guide.editorial ? 100 : 0;
       if (title.includes(normalizedQuery)) score += 45;
-      score += queryWords.filter(word => title.includes(word)).length * 14;
-      score += queryWords.filter(word => excerpt.includes(word)).length * 4;
-      return { guide, order, score, bucket: resultBucket(guide, normalizedQuery) };
-    }).filter(Boolean).sort((a, b) => b.score - a.score || a.order - b.order);
-
-    const selected = [];
-    const bucketCounts = new Map();
-    for (const candidate of ranked) {
-      if ((bucketCounts.get(candidate.bucket) || 0) >= 2) continue;
-      if (selected.some(item => overlap(candidate.guide.title, item.guide.title) >= 0.72)) continue;
-      selected.push(candidate);
-      bucketCounts.set(candidate.bucket, (bucketCounts.get(candidate.bucket) || 0) + 1);
-      if (selected.length === limit) break;
-    }
-    return selected.map(item => item.guide);
+      const titleWords = searchWords(title);
+      const excerptWords = searchWords(excerpt);
+      score += queryWords.filter(word => titleWords.includes(word)).length * 14;
+      score += queryWords.filter(word => excerptWords.includes(word)).length * 4;
+      return { guide, order, score };
+    }).filter(Boolean).sort((a, b) => b.score - a.score || a.order - b.order).map(item => item.guide);
   }
 
   function displayTitle(title) {
     return title.replace(/^Guild of Golf\s*[—-]\s*Daily Deals\s*[—-]\s*\d{4}-\d{2}-\d{2}:?\s*/i, '') || title;
   }
 
+  function resultMarkup(guide) {
+    return `<a href="${escapeHtml(guide.url)}"><small>${escapeHtml(guide.type)} · ${escapeHtml(guide.date)}</small><strong>${escapeHtml(displayTitle(guide.title))}</strong><span>${escapeHtml(guide.excerpt)}</span></a>`;
+  }
+
   if (searchInput && results) {
-    searchInput.addEventListener('input', async () => {
+    const library = document.querySelector('[data-guide-library]');
+    const count = document.querySelector('[data-library-count]');
+    const more = document.querySelector('[data-library-more]');
+    let currentMatches = [];
+    let visible = 18;
+
+    function renderLibrary() {
+      const shown = currentMatches.slice(0, visible);
+      results.innerHTML = shown.length ? shown.map(resultMarkup).join('') : '<p>No guides found. Try a broader gear type, problem, or practice goal.</p>';
+      if (count) count.textContent = searchInput.value.trim() ? `${currentMatches.length} matching guides` : `${currentMatches.length} published guides`;
+      if (more) {
+        more.hidden = visible >= currentMatches.length;
+        more.textContent = `Show more (${currentMatches.length - visible} remaining)`;
+      }
+    }
+
+    async function runSearch() {
       const query = searchInput.value.trim().toLowerCase();
-      if (query.length < 2) {
+      if (!library && query.length < 2) {
         results.hidden = true;
         results.innerHTML = '';
         return;
@@ -74,16 +77,29 @@
       });
       try {
         const guides = await indexPromise;
-        const matches = rankGuides(guides, query);
-        results.innerHTML = matches.length
-          ? matches.map(guide => `<a href="${escapeHtml(guide.url)}"><small>${escapeHtml(guide.type)} · ${escapeHtml(guide.date)}</small><strong>${escapeHtml(displayTitle(guide.title))}</strong><span>${escapeHtml(guide.excerpt)}</span></a>`).join('')
-          : '<p>No guides found. Try a gear type, problem, or practice goal.</p>';
+        const matches = query.length >= 2 ? rankGuides(guides, query) : guides;
+        if (library) {
+          currentMatches = matches;
+          visible = 18;
+          renderLibrary();
+          const url = new URL(window.location.href);
+          query ? url.searchParams.set('q', query) : url.searchParams.delete('q');
+          history.replaceState(null, '', url);
+        } else {
+          const preview = matches.slice(0, 8);
+          results.innerHTML = preview.length
+            ? `${preview.map(resultMarkup).join('')}<a class="search-all" href="/guides/?q=${encodeURIComponent(query)}"><strong>View all ${matches.length} matching guides →</strong></a>`
+            : '<p>No guides found. Try a broader gear type, problem, or practice goal.</p>';
+        }
         results.hidden = false;
       } catch {
         results.innerHTML = '<p>Search is temporarily unavailable. Browse the latest guides below.</p>';
         results.hidden = false;
       }
-    });
+    }
+
+    searchInput.addEventListener('input', runSearch);
+    if (more) more.addEventListener('click', () => { visible += 18; renderLibrary(); });
     document.querySelectorAll('[data-search-suggestion]').forEach(button => {
       button.addEventListener('click', () => {
         searchInput.value = button.dataset.searchSuggestion;
@@ -91,6 +107,10 @@
         searchInput.focus();
       });
     });
+    if (library) {
+      searchInput.value = new URLSearchParams(window.location.search).get('q') || '';
+      runSearch();
+    }
   }
 
   const article = document.querySelector('.post-content');
