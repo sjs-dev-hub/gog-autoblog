@@ -23,7 +23,7 @@ _What to compare:_
 - Material and construction for durability and feel
 - Grip size and shaft flexibility for optimal comfort and control
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, it's essential to focus on key specifications that enhance performance while maintaining control. These irons typically feature a larger clubface and a more forgiving sweet spot, making them ideal for mid to low handicap golfers seeking added distance without sacrificing accuracy. Look for features like perimeter weighting and a lower center of gravity to maximize launch and distance. Common types include hollow-body irons, which provide a blend of distance and forgiveness, and players cavity back irons that balance control with added distance.
 
@@ -35,7 +35,7 @@ _What to compare:_
 - **Shaft options:** Evaluate the flex and weight to optimize swing speed and control.
 - **Loft variations:** Consider the loft angles to ensure proper gapping between clubs for consistent distance coverage.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **hollow body irons.** When shopping for hollow body irons, consider their unique construction, which typically features a lightweight design and a large sweet spot, offering enhanced forgiveness and distance. Focus on specs such as loft angles, shaft material, and overall weight to ensure they complement your swing style. A common mistake is choosing based solely on looks; prioritize performance metrics to find the best fit. Look for types like game improvement hollow body irons, which cater to higher handicap players, and players’ hollow body irons, designed for better ball strikers seeking more precision.
 
@@ -47,7 +47,7 @@ _What to compare:_
 - **Weight distribution:** Understand how it influences feel and control.
 - **Shaft flexibility:** Determine the right flex for your swing speed.
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -63,7 +63,7 @@ _What to compare:_
 - Portability and ease of setup
 - Compatibility with training software and apps
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, it’s essential to focus on its benefits, specifications, and potential pitfalls. Impact bags are designed to improve your golf swing by enhancing the feel of the club at impact, promoting proper technique, and developing muscle memory. Look for options made from durable materials with good weight distribution to ensure stability during use. Avoid overly small or flimsy bags, as these can hinder performance.
 
@@ -77,7 +77,7 @@ _What to compare:_
 - Size and weight distribution
 - Adjustability and design features
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, consider how its dimensions and materials impact your practice experience. Look for mats that simulate real green conditions, typically around 8 to 12 feet in length, to develop accuracy and distance control. Features like adjustable slopes or varying hole sizes can add challenge and variety to your sessions. Common mistakes include overlooking the mat's thickness, which can affect ball roll, or choosing one that’s too lightweight, making it less stable during use.
 
@@ -91,7 +91,7 @@ _What to compare:_
 - Size and dimensions for available space
 - Features such as slope adjustments or ball return systems
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -109,7 +109,7 @@ _What to compare:_
 - Shaft material and flex options
 - Adjustability features and weight distribution
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for the best game improvement driver, focus on features that enhance forgiveness and distance. Look for clubs designed with a larger clubhead and a higher moment of inertia (MOI), which help to minimize the effects of off-center hits. Additionally, consider adjustable loft and weight settings that can cater to your swing style. Common mistakes include prioritizing aesthetics over performance and neglecting to test the driver before purchasing.
 
@@ -123,7 +123,7 @@ _What to compare:_
 - **Loft Options:** Adjustable loft can help optimize launch angle.
 - **Weight Distribution:** Look for a design that enhances stability and control.
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **draw bias driver.** When shopping for a draw bias driver, consider how its design helps correct slices and promote a right-to-left ball flight, making it beneficial for golfers who struggle with accuracy. Look for specifications such as adjustable weights and loft options that cater to your swing style. Common mistakes include focusing solely on aesthetics instead of performance features. 
 
@@ -137,7 +137,7 @@ _What to compare:_
 - **Loft options**: Explore different loft settings to optimize launch angles.
 - **Adjustability**: Consider models with adjustable features to fine-tune performance.
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, focus on finding the right combination of performance and features that suit your playing style. Begin by considering specifications such as loft, shaft flex, and clubhead design, as these factors significantly influence distance and accuracy. Look for models that offer adjustable weights or loft settings, allowing you to customize your swing.
 
@@ -151,7 +151,7 @@ _What to compare:_
 - Shaft material and flex type
 - Clubhead design and aerodynamics
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -164,7 +164,7 @@ _What to compare:_
 - **Cover material**: Affects spin and control around the greens.
 - **Distance characteristics**: Ensures the ball fits your playing style.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for yellow winter golf balls, consider their visibility and performance in cold weather conditions. Yellow balls are easier to spot against snow and overcast skies, enhancing your winter golfing experience. Look for features such as low compression, which helps maintain distance and feel in colder temperatures. Avoid common mistakes like choosing a ball designed for warm weather, as it may not perform well when temperatures drop.
 
@@ -178,7 +178,7 @@ _What to compare:_
 - Visibility features: Look for vibrant yellow shades that stand out.
 - Durability: Choose balls designed to withstand winter conditions without sacrificing quality.
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **alignment sticks.** When shopping for alignment sticks, consider their benefits in improving your swing accuracy and overall alignment on the course. Look for sticks that are lightweight and portable, making them easy to transport to the driving range or on the course. Pay attention to length; standard options typically range from 40 to 48 inches, which can accommodate various training drills. Common mistakes include choosing overly fragile materials that may not withstand repeated use or neglecting to consider visibility, as bright colors can enhance focus during practice.
 
@@ -192,7 +192,7 @@ _What to compare:_
 - Length and weight for portability
 - Color options for visibility during practice
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** When shopping for three-piece golf balls, it’s essential to understand their construction and performance benefits. These balls typically feature a core for distance, an intermediate layer for spin control, and a cover for durability and feel. Ideal for intermediate to advanced players, three-piece balls offer a balance of distance and control on the greens. 
 
@@ -206,7 +206,7 @@ _What to compare:_
 - Cover material for durability and shot responsiveness
 - Spin characteristics for better control around the greens
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 ### FAQ
 

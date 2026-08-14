@@ -21,7 +21,7 @@ _What to compare:_
 - Cover material for durability and feel on the greens
 - Core design for distance and control characteristics
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, consider the benefits it brings to your golf game, such as improved consistency, rhythm, and timing in your swing. Look for trainers that offer adjustable settings to tailor the experience to your skill level, and ensure they are lightweight and portable for easy practice on the range or at home. 
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Portability and ease of use during practice
 - Material quality and durability for long-term performance
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for premium golf balls like the Pro V1, it’s essential to consider factors that enhance your game while ensuring you make an informed choice. Look for specifications such as compression rating and performance characteristics like distance, spin, and feel. Avoid common mistakes, such as selecting a ball solely based on price or aesthetics, rather than its suitability for your playing style. 
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Spin rates to determine greenside control and overall playability
 - Durability and cover material to ensure longevity during play
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for winter golf balls in yellow, consider the unique benefits they offer. The bright color enhances visibility against a snow-covered landscape, making it easier to track your shots. Look for balls specifically designed for cold-weather performance, as they often feature softer covers for improved control and distance even in lower temperatures.
 
@@ -65,7 +65,7 @@ _What to compare:_
 - **Cover Material:** Softer covers for enhanced spin and control.
 - **Visibility:** Bright yellow color for easy tracking in winter settings.
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Head design and size for improved forgiveness
 - Adjustability features for customized trajectory settings
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, it's essential to focus on specifications that enhance performance and comfort. Key benefits include increased distance, improved accuracy, and a larger sweet spot. Look for drivers with adjustable loft settings, which allow you to customize the launch angle to suit your swing style. Common mistakes include prioritizing aesthetics over functionality and neglecting to test the feel of the club in hand.
 
@@ -95,7 +95,7 @@ _What to compare:_
 - Adjustable features: Check for adjustable weights and loft to refine your performance.
 - Shaft flexibility: Different shaft flex options can influence your swing speed and accuracy.
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **high MOI driver.** When shopping for a high Moment of Inertia (MOI) driver, look for features that enhance stability and minimize twisting upon impact, which can improve accuracy and distance. Key specifications to consider include the driver’s head size and weight distribution, as a larger head tends to offer a higher MOI. Pay attention to adjustable weights or loft options that can customize performance to suit your swing style. A common mistake is choosing solely based on aesthetics or brand popularity rather than on personal performance metrics or fitting.
 
@@ -109,7 +109,7 @@ _What to compare:_
 - Weight distribution and adjustability features
 - Shaft material and flexibility options
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for a game improvement driver, focus on features that enhance performance, such as a larger clubface for increased forgiveness and a lighter shaft for easier swing mechanics. Look for specifications like adjustable loft and face angle, which allow for customization based on your swing style. Common mistakes include prioritizing aesthetics over performance and neglecting to test different models for feel and feedback. Popular types of game improvement drivers often include those with a high MOI (Moment of Inertia) design and lightweight materials aimed at boosting swing speed.
 
@@ -121,7 +121,7 @@ _What to compare:_
 - **Shaft weight and flex:** Ensure it matches your swing speed for optimal performance.
 - **Adjustability features:** Look for options that allow you to tweak loft and lie angles.
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -135,7 +135,7 @@ _What to compare:_
 - Shaft material and flex compatibility with your swing
 - Overall weight distribution for optimal feel and control
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, focus on achieving a balance between power and accuracy. These irons are designed to offer enhanced distance without sacrificing control, making them ideal for mid to low handicappers. Key specifications to consider include the clubhead design, which typically features a thin face for increased ball speed, and the loft angles, which can affect launch and distance. Avoid common mistakes such as neglecting to test various shaft lengths and flexes, as the right fit is crucial for performance.
 
@@ -149,7 +149,7 @@ _What to compare:_
 - Shaft length and flex options
 - Loft angles and their impact on launch trajectory
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, it's essential to consider various factors to enhance your short game. A gap wedge typically fills the distance gap between your pitching wedge and sand wedge, providing better accuracy for approach shots from 100 to 120 yards. Look for features such as the clubhead material, loft design, and bounce angle, which can significantly impact your performance and feel. 
 
@@ -163,7 +163,7 @@ _What to compare:_
 - **Bounce Angle:** Higher bounce for softer turf, lower for firmer ground.
 - **Grind Options:** Different sole grinds can improve versatility and shot-making.
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 ### FAQ
 

@@ -20,7 +20,7 @@ _What to compare:_
 - Model year / tech carryover
 - Fast shipping if timing matters
 
-➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** Expect better ball-speed retention on mishits and refined acoustics. Current-gen drivers bring tighter tolerances and more adjustable weighting.
 
@@ -29,7 +29,7 @@ _What to compare:_
 - Spin window vs launch (mid/low spin if you launch high)
 - Sound/feel preference (confidence matters)
 
-➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -42,7 +42,7 @@ _What to compare:_
 - Stiffness & length
 - Color visibility
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **Pro V1 deals.** Bulk pricing swings during season changes and holidays. Compression and feel affect distance control more than raw speed. Urethane covers provide greenside spin and wind control.
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Dimple stability in wind
 - Urethane vs ionomer cover
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **swing tempo trainer.** Weighted or whippy trainers smooth sequencing from the top. Heavier heads promote rhythm over hit impulse. Longer versions exaggerate timing cues for feel learners.
 
@@ -61,7 +61,7 @@ _What to compare:_
 - Indoor-safe grip/cover
 - Head weight placement
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 ### Training & Tech
 
@@ -74,7 +74,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Price vs review count
 
-➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **impact bag.** Scan size/fit details and return policy before checkout. Sort by rating with a minimum review count to avoid paid noise. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -83,7 +83,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Sizing/fit & returns
 
-➡️  [See impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️  [See impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **golf launch monitor.** Personal launch monitors are accurate enough outdoors for gapping. Exportable shot libraries make progress trackable. Indoors, prioritize units that measure spin and club data.
 
@@ -93,6 +93,6 @@ _What to compare:_
 - App export & session history
 - Measured vs modeled data
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 New variants post regularly—check back tomorrow. Some links may be monetized (Amazon Associates).

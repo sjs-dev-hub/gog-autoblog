@@ -8,7 +8,7 @@ categories: deals
 As the season turns, your grip shouldn’t slip. Quality golf gloves protect your shot in wet mornings or long rounds — without needing a premium price tag.
 
 **Top Value Picks (September 2025)**  
-[Shop Golf Gloves on Amazon](https://www.amazon.com/s?k=golf+gloves&tag=guildofgolfde-20)
+[Shop Golf Gloves on Amazon](https://www.amazon.com/s?k=golf+gloves&tag=guildofgolf02-20)
 
 - **FootJoy WeatherSof** — soft feel + weather-resistant, great durability for the price.  
 - **Callaway Dawn Patrol** — comfortable cabretta leather with reliable grip.  

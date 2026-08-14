@@ -22,7 +22,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** raw wedge buying notes.
 
@@ -31,7 +31,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **gap wedge 50.** gap wedge 50 buying notes.
 
@@ -40,7 +40,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **draw bias driver.** draw bias driver buying notes.
 
@@ -60,7 +60,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** driver under $300 buying notes.
 
@@ -69,7 +69,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -80,7 +80,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **alignment sticks.** alignment sticks buying notes.
 
@@ -89,7 +89,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** golf balls 3 piece buying notes.
 
@@ -98,7 +98,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -109,7 +109,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mat.** putting mat buying notes.
 
@@ -118,7 +118,7 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** swing analyzer buying notes.
 
@@ -127,14 +127,14 @@ _What to compare:_
 - Durability
 - Fit for swing
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 ### Related Searches
 
-- [impact bag — on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
-- [putting mat — on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
-- [swing analyzer — on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
-- [forged irons — on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
-- [raw wedge — on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+- [impact bag — on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
+- [putting mat — on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
+- [swing analyzer — on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
+- [forged irons — on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
+- [raw wedge — on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

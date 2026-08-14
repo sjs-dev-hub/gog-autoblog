@@ -21,7 +21,7 @@ _What to compare:_
 - Shaft flexibility: Consider if you need a stiffer or more flexible shaft based on your swing speed and style.
 - Weight distribution: Check how the weight is distributed throughout the clubhead to optimize forgiveness and control.
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, it’s essential to focus on performance features that enhance your game without breaking the bank. Look for drivers with adjustable loft settings, which can help customize trajectories for improved accuracy and distance. Pay attention to shaft flex, as a proper fit can significantly affect your swing speed and control. 
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Adjustable loft and weight settings
 - Face design and forgiveness features
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, it's essential to focus on both performance and fit. Look for lightweight materials and adjustable features that allow you to customize loft and lie angles to suit your swing. Common specifications to consider include shaft flexibility, clubhead size, and forgiveness levels. A common mistake is selecting a driver based solely on looks or marketing claims rather than how it complements your playing style. 
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Shaft type and flex for better energy transfer and control.
 - Adjustability features that allow for customization based on your swing characteristics.
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -67,7 +67,7 @@ _What to compare:_
 - Spin characteristics on different surfaces
 - Durability and cover material
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for winter golf balls in yellow, consider the specific benefits they offer in colder conditions. These balls are typically designed with softer covers to maintain performance and feel in lower temperatures, helping to preserve distance and control. Look for features like a lower compression rating, which can enhance playability during chilly rounds. 
 
@@ -83,7 +83,7 @@ _What to compare:_
 - Cover material: Softer covers offer improved feel and control.
 - Visibility: Bright yellow colors enhance visibility against winter landscapes.
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, focus on understanding its benefits, specifications, and common mistakes. A swing tempo trainer helps golfers develop a consistent rhythm, improving overall swing mechanics and resulting in better performance on the course. Look for adjustable models that allow customization based on your swing style, and consider trainers with visual or audio feedback to enhance learning.
 
@@ -97,7 +97,7 @@ _What to compare:_
 - Feedback mechanisms (visual cues, sound alerts)
 - Material quality and durability for long-term use
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -113,7 +113,7 @@ _What to compare:_
 - Grind types for optimal turf interaction.
 - Material and finish for feel and durability.
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, it's essential to balance performance with personal preferences. These irons are designed to provide added distance without sacrificing control, making them ideal for mid to low handicap golfers. Look for features like a thinner face for increased ball speed and a lower center of gravity for improved launch angles. 
 
@@ -127,7 +127,7 @@ _What to compare:_
 - **Weight Distribution:** Look at how weight is positioned within the club head for optimal stability.
 - **Shaft Material:** Evaluate whether steel or graphite shafts suit your swing and feel preferences.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, prioritize your skill level and playing style. Forged irons are known for their superior feel and control, making them a favorite among better players. Consider specifications such as the club's loft, offset, and shaft material to ensure they match your swing dynamics. 
 
@@ -141,7 +141,7 @@ _What to compare:_
 - **Loft and lie angles**: Ensure the specifications align with your desired trajectory and accuracy.
 - **Shaft options**: Consider flexibility and material for optimal performance and comfort.
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, it's essential to consider its versatility and role in your short game. A gap wedge fills the distance gap between your pitching wedge and sand wedge, typically offering a loft that helps achieve precision on approach shots and delicate chips around the green. Key specifications to keep in mind include the club's weight, shaft length, and material, as these factors influence performance.
 
@@ -155,7 +155,7 @@ _What to compare:_
 - Shaft material and flex options
 - Grip size and overall comfort during use
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -169,7 +169,7 @@ _What to compare:_
 - **Size and weight:** Consider what size best suits your practice area and whether you prefer a heavier bag for stability.
 - **Portability:** Evaluate if the bag is easy to carry, with handles or straps, to facilitate practice anywhere.
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, consider its size, surface material, and portability. A quality putting mat can help improve your accuracy and confidence on the greens by allowing you to practice at home. Look for mats with realistic turf that mimic the feel of actual greens, as well as adjustable slopes or targets to enhance your practice routine. Common mistakes include choosing a mat that is too small for your space or neglecting to check for non-slip backing, which ensures safety during use. 
 
@@ -183,7 +183,7 @@ _What to compare:_
 - Surface material and texture
 - Portability and ease of storage
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** When shopping for a swing analyzer, focus on the benefits it offers for improving your golf game. A good swing analyzer can provide insights into swing speed, angle, and tempo, helping you identify areas for improvement. Look for devices that offer real-time feedback, usability with various clubs, and compatibility with smartphones or tablets for easy data tracking. Common mistakes include opting for overly complex models that may be difficult to interpret, or neglecting to check the battery life and portability features.
 
@@ -197,6 +197,6 @@ _What to compare:_
 - Device compatibility (smartphones, tablets)
 - Ease of use and setup
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

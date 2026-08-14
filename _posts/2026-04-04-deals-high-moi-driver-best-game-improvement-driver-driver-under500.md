@@ -23,7 +23,7 @@ _What to compare:_
 - Weight distribution and adjustability
 - Shaft flexibility and material
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for a game improvement driver, it's essential to consider factors that enhance your performance on the course. These drivers typically feature larger clubheads, which provide a larger sweet spot, allowing for better forgiveness on off-center hits. Look for adjustable loft and lie settings to customize your launch angle and trajectory. Common mistakes include focusing solely on aesthetics or being swayed by marketing gimmicks rather than performance specifications.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Shaft flexibility and weight for optimal swing speed
 - Adjustability options for customization to your playing style
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, it’s essential to focus on key specifications and features that enhance your performance on the course. Look for adjustable loft and lie angles, which allow for customization based on your swing. Consider the clubhead size—larger heads typically offer more forgiveness on off-center hits. One common mistake is prioritizing aesthetics over performance; a visually appealing driver won't help if it doesn't suit your play style. Examples of popular types include a high-MOI driver for stability and a lightweight driver designed for increased swing speed.
 
@@ -49,7 +49,7 @@ _What to compare:_
 - Shaft flexibility and length
 - Adjustability features (loft, weight distribution)
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, it's crucial to balance quality and performance without overspending. Start by considering the clubhead size, usually around 440cc to 460cc, as larger heads provide a larger sweet spot for forgiveness on off-center hits. Additionally, pay attention to the shaft material and flex, which can significantly impact your swing dynamics. Avoid common mistakes, such as focusing solely on appearance rather than performance specifications or ignoring the importance of a proper fitting.
 
@@ -63,7 +63,7 @@ _What to compare:_
 - Shaft material and flex for swing compatibility.
 - Adjustable loft and weight settings for tailored performance.
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -79,7 +79,7 @@ _What to compare:_
 - Shaft flex and weight options
 - Loft and lie angle adjustments
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, consider its unique benefits, such as enhanced spin control and a more tactile feel when striking the ball. Raw wedges typically feature an uncoated surface that allows for greater friction and improved performance around the greens. Key specifications to look for include loft options—typically ranging from 50 to 64 degrees—and bounce angles, which influence how the club interacts with the turf.
 
@@ -93,7 +93,7 @@ _What to compare:_
 - Grinds and sole designs to match your typical course conditions
 - Weight distribution for better performance and feel during swings
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, it’s important to consider several factors to ensure you select the right club for your game. A gap wedge fills the distance gap between your pitching wedge and sand wedge, typically providing a range of 100-120 yards. Look for features like clubhead design, loft angle, and grip style to match your swing. Common mistakes include opting for a wedge that is too heavy or misjudging the bounce angle, which can affect your performance on different turf conditions. 
 
@@ -107,7 +107,7 @@ _What to compare:_
 - Clubhead design (cavity-back vs. blade)
 - Grip size and material for comfort
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -123,7 +123,7 @@ _What to compare:_
 - Ease of use and setup
 - Compatibility with other golf accessories and software
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, consider the benefits such as improved putting accuracy and the convenience of practice at home. Look for specifications like the mat's length, surface material, and the inclusion of alignment guides. A quality putting mat typically simulates the feel of real greens, making your practice sessions more effective. Common product types include indoor putting mats, which can be rolled up for easy storage, and adjustable incline mats that help enhance your skills by varying the difficulty.
 
@@ -132,7 +132,7 @@ _What to compare:_
 - **Size**: Choose a mat size that fits your practice space while allowing for comfortable putting practice.
 - **Features**: Consider additional features like built-in targets, alignment aids, or adjustable slopes for varied training.
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, focus on its design and durability to effectively enhance your golf swing training. An impact bag is essential for developing proper impact positions and muscle memory, allowing you to practice your swing without the need for a ball. Look for models constructed from heavy-duty materials that can withstand repeated strikes and offer adequate cushioning.
 
@@ -146,7 +146,7 @@ _What to compare:_
 - Size and weight for specific training needs
 - Design features, such as stability and cushioning effectiveness
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 ### Quick Picks
 

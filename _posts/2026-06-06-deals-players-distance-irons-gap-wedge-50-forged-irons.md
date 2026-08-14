@@ -23,7 +23,7 @@ _What to compare:_
 - **Shaft material:** Consider graphite for lighter weight or steel for stability.
 - **Offset:** Evaluate the amount to aid in correcting slices or hooks.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, it’s essential to consider its role in your short game. This versatile club fills the distance gap between your pitching wedge and sand wedge, allowing for more precise shots around the green. Look for a model that offers a comfortable grip and a suitable shaft length for your height and swing style. Common mistakes include choosing a wedge solely based on aesthetics rather than performance features, such as bounce and loft. 
 
@@ -37,7 +37,7 @@ _What to compare:_
 - **Weight Distribution:** Affects feel and stability through the swing.
 - **Groove Pattern:** Influences spin and control on various surfaces.
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, it’s essential to understand their benefits and specifications. Forged irons are known for their superior feel and control, offering a softer impact and better feedback on shots. When selecting forged irons, consider the weight, shaft flex, and the player's skill level. Common types include players’ irons, which provide precision for experienced golfers, and game improvement irons, designed to help elevate performance for mid-handicappers.
 
@@ -51,7 +51,7 @@ _What to compare:_
 - **Clubhead Design:** Consider the shape and size, which can influence playability and forgiveness.
 - **Shaft Options:** Assess the flex and weight of the shaft to match your swing style and strength.
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, it's important to focus on specific features that enhance your short game. Raw wedges are typically unplated, providing a unique feel and better spin due to their textured surface. Look for options with varying lofts and bounce angles tailored to your playing style and course conditions. Common types include pitching wedges and sand wedges, which serve distinct purposes around the greens.
 
@@ -63,7 +63,7 @@ _What to compare:_
 - **Material and Finish:** Consider the type of metal used and whether a raw finish suits your preference for rusting and feel.
 - **Grip Options:** Ensure the grip size and texture align with your comfort and control needs for various shots.
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Size and weight for portability
 - Stability and feedback during impact
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, focus on enhancing your practice routine by improving alignment and stroke mechanics. Look for a mirror that offers a large surface area, allowing you to see your entire stance and alignment during practice. Consider the thickness and weight of the mirror for durability and stability on uneven surfaces. Common mistakes include choosing a mirror that is too small to capture your full setup or neglecting to check for clear reflection quality.
 
@@ -95,7 +95,7 @@ _What to compare:_
 - Reflection clarity for accurate feedback on alignment.
 - Portability and stability features for varied practice environments.
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, consider its benefits such as the ability to practice your putting stroke at home, which can save time and improve your skills. Look for mats that simulate real green conditions, featuring various slopes and textures. Additionally, check the material for durability and ease of maintenance. Common specifications include size, thickness, and roll consistency, which can impact your practice experience. 
 
@@ -111,7 +111,7 @@ _What to compare:_
 - Material quality for durability and realistic feel
 - Surface texture and slope options for diverse practice scenarios
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** When shopping for a swing analyzer, consider how it can enhance your game by providing insights into your swing mechanics, tempo, and overall performance. Look for models that offer real-time feedback, compatibility with smartphones or tablets, and ease of use. Pay attention to battery life and data accuracy, as these can significantly impact your training sessions. Common mistakes include overlooking the importance of user reviews and selecting features that may not align with your specific needs. 
 
@@ -125,7 +125,7 @@ _What to compare:_
 - Compatibility with devices and apps
 - Battery life and ease of setup
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -141,7 +141,7 @@ _What to compare:_
 - Clubhead design and face angle
 - Shaft options and flexibility
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for the best game improvement driver, focus on features that enhance forgiveness, distance, and accuracy. Look for larger clubheads, as they typically provide a bigger sweet spot, leading to better off-center hits. Adjustable loft and lie settings can help tailor the driver to your swing style, improving performance. Common mistakes include overlooking shaft flexibility and grip size, which can greatly affect comfort and control.
 
@@ -155,7 +155,7 @@ _What to compare:_
 - **Shaft Flexibility**: Match the shaft to your swing speed for optimal performance.
 - **Adjustability Features**: Look for options that allow customization for loft and lie angles.
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, focus on key specifications to ensure you get the best performance for your game. Look for features like adjustable loft settings, which allow for customization based on your swing style and trajectory preferences. Consider the clubhead size; a larger face can offer more forgiveness on off-center hits. Avoid common mistakes like prioritizing aesthetics over functionality—it's essential to choose a driver that complements your playing style rather than just one that looks good. 
 
@@ -169,6 +169,6 @@ _What to compare:_
 - Clubhead design (forgiveness vs. distance)
 - Weight distribution (for optimal swing speed and control)
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

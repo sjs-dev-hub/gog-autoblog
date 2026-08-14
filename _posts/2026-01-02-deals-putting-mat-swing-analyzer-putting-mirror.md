@@ -23,7 +23,7 @@ _What to compare:_
 - Length and width options for varying practice space
 - Alignment features and roll consistency
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** When shopping for a swing analyzer, it’s essential to understand the benefits it offers, such as improved swing mechanics, enhanced performance feedback, and the ability to track progress over time. Look for models that provide detailed metrics like swing speed, tempo, and angle of attack, which can be crucial for golfers at any skill level. 
 
@@ -39,7 +39,7 @@ _What to compare:_
 - Ease of use and setup process
 - Compatibility with smartphones and golf training software
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, it’s essential to look for features that enhance your practice and improve your alignment. A putting mirror helps golfers develop a consistent stroke by allowing them to visually assess their setup and alignment. Opt for a model that is portable and durable, with adjustable sizes to fit your space. 
 
@@ -55,7 +55,7 @@ _What to compare:_
 - Surface quality and clarity
 - Alignment markings and additional features
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **golf launch monitor.** When shopping for a golf launch monitor, it's essential to understand the benefits it can provide, such as improved swing analysis, shot distance tracking, and real-time feedback. Look for key specifications including accuracy, portability, and the types of metrics offered, such as ball speed, launch angle, and spin rate. Common mistakes include focusing solely on price rather than features, overlooking connectivity options, and not considering how user-friendly the interface is.
 
@@ -69,7 +69,7 @@ _What to compare:_
 - Portability and ease of setup
 - Compatibility with mobile devices and software applications
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -85,7 +85,7 @@ _What to compare:_
 - Cover material for durability and spin control
 - Core construction for overall performance and playability
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **alignment sticks.** When shopping for alignment sticks, consider how they can enhance your practice sessions by improving your stance, aim, and swing path. Look for lightweight, durable materials that are easy to transport, such as fiberglass or high-quality plastic. Common specifications include length—typically around 48 inches—and visibility, with options in bright colors to enhance visibility on the course. Avoid common mistakes like choosing sticks that are too short for your height or overly rigid materials that may break during use. Examples of alignment sticks include simple, straight rods and adjustable models that offer multi-angle setups for varied drills.
 
@@ -97,7 +97,7 @@ _What to compare:_
 - Material durability for long-term use
 - Visibility options for effective practice settings
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, it's essential to focus on the features that best align with your needs. These devices help golfers develop a consistent rhythm in their swing, which can enhance overall performance. Look for trainers that offer adjustable settings to cater to different swing speeds and styles. Common specifications include weight, length, and material, as these can influence the effectiveness of your practice sessions. 
 
@@ -111,7 +111,7 @@ _What to compare:_
 - Material durability and flexibility
 - User reviews on effectiveness and ease of use
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -127,7 +127,7 @@ _What to compare:_
 - Shaft flexibility and length to suit your swing style
 - Clubhead design, including materials and aerodynamics for improved distance and accuracy
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **high MOI driver.** When shopping for a high MOI (Moment of Inertia) driver, focus on how this design enhances stability and reduces twisting upon impact, leading to more consistent ball flight and improved accuracy. Key specifications to consider include the driver’s weight distribution, the size of the clubhead, and the material used in construction. Common types include oversized drivers and adjustable weight drivers, which allow for customization based on individual swing dynamics.
 
@@ -141,7 +141,7 @@ _What to compare:_
 - Weight distribution and adjustability features
 - Shaft flex options and their impact on swing speed
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for the best game improvement driver, consider focusing on features that can enhance your performance on the course. Look for drivers that offer a larger clubface for increased forgiveness on off-center hits. High-lofted options can help elevate the ball, resulting in a higher launch angle and better distance. Pay attention to the adjustable weighting systems that can help you fine-tune ball flight. 
 
@@ -155,7 +155,7 @@ _What to compare:_
 - **Loft Options:** Higher loft can assist with easier launches.
 - **Shaft Flexibility:** Ensure it matches your swing speed for optimal performance.
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 ### FAQ
 

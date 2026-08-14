@@ -17,13 +17,13 @@ _What to compare:_
 - Fast shipping if timing matters
 - Price vs review volume
 
-➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -50,13 +50,13 @@ _What to compare:_
 - Fast shipping if timing matters
 - Model year / tech carryover
 
-➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -75,13 +75,13 @@ _What to compare:_
 - Fast shipping if timing matters
 - Model year / tech carryover
 
-➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -102,13 +102,13 @@ _What to compare:_
 - Model year / tech carryover
 - Price vs review volume
 
-➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -127,13 +127,13 @@ _What to compare:_
 - Sizing/fit & returns
 - Model year / tech carryover
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -153,13 +153,13 @@ _What to compare:_
 - Price vs review volume
 - Fast shipping if timing matters
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -179,13 +179,13 @@ _What to compare:_
 - Price vs review volume
 - Fast shipping if timing matters
 
-➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -204,13 +204,13 @@ _What to compare:_
 - Price vs review volume
 - Sizing/fit & returns
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -231,13 +231,13 @@ _What to compare:_
 - Sizing/fit & returns
 - Fast shipping if timing matters
 
-➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -256,13 +256,13 @@ _What to compare:_
 - Sizing/fit & returns
 - Price vs review volume
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";
@@ -282,13 +282,13 @@ _What to compare:_
 - Price vs review volume
 - Model year / tech carryover
 
-➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 <div class="amzn-native" style="margin: 8px 0 12px;">
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
     amzn_assoc_search_bar = "false";
-    amzn_assoc_tracking_id = "guildofgolfde-20";
+    amzn_assoc_tracking_id = "guildofgolf02-20";
     amzn_assoc_ad_mode = "search";
     amzn_assoc_ad_type = "smart";
     amzn_assoc_marketplace = "amazon";

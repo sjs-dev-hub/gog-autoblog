@@ -20,7 +20,7 @@ _What to compare:_
 - Dozen vs bulk/practice packs
 - Dimple stability in wind
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **alignment sticks.** High-contrast colors stay visible in rough or low light. Gate drills sharpen start line and face control.
 
@@ -30,7 +30,7 @@ _What to compare:_
 - Clips for plane/putting drills
 - Color visibility
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **swing tempo trainer.** Heavier heads promote rhythm over hit impulse. Weighted or whippy trainers smooth sequencing from the top. Longer versions exaggerate timing cues for feel learners.
 
@@ -39,7 +39,7 @@ _What to compare:_
 - Overall length
 - Indoor-safe grip/cover
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** Scan size/fit details and return policy before checkout. Use this search to jump straight into relevant options and filter by price, reviews and shipping. Sort by rating with a minimum review count to avoid paid noise.
 
@@ -48,7 +48,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Price vs review count
 
-➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 ### Irons & Wedges
 
@@ -62,7 +62,7 @@ _What to compare:_
 - Model year / tech carryover
 - Sizing/fit & returns
 
-➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** Bounce and sole grind should match your turf and delivery. Keep shaft and swing-weight consistent with your irons. A 50° wedge bridges modern PW-to-SW gaps for tighter yardages.
 
@@ -72,7 +72,7 @@ _What to compare:_
 - Shaft match to irons
 - Bounce/grind for turf/sand
 
-➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **players distance irons.** Blend sets if you want GI long irons with sleeker scoring clubs. Loft jacking is common—check gapping at the bottom. Hollow or thin-face designs give ball speed in compact shapes.
 
@@ -82,7 +82,7 @@ _What to compare:_
 - Loft & gapping
 - Forgiveness vs topline look
 
-➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** Sort by rating with a minimum review count to avoid paid noise. Scan size/fit details and return policy before checkout. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -92,7 +92,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Model year / tech carryover
 
-➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 ### Drivers by Budget
 
@@ -105,7 +105,7 @@ _What to compare:_
 - Spin window vs launch (mid/low spin if you launch high)
 - Stock shaft profile fit
 
-➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 ### Training & Tech
 
@@ -119,7 +119,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Price vs review count
 
-➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **golf launch monitor.** Indoors, prioritize units that measure spin and club data. Personal launch monitors are accurate enough outdoors for gapping.
 
@@ -129,7 +129,7 @@ _What to compare:_
 - App export & session history
 - Measured vs modeled data
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mat.** Sort by rating with a minimum review count to avoid paid noise. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -139,7 +139,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Price vs review count
 
-➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** Sort by rating with a minimum review count to avoid paid noise. Use this search to jump straight into relevant options and filter by price, reviews and shipping. Scan size/fit details and return policy before checkout.
 
@@ -148,6 +148,6 @@ _What to compare:_
 - Sizing/fit & returns
 - Price vs review count
 
-➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 We refresh this feed automatically. Bookmark if it helps. Some links may be monetized (Amazon Associates).

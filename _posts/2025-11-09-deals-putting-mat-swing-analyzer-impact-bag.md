@@ -23,7 +23,7 @@ _What to compare:_
 - Size and portability
 - Surface texture and slope features
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** When shopping for a swing analyzer, it's essential to understand its benefits, specifications, and common mistakes. These devices provide valuable insights into your swing mechanics, helping you identify areas for improvement. Look for features such as real-time feedback, data accuracy, and compatibility with smartphones or tablets. A well-rounded swing analyzer can help you analyze metrics like club speed and swing path.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Connectivity options and compatibility with devices
 - User interface and ease of use
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, it's essential to focus on its benefits for improving your swing mechanics and enhancing your ball striking. Look for bags made from durable materials that can withstand repeated impacts. Consider size and weight, as a bag that is too heavy or large may hinder practice. Common mistakes include choosing a bag that is too soft or flimsy, which can diminish its effectiveness. 
 
@@ -51,7 +51,7 @@ _What to compare:_
 - **Weight & Portability:** Look for options that are easy to transport for practice on the go.
 - **Size & Design:** Choose a bag that aligns with your swing style and available practice space.
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -67,7 +67,7 @@ _What to compare:_
 - Shaft options (flexibility and length)
 - Lie angle and overall club design
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **hollow body irons.** When shopping for hollow body irons, it's essential to consider their unique construction and performance benefits. Hollow body designs enhance forgiveness and distance, making them ideal for golfers seeking to improve their game. Look for specifications such as the weight distribution, the material used for construction, and the clubhead size, as these factors influence playability and feel.
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Shaft flexibility and material for optimal performance
 - Weight distribution for better balance and control
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, it's essential to understand its unique benefits, specifications, and common pitfalls. Raw wedges are designed for better spin and feel, as the uncoated finish allows for more friction on the ball. Look for features such as loft angle, bounce, and grind type, which affect how the club interacts with various lies and conditions. Common mistakes include choosing a wedge that doesn't complement your swing style or neglecting to consider the desired finish, which can impact durability and maintenance.
 
@@ -94,7 +94,7 @@ _What to compare:_
 - Bounce options for different turf conditions
 - Grind type suitable for your swing style and course conditions
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -110,7 +110,7 @@ _What to compare:_
 - Shaft flex for personalized performance
 - Weight distribution options for swing balance
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **high MOI driver.** When shopping for a high MOI (Moment of Inertia) driver, players should focus on enhancing stability and forgiveness during their swing. A high MOI driver minimizes twist on impact, leading to straighter shots even on off-center hits. Key specifications to consider include the clubhead size, weight distribution, and adjustable features that allow for personalized settings. Common types include oversized drivers and those with weighted soles, which can help optimize balance. Avoid common mistakes such as prioritizing aesthetics over performance or neglecting to test various flex options. 
 
@@ -122,7 +122,7 @@ _What to compare:_
 - **Weight Distribution:** Look for designs that position weight towards the perimeter for improved stability.
 - **Adjustability:** Options for adjusting loft and lie angles can enhance customization for different swings.
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, it's essential to focus on specifications that enhance your performance on the course. Look for features like adjustable loft and lie settings, which can help tailor the club to your swing style. A larger clubhead can provide a larger sweet spot, making it easier to achieve distance and accuracy. Common mistakes include prioritizing aesthetics over performance; remember that technology and feel are crucial. 
 
@@ -136,7 +136,7 @@ _What to compare:_
 - Shaft material and flexibility to suit your swing
 - Adjustability features for personalized performance
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for the best game improvement driver, focus on features that enhance performance and boost confidence on the tee. Look for drivers with a larger clubhead, which provides a larger sweet spot, making it easier to hit straighter and longer drives. Adjustable loft settings can also help you optimize your launch angle for better distance and accuracy. 
 
@@ -150,6 +150,6 @@ _What to compare:_
 - Adjustability features (loft and face angle)
 - Shaft material and flex options
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

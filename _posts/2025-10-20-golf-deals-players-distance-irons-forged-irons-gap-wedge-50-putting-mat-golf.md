@@ -17,7 +17,7 @@ _What to compare:_
 - Shaft weight/profile match
 - Set blending with GI long irons
 
-➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **forged irons.** Forged heads emphasize feel and workability. They’re less forgiving but reward center strikes with precise flight windows.
 
@@ -27,7 +27,7 @@ _What to compare:_
 - Swing-weight consistency
 - Chroming/durability of finish
 
-➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** A 50° gap wedge bridges modern iron lofts and your 56/60. It tightens yardage gaps and adds a versatile flight around the green.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Groove sharpness & spin durability
 - Shaft match to your irons
 
-➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 ### Training & Tech
 
@@ -49,7 +49,7 @@ _What to compare:_
 - Alignment guides for start line
 - Storage (roll-up without creases)
 
-➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **golf launch monitor.** Personal launch monitors are now accurate enough outdoors to guide gapping and equipment choices. Indoors, look for better spin/club tracking.
 
@@ -59,7 +59,7 @@ _What to compare:_
 - Software/app export (CSV/shot library)
 - Battery life and tripod/leveling ease
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **swing analyzer.** Wearable sensors reveal face/path tendencies and tempo ratios. They’re best for practice sessions—not tournament rounds.
 
@@ -69,7 +69,7 @@ _What to compare:_
 - Video sync for feedback
 - Subscription cost vs features
 
-➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Flex profile (more whip = better timing cues)
 - Indoor-safe grip/cover
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **Pro V1 deals.** This is a high-intent search—use it to jump straight to relevant options and filter by price, reviews, and shipping.
 
@@ -91,7 +91,7 @@ _What to compare:_
 - Size/fit options and returns
 - Prime/fast shipping when timing matters
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** Three-piece designs balance price with performance: typically ionomer covers with lively cores for speed and decent flight control.
 
@@ -101,7 +101,7 @@ _What to compare:_
 - Compression (softer feel for slower speeds)
 - Color/visibility on overcast days
 
-➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **alignment sticks.** Cheap, high-leverage training aid. Use two on the ground for stance and target line; mix in gate drills for start-line control.
 
@@ -111,6 +111,6 @@ _What to compare:_
 - Caps for safety (no sharp ends)
 - Bundle with clips for plane/putting gates
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 Come back tomorrow for new picks. We add context first, links second—so you can buy with confidence. Some links may be monetized (Amazon Associates).

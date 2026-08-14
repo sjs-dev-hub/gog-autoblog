@@ -21,7 +21,7 @@ Example product types include cavity back forged irons for added forgiveness and
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Explore forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50** — When shopping for a 50-degree gap wedge, consider its role in your short game to enhance precision and control. Gap wedges are ideal for filling the distance between your pitching wedge and sand wedge, typically used for approach shots or delicate chips around the green. Look for a club with a comfortable grip and suitable shaft length to ensure proper swing mechanics.
 
@@ -33,7 +33,7 @@ Examples of product types to consider are a forged gap wedge for better feel and
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **hollow body irons** — When shopping for hollow body irons, consider their enhanced forgiveness and distance characteristics. These clubs feature a hollow construction that allows for more weight distribution, which can lead to improved accuracy and a larger sweet spot. Look for specifications such as the club's loft, shaft flex, and overall weight, as these factors can significantly impact your performance. Common mistakes include selecting irons that are not suited to your swing speed or playing style. 
 
@@ -43,7 +43,7 @@ Examples of hollow body irons include game improvement models designed for mid t
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -55,7 +55,7 @@ Example product types include a portable putting alignment mirror and a larger, 
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **impact bag** — When shopping for an impact bag, it's essential to consider its design and material, as these factors affect durability and performance. An impact bag is a training tool that helps golfers develop proper swing mechanics and improve their impact position, which can lead to better ball striking and distance control. Look for bags made from high-quality materials that can withstand repeated strikes, as well as those with adjustable weight options for varied resistance.
 
@@ -67,7 +67,7 @@ Examples of impact bags might include a basic inflatable model for portability o
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **golf launch monitor** — When shopping for a golf launch monitor, consider how it can enhance your practice by providing detailed data on swing speed, ball speed, launch angle, and more. These devices come in various types, from portable units that connect to your mobile device to more comprehensive setups for indoor use. Look for features like accuracy, data display, and ease of use. Common mistakes include overlooking compatibility with other devices and not considering your specific practice needs.
 
@@ -79,7 +79,7 @@ _Sample product types:_ tour ball etc.
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mat** — When shopping for a putting mat, consider the benefits of practicing at home, including improved stroke consistency and increased confidence on the green. Look for mats that mimic real grass textures and slopes to simulate authentic putting conditions. Key specifications include size, material, and thickness; a thicker mat often provides better feel, while a larger size allows for more versatile practice. Common mistakes include choosing a mat that is too small or doesn’t have the right speed. 
 
@@ -89,7 +89,7 @@ Examples of product types include indoor putting mats with adjustable slopes or 
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -101,7 +101,7 @@ Consider types like a titanium driver for durability and distance or a composite
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **high MOI driver** — When shopping for a high MOI (Moment of Inertia) driver, focus on its ability to enhance stability and reduce twisting during impact, resulting in greater accuracy and distance. Look for features such as a larger clubhead design, which further increases MOI, and adjustable weights that can help fine-tune performance to your swing style. Common oversights include neglecting to test the club's feel and balance during swings, as a comfortable grip can influence your overall game.
 
@@ -111,7 +111,7 @@ Generic example product types include a high MOI driver with a composite crown f
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver** — When shopping for the best game improvement driver, focus on features that enhance distance, accuracy, and forgiveness. Look for drivers with a larger clubface and higher Moment of Inertia (MOI), which help minimize the impact of off-center hits. Adjustable loft and weighting can also be beneficial, as they allow customization to suit your swing style. 
 
@@ -125,7 +125,7 @@ Common mistakes include prioritizing aesthetics over performance and not getting
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **draw bias driver** — When shopping for a draw bias driver, consider how it can help correct a slice and promote a straighter ball flight. Look for specifications like adjustable weights, loft angles, and face angle, which can influence the driver’s performance. Make sure to assess the overall swing speed and playing style, as this will determine the best shaft flex and kick point for your needs. 
 
@@ -137,7 +137,7 @@ Example product types include adjustable draw bias drivers and fixed draw bias d
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 ### Buying Checklist
 

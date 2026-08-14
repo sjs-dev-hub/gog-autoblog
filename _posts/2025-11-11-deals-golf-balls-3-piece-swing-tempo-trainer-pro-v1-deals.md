@@ -19,7 +19,7 @@ Common product types include tour-level and premium performance balls, each desi
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **swing tempo trainer** — When shopping for a swing tempo trainer, consider the benefits it offers in improving your swing consistency and rhythm. Look for models that provide clear feedback on your swing speed and timing, as this can help you develop a smoother, more effective swing. Pay attention to specifications such as adjustable weights for personalized training, portability for convenience, and durability to withstand regular use. Common types include flexible training rods and weighted swing trainers, both designed to enhance your swing mechanics.
 
@@ -27,7 +27,7 @@ _Sample product types:_ game-improvement head etc.
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **pro v1 deals** — When shopping for Pro V1 golf balls, it's essential to understand their benefits and specifications to maximize your performance on the course. Look for features like a low spin rate for longer distances and a soft feel for exceptional control around the greens. Avoid common mistakes such as purchasing balls that are not suited for your skill level or playing style. Consider products like premium urethane-covered balls for enhanced spin or multi-layered options for better distance and feel.
 
@@ -35,7 +35,7 @@ _Sample product types:_ tour ball etc.
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Explore pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -47,7 +47,7 @@ Examples of driver types to consider include lightweight composite drivers and a
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **draw bias driver** — When shopping for a draw bias driver, consider how this specialized club can help correct a slice and promote a more consistent ball flight. Look for features like offset designs, closed clubface angles, and specialized weighting that encourages a right-to-left ball trajectory for right-handed golfers. Pay attention to shaft flex and length, as these can greatly impact your swing dynamics. Common mistakes include choosing a driver solely based on aesthetics rather than performance or overlooking the importance of proper fitting.
 
@@ -57,7 +57,7 @@ Examples of draw bias drivers include adjustable drivers with weight placement f
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $500** — When shopping for a driver under $500, focus on finding a balance between performance and value. Look for features such as adjustable loft and face angle, which allow for customization based on your swing style. Pay attention to the club's weight and shaft flexibility; lighter options can generate more speed, while the right flex can significantly impact accuracy.
 
@@ -69,7 +69,7 @@ Examples of driver types to consider include a high-launch driver for added elev
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -81,7 +81,7 @@ Consider types like muscle-back forged irons for skilled players seeking precisi
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Explore forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **hollow body irons** — When shopping for hollow body irons, it's essential to consider their unique construction, which blends the benefits of both cavity-back and forged designs. These clubs often provide enhanced forgiveness and distance, making them suitable for various skill levels. Look for specifications such as the loft angle, shaft material, and grip size, as these factors significantly influence performance. Common mistakes include prioritizing aesthetics over functionality or overlooking the importance of a proper fit for your swing style. 
 
@@ -91,7 +91,7 @@ Examples of hollow body iron types include game improvement irons and player’s
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **raw wedge** — When shopping for a raw wedge, it’s essential to consider the benefits this type of club offers, as well as key specifications. Raw wedges provide superior spin control due to their uncoated finish, enhancing performance around the greens. Look for options that match your playing style and typical course conditions. Common specifications include loft degrees, bounce angle, and grind type, which affect how the club interacts with the turf. Avoid common mistakes such as selecting a wedge solely based on aesthetics or choosing a loft that's too similar to your existing clubs. 
 
@@ -101,7 +101,7 @@ Consider options like a high-lofted gap wedge or a versatile sand wedge to enhan
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 ### Buying Checklist
 

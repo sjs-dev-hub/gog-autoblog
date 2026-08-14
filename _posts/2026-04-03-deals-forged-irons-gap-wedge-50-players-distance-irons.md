@@ -23,7 +23,7 @@ _What to compare:_
 - **Clubhead design**: Determine whether a muscle-back or cavity-back suits your playing style.
 - **Shaft options**: Assess the flexibility and weight to match your swing speed and technique.
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, consider its role in bridging the distance between your pitching wedge and sand wedge. A gap wedge can enhance your approach game, providing a versatile option for accurate shots from around 100 yards. Look for options that feature a comfortable grip and a suitable shaft length for your height and swing style. 
 
@@ -37,7 +37,7 @@ _What to compare:_
 - **Face Design:** Look for grooves that offer good spin control for better precision.
 - **Shaft Flexibility:** Ensure the shaft suits your swing speed and style for optimal performance.
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, it's essential to consider both performance and comfort. These clubs are designed to offer a blend of distance and accuracy, making them ideal for mid to low handicap golfers seeking improved control without sacrificing power. Key specifications to look for include the club's loft, shaft material, and overall weight, as these factors influence trajectory and swing speed. 
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Shaft flex and material options
 - Overall club weight and balance
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, it's essential to consider both its design and functionality to enhance your short game. Raw wedges are favored for their unique finish, which provides increased spin and improved control around the greens. Look for specifications such as loft, bounce, and grind options, as these factors can significantly influence performance based on your playing style and course conditions. Common types include gap wedges, which bridge the distance between pitching and sand wedges, and lob wedges, ideal for high, controlled shots.
 
@@ -63,7 +63,7 @@ _What to compare:_
 - Bounce angle (affecting how the club interacts with the turf)
 - Grind type (impacting versatility on various lies)
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -79,7 +79,7 @@ _What to compare:_
 - Size and weight options
 - Compatibility with your swing training regimen
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, consider the benefits it offers for improving your short game. Look for mats that simulate real green conditions, allowing you to practice speed and accuracy. Pay attention to specifications such as material, size, and thickness, as these will affect the feel and performance of the mat. Common mistakes include neglecting to check the mat's compatibility with indoor or outdoor use and overlooking the importance of a non-slip backing for safety.
 
@@ -93,7 +93,7 @@ _What to compare:_
 - Size and portability for your available space
 - Stability features to prevent slipping during use
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **golf launch monitor.** When shopping for a golf launch monitor, consider how it can enhance your game by providing valuable data on swing speed, ball speed, launch angle, and spin rates. Look for a model that fits your needs, whether for practice on the range or at home. Pay attention to essential specifications such as accuracy, portability, and ease of use. Common mistakes include overvaluing gadgetry over functionality and neglecting to check compatibility with your devices. 
 
@@ -107,7 +107,7 @@ _What to compare:_
 - Battery life and portability
 - Connectivity options (Bluetooth, Wi-Fi)
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -123,7 +123,7 @@ _What to compare:_
 - **Length:** Ensure the sticks are long enough for your practice needs, generally around 48 inches or longer.
 - **Visibility:** Opt for sticks with bright colors or reflective surfaces for better visibility on the course.
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for premium golf balls like the Pro V1, it's essential to focus on key specifications and benefits to enhance your game. Look for features such as compression rating and dimple design, which significantly influence distance and control. Common mistakes include overlooking the ball’s feel and spin characteristics, which can vary greatly between models. 
 
@@ -137,7 +137,7 @@ _What to compare:_
 - Dimple pattern: Influences flight stability and distance.
 - Cover material: Determines durability and feel during play.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, it's essential to focus on features that enhance your swing rhythm and consistency. Look for models that provide adjustable resistance settings, as this can help you gradually improve your swing speed. Some trainers include audio cues that encourage a steady tempo, while others may offer visual aids for better feedback. 
 
@@ -151,7 +151,7 @@ _What to compare:_
 - Type of feedback (audio vs. visual)
 - Portability and ease of use
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -167,7 +167,7 @@ _What to compare:_
 - Shaft material and flexibility options
 - Adjustable settings for personalized performance
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a golf driver under $300, it's essential to focus on key specifications and features that enhance your performance on the course. Look for drivers with adjustable loft and face angles to customize your launch conditions. A lightweight design can improve swing speed, while a larger clubhead can provide more forgiveness on off-center hits. Avoid common mistakes like prioritizing aesthetics over functionality or ignoring shaft flex, which can significantly impact your swing. Consider options like a standard 460cc driver or a high-MOI (Moment of Inertia) model for stability.
 
@@ -179,7 +179,7 @@ _What to compare:_
 - Clubhead design and size for forgiveness and distance
 - Adjustability features to fine-tune launch conditions
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **high MOI driver.** When shopping for a high MOI (Moment of Inertia) driver, focus on the benefits that come with increased forgiveness on off-center hits. High MOI drivers help to minimize the effects of mis-hits, allowing for better accuracy and distance. Look for specifications such as head shape, weight distribution, and materials used in construction, as these significantly impact performance. Common mistakes include prioritizing aesthetics over functionality or ignoring shaft flexibility, which can affect swing speed and control. Consider trying out various types, such as oversized drivers or those with adjustable weights, to find what suits your swing best.
 
@@ -190,6 +190,6 @@ _What to compare:_
 - **Weight Distribution:** Check how weight is positioned to enhance performance.
 - **Shaft Flexibility:** Ensure the shaft suits your swing speed for optimal performance.
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

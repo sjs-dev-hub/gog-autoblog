@@ -25,7 +25,7 @@ _What to compare:_
 - Shaft material and flex options
 - Adjustability features for loft and lie settings
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **high MOI driver.** When shopping for a high MOI (Moment of Inertia) driver, focus on its design and performance benefits. High MOI drivers are engineered to resist twisting on impact, leading to greater forgiveness and improved accuracy on off-center hits. Look for features such as a larger clubhead and a lower center of gravity, which can enhance distance and stability. Common types of high MOI drivers include those with adjustable weighting systems and oversized clubheads, designed for various skill levels.
 
@@ -39,7 +39,7 @@ _What to compare:_
 - Adjustable features for customization
 - Clubhead shape and size for optimal performance
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for a game improvement driver, focus on enhancing your swing and maximizing distance while maintaining accuracy. Look for drivers with a larger clubhead, which offers a larger sweet spot, making it easier to hit straighter shots. Pay attention to the loft angle; a higher loft can help with launch and reduce sidespin, contributing to increased height and distance. Common mistakes include overlooking shaft flexibility and weight, which should match your swing speed and style for optimal performance. 
 
@@ -53,7 +53,7 @@ _What to compare:_
 - Loft and adjustability options
 - Shaft material and flexibility
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -69,7 +69,7 @@ _What to compare:_
 - Bounce options to match your swing and turf conditions
 - Shaft material and length for optimal feel and performance
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, consider the benefits they offer, such as improved feel, enhanced control, and better feedback on each shot. These clubs are crafted from a solid piece of metal, allowing for a more precise design. Pay attention to specifications like loft angle, shaft flexibility, and overall weight, as these factors significantly impact performance. 
 
@@ -83,7 +83,7 @@ _What to compare:_
 - Grip options and customization
 - Clubhead design and forgiveness level
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, focus on combining distance, accuracy, and playability. These clubs typically feature a larger clubhead and a thinner face, which enhances ball speed and forgiveness. Look for specifications such as loft, shaft flex, and weight, as these factors influence your swing dynamics and ball trajectory. A common mistake is selecting irons solely based on aesthetics rather than performance metrics. 
 
@@ -97,7 +97,7 @@ _What to compare:_
 - **Shaft Material and Flex:** Evaluate options like graphite for lightweight performance or steel for stability.
 - **Clubhead Design:** Choose between forgiving or traditional designs based on your skill level.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -111,7 +111,7 @@ _What to compare:_
 - Cover material: Urethane vs. Surlyn for different levels of durability and spin.
 - Compression rating: Low, medium, or high to match your swing speed and desired feel.
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **alignment sticks.** When shopping for alignment sticks, it's essential to consider their benefits for improving your golf game. Alignment sticks help golfers develop proper stance, aim, and swing path, making them an indispensable training tool. Look for lightweight, durable materials that are easy to transport to the course or practice range. Common types include flexible sticks for various drills and rigid sticks for more precise alignment setups. 
 
@@ -125,7 +125,7 @@ _What to compare:_
 - Material: Look for lightweight and weather-resistant options.
 - Visibility: Brightly colored sticks can enhance visibility during practice sessions.
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, it's essential to focus on the benefits it brings to your golf game, such as improved rhythm, consistency, and timing. Look for models that offer adjustable weights to accommodate various swing speeds and preferences. 
 
@@ -139,7 +139,7 @@ _What to compare:_
 - Material: Look for durable materials that can withstand frequent use.
 - Portability: Consider the size and weight for easy transport to the golf course or practice range.
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -155,7 +155,7 @@ _What to compare:_
 - Connection options (Wi-Fi, Bluetooth, or USB)
 - Portability features (weight, size, ease of setup)
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, consider its benefits in improving your putting alignment and stroke consistency. Look for a model that offers a reflective surface large enough to accommodate your stance and provides alignment lines for visual guidance. Specifications to keep in mind include the mirror's size, portability, and whether it features additional markings for target alignment.
 
@@ -169,7 +169,7 @@ _What to compare:_
 - Portability features for easy setup and storage
 - Additional alignment markings or guides included
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, consider its role in improving your swing mechanics and enhancing your ball-striking consistency. An impact bag is designed to help you practice your impact position, allowing you to feel the correct alignment and body positioning at the moment of contact. Look for a durable construction that can withstand repeated strikes, as well as a size that suits your practice space. Common types include basic heavy-duty bags that provide stability and inflatable options that offer portability.
 
@@ -183,6 +183,6 @@ _What to compare:_
 - Size and weight for portability and stability
 - Feedback response for swing correction and training effectiveness
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

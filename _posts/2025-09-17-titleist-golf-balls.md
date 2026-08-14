@@ -15,9 +15,9 @@ Are you looking to upgrade your golf game with premium golf balls? Titleist is o
 
 ### Popular Titleist Golf Balls
 
-- **Titleist Pro V1** — [Amazon](https://www.amazon.com/s?k=Titleist+Pro+V1&tag=guildofgolfde-20)
-- **Titleist Pro V1x** — [Amazon](https://www.amazon.com/s?k=Titleist+Pro+V1x&tag=guildofgolfde-20)
-- **Titleist Tour Speed** — [Amazon](https://www.amazon.com/s?k=Titleist+Tour+Speed&tag=guildofgolfde-20)
+- **Titleist Pro V1** — [Amazon](https://www.amazon.com/s?k=Titleist+Pro+V1&tag=guildofgolf02-20)
+- **Titleist Pro V1x** — [Amazon](https://www.amazon.com/s?k=Titleist+Pro+V1x&tag=guildofgolf02-20)
+- **Titleist Tour Speed** — [Amazon](https://www.amazon.com/s?k=Titleist+Tour+Speed&tag=guildofgolf02-20)
 
 These links take you directly to search results for each model, so you can compare prices and read customer reviews. If you make a purchase after clicking our links, we may earn a small commission at no extra cost to you.
 

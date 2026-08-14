@@ -23,7 +23,7 @@ _What to compare:_
 - Material durability and weight
 - Visibility and ease of use during practice
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for winter golf balls in yellow, consider their visibility and performance in colder conditions. Yellow golf balls are easier to spot against a white landscape, minimizing the chances of losing your ball. Look for features like a soft cover for improved feel and a lower compression rating, which can help maintain distance and control even in chilly weather.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Compression rating for optimal performance in cold weather
 - Durability and cover material for resistance to damage and wear
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** When shopping for three-piece golf balls, it’s essential to understand their construction and benefits. These balls typically feature a soft inner core, a solid mid-layer, and a durable outer cover, offering enhanced control and feel around the greens while maintaining good distance. Look for specifications such as compression rating, which affects how the ball performs with different swing speeds. 
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Cover material for durability and feel
 - Dimple pattern for aerodynamics and lift during flight
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -67,7 +67,7 @@ _What to compare:_
 - Weight distribution and center of gravity
 - Overall club length and lie angle adjustments
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, consider their unique benefits, such as enhanced feel and shot feedback. These irons are crafted from a single piece of metal, which often results in a more responsive club that better communicates with the golfer. Look for specifications like the clubhead's size, shape, and weight distribution, as these can significantly affect performance and playability. 
 
@@ -78,7 +78,7 @@ _What to compare:_
 - Clubhead design (blade vs. cavity-back)
 - Customization options (shaft type, length, grip size)
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, it's essential to balance distance, forgiveness, and control. These irons are designed for mid to low handicappers who seek extra distance without sacrificing shot accuracy. Look for features such as a thicker face and a lower center of gravity, which enhance ball speed and launch angles. Common mistakes include choosing the wrong shaft flex or neglecting to test different lofts, which can significantly impact performance.
 
@@ -92,7 +92,7 @@ _What to compare:_
 - **Shaft options:** Consider weight and flex to determine the best fit for your swing.
 - **Launch angle:** Test different lofts to find the optimal trajectory for your game.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -108,7 +108,7 @@ _What to compare:_
 - Size and length to accommodate your practice space
 - Portability and ease of setup for versatile use
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **golf launch monitor.** When shopping for a golf launch monitor, consider how it can significantly enhance your game by providing detailed analytics on ball speed, launch angle, and spin rate. Look for models that offer both indoor and outdoor use for versatility. Common specifications include radar vs. camera technology, accuracy, portability, and connectivity options for data transfer. 
 
@@ -122,7 +122,7 @@ _What to compare:_
 - Portability and ease of setup
 - Compatibility with other devices and software for data analysis
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, consider its role in improving your swing mechanics and enhancing your ball striking. An impact bag helps golfers develop proper impact positions by allowing them to practice their swing in a controlled environment. Key specifications to look for include size, weight, and material; a durable, weather-resistant fabric can extend its lifespan. Common mistakes include choosing a bag that's too small or too light, which may not provide adequate feedback on your swing.
 
@@ -136,7 +136,7 @@ _What to compare:_
 - Material durability to withstand regular impact
 - Design features for versatility in training methods
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, it’s essential to consider how it can enhance your practice routine by improving your alignment and stroke consistency. Look for mirrors that offer a clear reflection and a size that allows you to see your entire stance. Many mirrors also feature alignment lines to guide your setup, which can be beneficial for honing your technique. Common mistakes include overlooking portability and durability, as you’ll want a mirror that can withstand regular use and be easily transported to different practice locations. 
 
@@ -150,7 +150,7 @@ _What to compare:_
 - Reflective quality and clarity
 - Additional features such as alignment lines or markings
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 ### FAQ
 

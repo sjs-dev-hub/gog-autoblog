@@ -23,7 +23,7 @@ _What to compare:_
 - Portability and ease of setup
 - Compatibility with mobile apps and data analysis tools
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, consider its benefits for improving your short game at home. Look for a mat with a realistic surface that mimics the feel of a real green. Specifications such as size, material, and ease of storage are crucial; a larger mat allows for more varied practice, while durable materials ensure longevity. Avoid common mistakes like choosing a mat that is too small for your space or one that lacks alignment guides, which help in developing consistency in your putting stroke. 
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Material quality for durability and realism
 - Alignment aids for enhancing putting accuracy
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, consider its size and portability. A larger mirror offers more room for alignment and stroke practice, while a compact model can be easily transported to the course or practice range. Benefits of using a putting mirror include improved alignment, enhanced stroke consistency, and instant visual feedback on your setup.
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Surface quality for clarity and distortion-free reflection
 - Features like built-in alignment guides or adjustable angles
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -67,7 +67,7 @@ _What to compare:_
 - Cover material for durability and control
 - Overall design aimed at your playing style and skill level
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for high-performance golf balls like the Pro V1, it's essential to focus on a few key factors to ensure you're making the best choice for your game. Look for specifications such as compression rating, cover material, and dimple pattern, as these can significantly influence your distance and control. Common mistakes include not considering your swing speed or selecting a ball based solely on price rather than performance features.
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Cover material for durability and spin control.
 - Dimple pattern for flight consistency and distance.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **alignment sticks.** When shopping for alignment sticks, consider their role in enhancing your golf practice by improving your setup and swing path. Look for sticks that are lightweight yet durable, typically made from materials like fiberglass or aluminum. A common length is around 48 inches, allowing for various drills and applications. 
 
@@ -97,7 +97,7 @@ _What to compare:_
 - Material for durability and flexibility
 - Visibility and color options for clear alignment during practice
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -113,7 +113,7 @@ _What to compare:_
 - Weight distribution: Look for adjustable weights for customization.
 - Shaft specifications: Consider the flex and length that suit your swing style.
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, it’s essential to focus on key specifications that enhance your performance on the course. Look for a driver with adjustable loft and lie settings for a customized fit, as well as a lightweight construction that promotes faster swing speeds. A larger clubhead can provide a bigger sweet spot, improving forgiveness on off-center hits. Common mistakes include overemphasizing brand names and overlooking vital features such as shaft flexibility and grip size. 
 
@@ -127,7 +127,7 @@ _What to compare:_
 - Clubhead size and design
 - Adjustability features for loft and lie settings
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **draw bias driver.** When shopping for a draw bias driver, understanding its benefits and specifications is crucial. Designed to promote a right-to-left ball flight for right-handed golfers, these drivers help mitigate slicing issues, providing more distance and accuracy. Look for features such as adjustable weights, loft options, and face angles that can enhance your performance. Common mistakes include selecting a driver based solely on aesthetics or choosing a shaft flex that doesn’t suit your swing speed. 
 
@@ -141,6 +141,6 @@ _What to compare:_
 - Loft options to suit your swing style
 - Shaft flex compatibility with your swing speed and mechanics
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

@@ -21,7 +21,7 @@ _What to compare:_
 - Clubhead design and weight distribution
 - Loft specifications and distance capabilities
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, it's essential to consider your skill level and playing style. Forged irons are known for their superior feel and control, making them a favorite among experienced golfers. Look for features such as the weight distribution, which impacts the club's balance, and the loft angles, which determine how high and far your shots will travel. Common mistakes include focusing solely on aesthetics rather than performance, and not testing the clubs to see how they feel in your hands. Aim for models like cavity-back forged irons for added forgiveness or muscle-back forged irons for enhanced shot accuracy. 
 
@@ -33,7 +33,7 @@ _What to compare:_
 - Shaft options (flexibility and weight)
 - Club head design (forgiveness vs. precision)
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **hollow body irons.** When shopping for hollow body irons, consider the benefits they offer, such as improved distance, forgiveness, and a higher launch angle. These clubs combine the performance of traditional blades with the added stability of cavity-back designs, making them suitable for a range of skill levels. Look for specifications such as the club’s weight distribution, shaft flexibility, and loft angles. Common mistakes include neglecting to test different models and not considering your own swing characteristics. 
 
@@ -47,7 +47,7 @@ _What to compare:_
 - **Shaft Options:** Consider the different shaft materials and flex to match your swing style.
 - **Loft Configuration:** Review the loft settings to ensure they align with your desired distance gaps.
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -63,7 +63,7 @@ _What to compare:_
 - Head size and technology features
 - Adjustability and weight distribution options
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **draw bias driver.** When shopping for a draw bias driver, consider its ability to promote a right-to-left ball flight, ideal for golfers seeking to correct a slice or enhance their draw. Look for specifications such as adjustable weight distribution, loft options, and face angle, which can significantly impact your shot shape. It’s crucial to test different models to find one that feels comfortable and suits your swing style, as mistakes often come from choosing the wrong shaft flex or grip size.
 
@@ -77,7 +77,7 @@ _What to compare:_
 - Loft settings to optimize launch angle.
 - Grip size for comfort and control during your swing.
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, focus on finding a club that enhances your swing while offering the latest technology. Look for features like adjustable loft and face angle, which allow customization to your swing style. Key specifications to consider include the clubhead size, which typically ranges from 440cc to 460cc, and the shaft flex, which should match your swing speed for optimal performance. 
 
@@ -88,7 +88,7 @@ _What to compare:_
 - Shaft flex and weight options
 - Adjustability features for customization
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -104,7 +104,7 @@ _What to compare:_
 - Material durability and weight for portability
 - Visibility (color and design) for easy on-course use
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for yellow winter golf balls, consider their visibility and performance in cold weather. Yellow balls are easier to spot against stark winter landscapes, enhancing your ability to track shots. Look for features such as a soft cover for better feel and control on greens, and a low-compression core designed for optimal distance in cooler temperatures. Avoid overly hard balls that may not perform well in cold conditions, as they can feel less responsive.
 
@@ -118,7 +118,7 @@ _What to compare:_
 - Cover material for feel and durability
 - Visibility in various winter conditions
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for Pro V1 golf balls, it's essential to focus on key benefits and specifications to find the right fit for your game. Look for features like a soft feel, exceptional distance, and improved spin control, as these can enhance your performance on the course. Common mistakes include overlooking the importance of selecting the right ball based on your swing speed and playing style. Consider alternatives like premium multi-layer balls or tour-performance balls which can offer similar benefits.
 
@@ -127,6 +127,6 @@ _What to compare:_
 - Cover material: Evaluate durability and feel to ensure it meets your preferences.
 - Dimple pattern: Assess how it affects aerodynamics and overall flight stability.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

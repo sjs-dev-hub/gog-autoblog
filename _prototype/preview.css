@@ -1,0 +1,32 @@
+:root {
+  --ink: #162019;
+  --muted: #657267;
+  --line: #dce4d8;
+  --surface: #ffffff;
+  --soft: #f8faf5;
+  --green: #24583a;
+  --green-dark: #174d35;
+  --gold: #bd8c2f;
+  --gold-soft: #f1d58a;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: #f4f6f0; font: 16px/1.7 Inter, ui-sans-serif, system-ui, sans-serif; }
+.site-header { color: white; background: linear-gradient(135deg, #101713, var(--green-dark)); }
+.header-inner, main { width: min(1120px, calc(100% - 40px)); margin: auto; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 82px; }
+.brand { display: flex; gap: 12px; align-items: center; font-weight: 800; letter-spacing: .02em; }
+.mark { display: grid; width: 42px; height: 42px; place-items: center; border: 1px solid var(--gold-soft); border-radius: 14px; color: var(--gold-soft); }
+.site-header a { color: white; text-decoration: none; }
+.hero { padding: 64px 0 38px; }
+.eyebrow { color: var(--gold); font-size: .78rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+h1 { max-width: 820px; margin: 8px 0 14px; font-size: clamp(2.25rem, 6vw, 4.75rem); line-height: 1.02; letter-spacing: -.045em; }
+.dek { max-width: 760px; color: var(--muted); font-size: 1.16rem; }
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding-bottom: 64px; }
+.card { display: flex; flex-direction: column; min-height: 330px; padding: 26px; border: 1px solid var(--line); border-radius: 22px; background: var(--surface); box-shadow: 0 18px 48px rgba(32,49,36,.09); }
+.badge { align-self: flex-start; padding: 5px 10px; border-radius: 999px; color: var(--green); background: #edf5ea; font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.card h2 { margin: 20px 0 10px; line-height: 1.18; letter-spacing: -.025em; }
+.card p { color: var(--muted); }
+.card a { margin-top: auto; color: var(--green); font-weight: 800; }
+.note { margin-bottom: 70px; padding: 22px; border: 1px solid #e7d6aa; border-radius: 18px; color: #604b20; background: #fff6dc; }
+@media (max-width: 820px) { .grid { grid-template-columns: 1fr; } .hero { padding-top: 42px; } }

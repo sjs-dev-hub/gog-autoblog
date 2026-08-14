@@ -23,7 +23,7 @@ _What to compare:_
 - Shaft material and flex to match your swing style
 - Clubhead design for preferred feel and performance in different conditions
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, it's essential to focus on your skill level, playing style, and specific needs on the course. These clubs are designed to offer a blend of distance and accuracy, making them ideal for mid to low handicappers seeking enhanced performance. Look for features such as a larger clubface, perimeter weighting, and a lower center of gravity for improved launch angles. Common mistakes include choosing clubs that are too forgiving or not forgiving enough for your skill level.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Shaft flex and length to suit your swing speed
 - Grip size and texture for comfort and control during play
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, it's essential to consider the benefits they provide, such as enhanced feel and feedback during shots, as well as improved control and workability. Forged irons are typically made from a single piece of metal, offering a softer feel and better response than cast irons. When evaluating options, focus on specifications like shaft flex, loft, and swing weight, as these factors can significantly affect your performance. Common mistakes include choosing based solely on aesthetics or brand reputation rather than testing how they feel in your hands. 
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Shaft options and fitting
 - Gripping comfort and design
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **hollow body irons.** When shopping for hollow body irons, consider the benefits they offer, such as enhanced forgiveness and improved distance. These irons feature a unique design that combines a traditional iron look with the performance of a game improvement club. Key specifications to examine include shaft material, loft angles, and the center of gravity, which affect ball flight and control. Common mistakes include overlooking the importance of club fitting; improper length and lie angle can hinder performance. 
 
@@ -65,7 +65,7 @@ _What to compare:_
 - Loft angle and distance coverage
 - Weight distribution for stability and control
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Material durability and weight
 - Visibility (color options for better contrast on the course)
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for winter golf balls in yellow, consider their unique benefits and specifications. Winter golf balls are designed with a softer core to maintain performance in colder temperatures, ensuring better distance and control. The yellow color enhances visibility against a snowy or overcast backdrop, minimizing lost balls and maximizing playability. 
 
@@ -97,7 +97,7 @@ _What to compare:_
 - Durability features to withstand harsh conditions
 - Visibility effectiveness against winter landscapes
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** When shopping for a 3-piece golf ball, it's essential to understand its benefits and specifications. These balls typically feature a soft outer cover, a responsive polymer layer, and a solid core, allowing for excellent control, distance, and spin. Look for options designed for your playing style, whether you prioritize feel around the greens or power off the tee. Common types include tour-level balls for advanced players seeking maximum performance and recreational balls for casual play. 
 
@@ -111,7 +111,7 @@ _What to compare:_
 - Spin rate: Affects control on approach shots and around the green.
 - Cover material: Influences durability and playability in various weather conditions.
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -125,7 +125,7 @@ _What to compare:_
 - **Shaft Flex:** Ensure the flex matches your swing speed for optimal performance.
 - **Adjustability:** Look for features that allow you to customize your settings for varying course conditions.
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **high MOI driver.** When shopping for a high MOI (Moment of Inertia) driver, it's essential to understand its benefits, specifications, and common mistakes to avoid. High MOI drivers are designed to minimize twisting upon impact, providing greater forgiveness on off-center hits. This means improved accuracy and distance for golfers at all skill levels. Look for models featuring a larger clubhead and strategic weight distribution to maximize stability. 
 
@@ -141,7 +141,7 @@ _What to compare:_
 - Weight distribution and adjustability options
 - Grip size and shaft flexibility for a comfortable swing
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, focus on essential specifications and features that can enhance your game. Look for adjustable loft and lie settings, which allow for customization based on your swing style. Consider the driver’s head size, typically around 440cc to 460cc, which impacts forgiveness and distance. Mistakes to avoid include prioritizing aesthetics over performance and neglecting to test different models before purchasing.
 
@@ -155,7 +155,7 @@ _What to compare:_
 - Weight distribution for better control and swing speed
 - Face technology for increased ball speed and reduced spin
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 ### FAQ
 

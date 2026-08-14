@@ -1,0 +1,148 @@
+{
+  "amazonTag": "guildofgolf02-20",
+  "briefs": [
+    {
+      "articleType": "evergreen-guide",
+      "topic": "How to choose a forgiving driver without guessing",
+      "audience": "Golfers who lose distance and accuracy on off-center contact",
+      "evidence": [
+        { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Conforming club requirements and equipment-rule context"] },
+        { "title": "PGA of America club fitting overview", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "facts": ["Fitting should account for the individual golfer rather than a category label alone"] }
+      ]
+    },
+    {
+      "articleType": "comparison",
+      "topic": "Putting mirror versus putting mat",
+      "audience": "Golfers choosing one indoor practice aid for a specific weakness",
+      "evidence": [
+        { "title": "USGA putting green rules", "url": "https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/rule-13.html", "facts": ["Putting includes line, stroke, and green-reading considerations"] },
+        { "title": "PGA practice guidance", "url": "https://www.pga.com/story/practice-with-purpose-to-improve-your-game", "facts": ["Purposeful practice needs a defined objective and feedback"] }
+      ]
+    },
+    {
+      "articleType": "current-deals",
+      "topic": "How to verify whether a golf promotion is actually a deal",
+      "audience": "Value-conscious golfers comparing promotions without verified live pricing",
+      "evidence": [
+        { "title": "FTC advertising guidance", "url": "https://www.ftc.gov/business-guidance/advertising-marketing", "facts": ["Advertising claims should be truthful and supported"] },
+        { "title": "Amazon Associates disclosure guidance", "url": "https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98", "facts": ["Affiliate relationships require clear disclosure"] }
+      ]
+    }
+  ],
+  "samples": [
+    {
+      "articleType": "evergreen-guide",
+      "title": "How to Choose a Forgiving Driver Without Guessing",
+      "description": "A practical guide to matching driver loft, shaft, head design, and fitting priorities to your actual swing and common misses.",
+      "audience": "Golfers who want more playable tee shots and tend to lose distance or direction on off-center contact.",
+      "dek": "Forgiveness is not one specification and the highest advertised stability is not automatically the best fit. Start with impact pattern, launch, and your usual miss, then compare heads and shafts in that context.",
+      "sections": [
+        {
+          "heading": "Begin with the miss you need to manage",
+          "body": "A driver can only be helpful if its design addresses what happens during your swing. Mark the face during a practice session and note whether contact clusters toward the heel, toe, crown, or sole. Also record whether the starting direction and curve are consistent. That evidence is more useful than shopping from a broad label such as game improvement, because two golfers can create the same slice through different combinations of face angle and swing path.",
+          "recommendation": "Bring a simple impact map and a description of your normal ball flight to a fitting or demo session. Compare dispersion before chasing the single longest shot."
+        },
+        {
+          "heading": "Treat loft and shaft as part of the head",
+          "body": "Loft, delivered loft, strike location, and shaft behavior work together. A lower printed loft does not guarantee more distance, and a stiffer shaft is not inherently more accurate. Compare options using repeatable swings and look at launch, spin, carry, landing angle, and left-to-right dispersion. Adjustable sleeves are useful for testing, but changing a setting can affect more than one playing characteristic, so document each setup rather than turning the sleeve at random.",
+          "recommendation": "Choose the combination that produces a useful launch window and predictable misses across several swings, not the configuration attached to the fastest swing."
+        },
+        {
+          "heading": "Use forgiveness claims as a shortlist, not a verdict",
+          "body": "Manufacturers describe stability with terms such as high MOI, perimeter weighting, or draw bias. Those features can help retain ball speed or influence face behavior, but they cannot replace suitable length, total weight, swing weight, loft, and shaft. Confirm that any club you plan to use in competition conforms to the applicable equipment rules, then test whether the complete club improves your pattern compared with your current driver.",
+          "recommendation": "Shortlist two or three conforming heads, test them with comparable shafts, and keep the current driver in the session as a baseline."
+        }
+      ],
+      "takeaways": [
+        "Map strike location and ball flight before selecting a driver category.",
+        "Compare dispersion, carry, and launch across repeated swings rather than selecting the longest single result.",
+        "Evaluate the complete club; head marketing cannot account for shaft, length, weight, or individual delivery."
+      ],
+      "faq": [
+        { "question": "Does high MOI automatically make a driver straighter?", "answer": "It can improve stability when impact misses the center, but starting direction and curve still depend heavily on face delivery, path, strike location, loft, and fit. Treat MOI as one useful design attribute rather than a guarantee." },
+        { "question": "Should a slower swinger always choose more loft?", "answer": "Not always. More loft can help some golfers create a better launch window, but strike location and delivered loft matter. Compare measured results with the same ball under similar conditions." }
+      ],
+      "sources": [
+        { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "supports": "The context for conforming clubs and equipment requirements." },
+        { "title": "PGA of America: Club Fitting—What You Need to Know", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "supports": "The recommendation to evaluate equipment in relation to the individual golfer." }
+      ],
+      "affiliateDisclosure": "Guild of Golf may earn an affiliate commission from qualifying purchases made through links on this page, at no additional cost to you."
+    },
+    {
+      "articleType": "comparison",
+      "title": "Putting Mirror vs. Putting Mat: Which Feedback Do You Need?",
+      "description": "Compare putting mirrors and mats by the feedback they provide, the practice problems they solve, and the limitations golfers should expect.",
+      "audience": "Golfers buying one home-practice aid and deciding whether setup feedback or roll feedback matters more right now.",
+      "dek": "A mirror and a mat are not interchangeable. A mirror mainly makes setup and movement visible; a mat mainly gives the ball a repeatable surface and target. Your current practice question should decide which one earns space at home.",
+      "sections": [
+        {
+          "heading": "Choose a mirror for visible setup feedback",
+          "body": "A putting mirror can show eye position, shoulder alignment, and portions of the putter path, depending on its markings and size. That makes it useful when your practice goal is to reproduce a setup or notice movement you cannot easily feel. Its limitation is equally important: matching a printed line does not prove that the ball starts on line or rolls at the intended speed. The feedback is about what you can see over the ball, not the complete putt.",
+          "recommendation": "Select a mirror when you have a defined setup checkpoint from a coach or fitting and want immediate visual feedback during short sessions."
+        },
+        {
+          "heading": "Choose a mat for start line and pace practice",
+          "body": "A mat provides a consistent place to roll putts and can support gates, targets, distance ladders, and start-line drills. Length, available floor space, how flat the mat sits, and whether its markings support your drill matter more than decorative features. A home surface will not reproduce every green speed, slope, or grain condition, so the most transferable work is usually controlling start line and relative pace rather than memorizing one indoor distance.",
+          "recommendation": "Select a mat when you need repetition with a ball, can leave enough level space for it, and will use measurable targets instead of rolling putts without a goal."
+        },
+        {
+          "heading": "Combine them only when each has a job",
+          "body": "Using both tools can be productive when the mirror provides a setup checkpoint and the mat provides an outcome. It can also create noise if you try to monitor eye position, shoulders, path, face, start line, and distance at once. Purposeful practice is easier to interpret when one variable is emphasized and success is defined before the session. Alternate short blocks rather than turning every putt into a test of every available marking.",
+          "recommendation": "Write one measurable goal for a ten-minute session—for example, start eight of ten balls through a gate—then use only the tool that informs that goal."
+        }
+      ],
+      "takeaways": [
+        "A mirror primarily gives setup and movement feedback; a mat primarily gives ball-roll and target feedback.",
+        "Neither tool recreates the changing slope, speed, and surface conditions found on a course.",
+        "The better purchase is the one tied to a defined drill you will repeat and measure."
+      ],
+      "faq": [
+        { "question": "Can a putting mirror fix eye position by itself?", "answer": "It can make eye position visible, but it cannot determine the best setup for every golfer. Use it to reproduce a checkpoint established through coaching, fitting, or your own reliable testing." },
+        { "question": "Does a faster putting mat provide better practice?", "answer": "Not automatically. Consistency and suitability for your intended drill are more important. Indoor speed does not directly reproduce every course green, so practice start line and pace control rather than relying on a speed label alone." }
+      ],
+      "sources": [
+        { "title": "USGA Rule 13: Putting Greens", "url": "https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/rule-13.html", "supports": "Rules context for putting greens, marking, lifting, and the line of play." },
+        { "title": "PGA of America: Practice With Purpose", "url": "https://www.pga.com/story/practice-with-purpose-to-improve-your-game", "supports": "The value of defining a purpose and structure for practice." }
+      ],
+      "affiliateDisclosure": "Guild of Golf may earn an affiliate commission from qualifying purchases made through links on this page, at no additional cost to you."
+    },
+    {
+      "articleType": "current-deals",
+      "title": "Is That Golf Promotion a Real Deal? A Verification Checklist",
+      "description": "Use this evidence-first checklist to compare golf promotions, total cost, model age, seller terms, and fit before following an affiliate offer.",
+      "audience": "Golfers who see a promotion or affiliate link and want to determine whether the offer is useful for their game and budget.",
+      "dek": "This prototype intentionally makes no live price claim because no verified product feed was supplied. It demonstrates how a daily deals article should separate confirmed facts from shopping guidance instead of manufacturing urgency.",
+      "sections": [
+        {
+          "heading": "Verify the exact product and seller",
+          "body": "A large discount label is not meaningful until you identify the exact model year, configuration, condition, included components, and seller. Golf products with similar names can differ by shaft, loft, hand, generation, or package contents. Open the listing and record those details before comparing it with another retailer or the manufacturer specification page. Also check whether the item is new, used, refurbished, or sold through a marketplace merchant.",
+          "recommendation": "Capture the model identifier, configuration, condition, seller, and included items before treating two listings as comparable."
+        },
+        {
+          "heading": "Compare total value rather than the headline",
+          "body": "The useful comparison includes shipping, taxes, return costs, warranty coverage, fitting needs, and any accessories required to use the product. An older club at a lower price may be sensible when its specifications fit the golfer; a newer product may be more useful when adjustment options or support matter. Neither conclusion follows from the crossed-out reference price alone. Advertising claims should be clear and supported, and the shopper should be able to identify what evidence makes the offer favorable.",
+          "recommendation": "Write down the delivered cost and return conditions, then compare those terms with at least one equivalent configuration from another seller."
+        },
+        {
+          "heading": "Use a time stamp for genuinely current offers",
+          "body": "Prices, coupons, inventory, and seller terms can change quickly. A responsible daily roundup should state when each offer was checked, link to the supporting listing, and avoid presenting an expired observation as current. If the pipeline cannot confirm live data, it should publish a buying guide or no article at all. That rule protects the reader and makes the difference between an evidence-based deal page and a generic collection of search links.",
+          "recommendation": "Require a source URL and verification time for every price or discount statement; omit the claim when either is unavailable."
+        }
+      ],
+      "takeaways": [
+        "Match model, configuration, condition, seller, and included components before comparing offers.",
+        "Evaluate delivered cost, return terms, warranty, and fit—not only a displayed percentage reduction.",
+        "Treat every price and inventory observation as time-sensitive and require a source plus verification time."
+      ],
+      "faq": [
+        { "question": "Why does this deals prototype contain no featured price?", "answer": "The prototype was created without a verified live product feed. Publishing a specific price or discount from model memory would be unreliable, so the article demonstrates the quality standard the production research stage must satisfy." },
+        { "question": "Does an affiliate link make a recommendation unreliable?", "answer": "Not inherently, but the relationship should be disclosed clearly and the recommendation should use the same evidence and criteria regardless of commission. Readers should be able to understand both the basis for the recommendation and the commercial relationship." }
+      ],
+      "sources": [
+        { "title": "FTC Advertising and Marketing Basics", "url": "https://www.ftc.gov/business-guidance/advertising-marketing", "supports": "The principle that advertising claims should be truthful, non-deceptive, and supported." },
+        { "title": "Amazon Associates Program: Disclosure guidance", "url": "https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98", "supports": "Disclosure expectations for participation in the Amazon Associates program." }
+      ],
+      "affiliateDisclosure": "Guild of Golf may earn an affiliate commission from qualifying purchases made through links on this page, at no additional cost to you."
+    }
+  ]
+}

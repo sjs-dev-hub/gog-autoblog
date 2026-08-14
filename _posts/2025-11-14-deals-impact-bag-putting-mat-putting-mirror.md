@@ -23,7 +23,7 @@ _What to compare:_
 - Size and design for ease of use in various practice settings
 - Weight for stability during impact training
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, it’s essential to consider both the benefits and specifications that suit your practice needs. A high-quality putting mat can enhance your stroke consistency, help with alignment, and improve your overall putting skills at home. Look for mats that mimic real greens in texture and speed to create an authentic experience. Common types include indoor putting mats that are portable and can be used in various spaces, and larger outdoor mats designed for more extensive practice sessions.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - **Size and portability:** Determine if it fits your designated practice area and if it's easy to store.
 - **Roll and speed:** Look for mats that offer adjustable speeds to simulate different green conditions.
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, consider its benefits in improving your alignment and stroke consistency. A quality putting mirror helps you visualize your setup and ensures your eyes are over the ball, enhancing your overall accuracy on the greens. Look for mirrors that are large enough to provide a comprehensive view of your stance and alignment, with features like markings for reference.
 
@@ -53,7 +53,7 @@ _What to compare:_
 - Reflective quality: Look for clarity that aids in accurate visual feedback.
 - Design features: Consider additional alignment aids or markings included.
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -69,7 +69,7 @@ _What to compare:_
 - Shaft flex and length
 - Adjustability options for customization
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **high MOI driver.** When shopping for a high MOI (Moment of Inertia) driver, focus on the benefits these clubs offer, such as enhanced stability and a larger sweet spot, which can lead to improved accuracy and distance. Key specifications to consider include the overall weight, shaft flexibility, and loft angle, as these factors greatly influence performance. Avoid common mistakes like neglecting to test the driver for comfort and feel, or falling for flashy designs without assessing how they affect your swing.
 
@@ -83,7 +83,7 @@ _What to compare:_
 - Adjustable features versus fixed settings
 - Shaft material and flexibility options
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for the best game improvement driver, focus on features that enhance distance, accuracy, and forgiveness. Look for drivers with larger clubheads, which can provide a bigger sweet spot, making it easier to hit straighter shots even on off-center strikes. Adjustable loft and lie angles allow customization to better suit your swing characteristics. Common mistakes include choosing a driver solely based on looks rather than performance, or neglecting to test different shaft flex options that can significantly affect ball flight.
 
@@ -97,7 +97,7 @@ _What to compare:_
 - Shaft flex and material for optimal performance
 - Adjustable features for customization to your swing
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -113,7 +113,7 @@ _What to compare:_
 - Bounce and grind options suitable for different turf conditions
 - Shaft options for optimal feel and performance depending on your swing style
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **hollow body irons.** When shopping for hollow body irons, consider their design benefits that enhance performance. These clubs typically feature a cavity-back construction that provides forgiveness on off-center hits while maintaining a solid feel. Look for specifications such as weight distribution, which can affect swing speed and control, and the loft angle, which influences the trajectory of your shots. Common mistakes include focusing too much on aesthetics rather than how well the club fits your swing style. 
 
@@ -127,7 +127,7 @@ _What to compare:_
 - Loft angles for desired shot trajectories
 - Club length and lie angle for proper fit
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, focus on the blend of power and precision these clubs offer, making them ideal for mid to low handicap golfers. Look for features such as a larger club face and a hollow body construction, which can enhance ball speed and forgiveness. It’s crucial to avoid common mistakes, like overlooking shaft flex or grip size, as these can significantly affect your swing. Consider trying out different models, such as cavity back and muscle back irons, to find your best fit.
 
@@ -139,7 +139,7 @@ _What to compare:_
 - **Shaft Material and Flex:** Determine the right shaft material (steel or graphite) and flex (regular, stiff) based on your swing speed.
 - **Loft and Lie Angles:** Check if the loft and lie angles match your typical ball flight and distance preferences.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, consider the blend of performance and feel they offer. Forged irons are crafted from a single piece of metal, leading to better feedback and a more consistent ball-striking experience. Look for specifications such as clubhead design, shaft material, and weight distribution to match your swing style and skill level. Common examples include cavity-back and muscle-back forged irons, each catering to different player preferences.
 
@@ -153,7 +153,7 @@ _What to compare:_
 - Shaft material and flex (steel vs. graphite)
 - Weight distribution and center of gravity
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 ### FAQ
 

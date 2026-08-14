@@ -19,7 +19,7 @@ Consider options like a lightweight driver with a high MOI (Moment of Inertia) o
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **high MOI driver** — When shopping for a high MOI (Moment of Inertia) driver, focus on how this technology enhances stability and accuracy on off-center hits. A higher MOI means less twisting at impact, resulting in straighter shots and improved distance. Look for features such as a larger clubhead and weight distributed strategically to maximize forgiveness. Common mistakes include prioritizing aesthetics over performance or neglecting to test feel and comfort. Consider products like oversized drivers with adjustable weights or those with a streamlined aerodynamic design to enhance swing speed.
 
@@ -27,7 +27,7 @@ _Sample product types:_ game-improvement head etc.
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **draw bias driver** — When shopping for a draw bias driver, it’s essential to understand its benefits and specifications to enhance your game. A draw bias driver is designed to promote a right-to-left shot for right-handed golfers, helping to reduce slices and improve accuracy off the tee. Look for features such as adjustable weights and loft angles, as these can significantly influence your ball flight. Common mistakes include choosing a driver solely based on aesthetics rather than performance or fitting, which can lead to suboptimal results.
 
@@ -37,7 +37,7 @@ Example product types include adjustable draw bias drivers and fixed draw bias d
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -49,7 +49,7 @@ Example product types include a weighted club attachment and a metronome-style t
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **winter golf balls yellow** — Winter golf balls in yellow are designed to perform in colder conditions, offering enhanced visibility against a winter landscape. When shopping for winter golf balls, consider specifications such as compression rating and cover material, as these can affect distance and feel. Look for balls specifically engineered for lower temperatures, as they maintain their performance better than standard balls. Common mistakes include opting for traditional balls, which may lose distance and control in the cold. 
 
@@ -59,7 +59,7 @@ Consider types like soft compression balls for increased control and distance or
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Explore winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **pro v1 deals** — When shopping for Pro V1 golf balls, it's essential to understand their performance characteristics and specifications. These premium balls are designed for professional players and serious amateurs, offering unmatched distance, control, and a soft feel. Look for key features such as a three-piece construction, a urethane cover for enhanced spin, and a low compression rating for a softer touch. 
 
@@ -69,7 +69,7 @@ Common mistakes include focusing solely on price rather than value, and neglecti
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Explore pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **alignment sticks** — When shopping for alignment sticks, focus on their role in improving your golf swing and overall accuracy. These lightweight and portable tools help you establish proper stance and alignment, ensuring you're aimed correctly at your target. Look for sticks that are made from durable materials, often featuring a bright color for visibility. 
 
@@ -79,7 +79,7 @@ Common mistakes include opting for overly flexible sticks or neglecting to check
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Explore alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -91,7 +91,7 @@ Common mistakes include choosing a bag that is too lightweight or not considerin
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mirror** — Shopping for a putting mirror can significantly enhance your golf practice by helping you analyze your alignment, stroke, and overall technique. Look for mirrors that are adjustable and portable, allowing for easy use both indoors and outdoors. A larger surface area can provide a more comprehensive view of your setup, while built-in alignment aids can help improve precision. Common mistakes include choosing a mirror that’s too small or lacks critical features like alignment lines.
 
@@ -101,7 +101,7 @@ Example product types include a basic alignment putting mirror with simple marki
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **putting mat** — When shopping for a putting mat, consider its size, material, and surface texture to enhance your practice experience. A high-quality putting mat typically offers a realistic feel, mimicking the conditions of a real green. Look for options that feature adjustable slopes or multiple hole placements to challenge your skills progressively.
 
@@ -113,7 +113,7 @@ Example product types include a roll-up indoor putting mat for home use and a co
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer** — When shopping for a swing analyzer, consider the benefits it brings to your game, such as improved swing mechanics and enhanced performance feedback. Look for features like real-time data tracking, compatibility with mobile devices, and various metrics, including swing speed, angle, and tempo. Common mistakes include focusing solely on price rather than functionality and neglecting to check for ease of use and setup.
 
@@ -123,7 +123,7 @@ Example product types include Bluetooth-enabled swing analyzers that attach to y
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 ### Buying Checklist
 

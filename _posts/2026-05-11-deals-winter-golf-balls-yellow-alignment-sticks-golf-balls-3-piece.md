@@ -19,7 +19,7 @@ Examples of types include distance golf balls, which emphasize long flight, and 
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Explore winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **alignment sticks** — When shopping for alignment sticks, consider their benefits for improving your golf game. These tools help golfers enhance their alignment, posture, and swing path, making them invaluable for practice sessions. Look for sticks that are lightweight yet durable, typically made from fiberglass or similar materials, and ensure they are long enough (usually around 48 inches) to accommodate various drills. 
 
@@ -29,7 +29,7 @@ Common mistakes include selecting sticks that are too short or neglecting portab
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Explore alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **golf balls 3 piece** — When shopping for a 3-piece golf ball, it's essential to understand the benefits and specifications that enhance your game. These balls typically feature a core, an inner mantle, and an outer cover, providing superior control, increased spin, and improved distance. When selecting a 3-piece golf ball, be mindful of factors like compression rating, which affects feel and distance, and cover material, which influences durability and greenside performance. Common types include distance-focused balls for longer drives or control-oriented options for precision shots around the green. 
 
@@ -37,7 +37,7 @@ _Sample product types:_ launch trainer etc.
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **swing tempo trainer** — When shopping for a swing tempo trainer, consider how it can enhance your golf game by promoting a consistent and rhythmic swing. Look for features like adjustable weights or resistance levels that cater to your skill level and physical strength. Common types include weighted clubs designed to improve swing speed and timing, and digital devices that provide real-time feedback on your swing rhythm.
 
@@ -47,7 +47,7 @@ Avoid common mistakes such as opting for a trainer that doesn't feel comfortable
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -59,7 +59,7 @@ Look for options like a 460cc driver with advanced aerodynamic designs or a ligh
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **high MOI driver** — When shopping for a high MOI (Moment of Inertia) driver, it's essential to understand how it can enhance your game. A high MOI driver typically offers greater stability during impact, reducing the likelihood of twisting on off-center hits, which can lead to straighter shots and improved accuracy. Look for specifications that highlight a larger clubhead design and strategic weight distribution.
 
@@ -69,7 +69,7 @@ Common mistakes include focusing too much on aesthetics rather than performance 
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $300** — When shopping for a golf driver under $300, it's essential to prioritize performance and fit. Look for features like adjustable loft and lie angles, which can significantly enhance your ball flight and distance. Pay attention to the shaft material and flex; graphite shafts are common for their lightweight nature, while flex should match your swing speed for optimal results. 
 
@@ -79,7 +79,7 @@ Common mistakes include focusing solely on price rather than performance and neg
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -91,7 +91,7 @@ Avoid common mistakes, such as disregarding the bag's material quality or opting
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **swing analyzer** — When shopping for a swing analyzer, it’s essential to understand your specific needs and goals. These devices help golfers analyze their swing mechanics, offering insights such as swing speed, angle, and path, which can lead to improved performance on the course. Look for features like Bluetooth connectivity for easy data transfer and a user-friendly app interface that provides detailed feedback. Common mistakes include choosing a model that lacks adequate battery life or one that does not provide comprehensive data analysis.
 
@@ -101,7 +101,7 @@ Examples of swing analyzer types include handheld devices that attach to your cl
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **putting mat** — When shopping for a putting mat, consider the benefits it offers for improving your game from the comfort of home. Look for mats that provide realistic turf texture and simulate various green speeds. Key specifications to examine include size, material quality, and portability. A common mistake is opting for a mat that’s too small or lacks proper alignment aids, which can hinder your practice. 
 
@@ -111,7 +111,7 @@ For example, a basic indoor putting mat can help develop your stroke, while a mo
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -121,7 +121,7 @@ _Sample product types:_ tour ball etc.
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **players distance irons** — When shopping for player's distance irons, prioritize finding a balance between distance, accuracy, and feel. These clubs are designed for golfers seeking a blend of forgiveness and control, making them suitable for a wide range of skill levels. Look for features such as a thin face design for increased ball speed, a progressive offset for improved launch angles, and a lower center of gravity to enhance playability. 
 
@@ -133,7 +133,7 @@ For clarity, you might explore options like a hollow-bodied iron or a game-impro
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Explore players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50** — When shopping for a 50-degree gap wedge, it's essential to consider its role in your short game. This club fills the distance gap between your pitching wedge and sand wedge, providing precision for approach shots and delicate chips around the green. Key specifications to focus on include the club's loft, bounce angle, and shaft material. A common mistake is selecting a gap wedge based solely on visuals; instead, prioritize how it feels during practice swings and its performance with your existing set.
 
@@ -143,7 +143,7 @@ Example product types might include a classic forged gap wedge for enhanced feel
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 ### Buying Checklist
 

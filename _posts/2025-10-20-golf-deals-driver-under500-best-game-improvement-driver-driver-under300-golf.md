@@ -20,7 +20,7 @@ _What to compare:_
 - Stock shaft profile fit
 - Spin window vs launch (mid/low spin if you launch high)
 
-➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **best game improvement driver.** Draw-biased weighting can straighten a weak fade without lessons. Upright lie settings nudge start line left for many golfers.
 
@@ -30,7 +30,7 @@ _What to compare:_
 - 460cc head for max forgiveness
 - Upright/draw hosel settings
 
-➡️  [See best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️  [See best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** Sound and feel change year to year—choose what boosts confidence. Loft and shaft fit usually matter more than a single ‘hot’ face. Last-year heads and value brands often match the same COR limits as premium lines.
 
@@ -40,7 +40,7 @@ _What to compare:_
 - Face angle/draw setting if you fight a fade
 - Loft for launch window (10.5–12° fits most)
 
-➡️  [See driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️  [See driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 ### Training & Tech
 
@@ -54,7 +54,7 @@ _What to compare:_
 - App export & session history
 - Outdoor flight capture quality
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mat.** Sort by rating with a minimum review count to avoid paid noise. Scan size/fit details and return policy before checkout.
 
@@ -64,7 +64,7 @@ _What to compare:_
 - Prime/fast shipping if timing matters
 - Price vs review count
 
-➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Sort by rating with a minimum review count to avoid paid noise.
 
@@ -74,7 +74,7 @@ _What to compare:_
 - Model year / tech carryover
 - Price vs review count
 
-➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -87,7 +87,7 @@ _What to compare:_
 - Compression for swing speed
 - Urethane vs ionomer cover
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** Lower compression helps slow/medium speeds launch higher. Three-piece balls balance price with performance for most golfers.
 
@@ -97,7 +97,7 @@ _What to compare:_
 - Compression feel
 - Cover durability vs spin
 
-➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **swing tempo trainer.** Weighted or whippy trainers smooth sequencing from the top. Longer versions exaggerate timing cues for feel learners. Heavier heads promote rhythm over hit impulse.
 
@@ -107,7 +107,7 @@ _What to compare:_
 - Head weight placement
 - Flex/whip profile
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **alignment sticks.** Gate drills sharpen start line and face control. High-contrast colors stay visible in rough or low light.
 
@@ -116,6 +116,6 @@ _What to compare:_
 - Color visibility
 - Clips for plane/putting drills
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 We refresh this feed automatically. Bookmark if it helps. Some links may be monetized (Amazon Associates).

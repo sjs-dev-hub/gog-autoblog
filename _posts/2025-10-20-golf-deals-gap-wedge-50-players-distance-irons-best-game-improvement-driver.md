@@ -17,7 +17,7 @@ _What to compare:_
 - Groove sharpness & spin durability
 - Shaft match to your irons
 
-➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **players distance irons.** Hollow-body or thin-face designs give speed with a compact look. Great for mid-caps chasing ball speed without a shovelly profile.
 
@@ -27,7 +27,7 @@ _What to compare:_
 - Shaft weight/profile match
 - Set blending with GI long irons
 
-➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 ### Drivers by Budget
 
@@ -39,7 +39,7 @@ _What to compare:_
 - Upright lie / draw setting options
 - Face tech consistency across the face
 
-➡️  [See best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️  [See best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** At this price you’re typically choosing last-year heads or value brands. That’s fine—COR is regulated and forgiveness is mostly about head size and weight placement.
 
@@ -49,7 +49,7 @@ _What to compare:_
 - Adjustability (hosel/weights help tune launch & spin)
 - Face angle (slight draw settings help fight a fade)
 
-➡️  [See driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️  [See driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **driver under $500.** You’re in current-gen territory with more adjustable weights and tighter manufacturing tolerances. Expect more consistent ball speeds and refined acoustics.
 
@@ -59,6 +59,6 @@ _What to compare:_
 - Stock shaft profile (don’t fear “made-for” if it fits)
 - Sound/feel (subjective but confidence matters)
 
-➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 Come back tomorrow for new picks. We add context first, links second—so you can buy with confidence. Some links may be monetized (Amazon Associates).

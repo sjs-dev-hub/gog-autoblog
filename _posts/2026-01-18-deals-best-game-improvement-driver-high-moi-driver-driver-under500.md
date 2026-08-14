@@ -19,7 +19,7 @@ Common types to consider include adjustable drivers, which allow you to customiz
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **high MOI driver** — When shopping for a high MOI (Moment of Inertia) driver, consider its benefits for enhanced stability and forgiveness on off-center hits. A higher MOI typically results in reduced twisting upon impact, which can lead to straighter drives and improved overall accuracy. Look for specifications such as clubhead weight, shape, and materials used, as these can influence performance. 
 
@@ -31,7 +31,7 @@ Examples of product types to explore include oversized drivers, which often have
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $500** — When shopping for a driver under $500, it's essential to focus on the key specifications that can enhance your game while staying within budget. Look for features such as clubhead size, loft options, and shaft flexibility. A larger clubhead can provide a larger sweet spot, making it easier to achieve distance and accuracy. Additionally, consider adjustable loft technology, which allows you to fine-tune your launch angle based on your swing style. 
 
@@ -41,7 +41,7 @@ Popular product types include a standard adjustable driver with a 460cc clubhead
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -51,7 +51,7 @@ _Sample product types:_ game-improvement head etc.
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **impact bag** — When shopping for an impact bag, consider how it can enhance your swing mechanics by providing instant feedback on your ball striking. A well-designed impact bag helps golfers develop a more consistent swing path and proper impact position. Look for models that are durable, with enough weight to withstand repeated hits without moving excessively. 
 
@@ -61,7 +61,7 @@ Common mistakes include opting for overly small bags that don't replicate real-w
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Explore impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mirror** — When shopping for a putting mirror, consider its benefits for honing your putting technique and alignment. A putting mirror helps golfers visualize their setup and stroke, allowing for more effective practice and improvement. Look for mirrors that feature marked lines to guide your aim and provide feedback on head position and eye alignment. Common specifications include size, portability, and whether it offers additional features like adjustable angles. 
 
@@ -73,7 +73,7 @@ Example product types are a tabletop putting mirror and a larger floor model des
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -85,7 +85,7 @@ Common mistakes include overlooking the right shaft flex and length, which can a
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **raw wedge** — When shopping for a raw wedge, consider its benefits, specifications, and common mistakes to avoid. Raw wedges are known for their enhanced spin and control due to their uncoated surface, which can wear down over time for improved performance. Look for factors like loft, bounce angle, and grind type to ensure the club fits your playing style. Common mistakes include neglecting to assess the grip and shaft options, which can significantly impact your performance on the course. 
 
@@ -95,7 +95,7 @@ Examples of product types include a classic blade-style raw wedge for precision 
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **forged irons** — When shopping for forged irons, understanding their benefits and specifications is crucial. Forged irons are known for their superior feel and control, as they are crafted from a single piece of metal, allowing for more precise shots. Look for features like blade shape and shaft flexibility to match your playing style. Common mistakes include choosing irons based solely on aesthetics or assuming that a lower handicap automatically requires a more advanced blade design. Instead, consider your skill level and swing mechanics before making a decision. 
 
@@ -105,7 +105,7 @@ Examples of forged irons include muscle-back models for advanced players and cav
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Explore forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 ### Buying Checklist
 

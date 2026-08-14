@@ -21,7 +21,7 @@ Example product types include a standard indoor putting mat designed for home us
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Explore putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **putting mirror** — When shopping for a putting mirror, consider its benefits for improving your alignment and stroke mechanics. A high-quality putting mirror can help golfers of all levels develop consistency by providing immediate visual feedback on stance and eye position. Look for mirrors with adjustable sizes and angles to suit your practice space. 
 
@@ -31,7 +31,7 @@ Common mistakes include choosing a mirror that is too small or lacks adequate re
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **swing analyzer** — When shopping for a swing analyzer, consider several factors that can enhance your game. These devices offer insights into your swing mechanics, helping you identify areas for improvement. Look for features such as real-time feedback, data accuracy, and compatibility with smartphones or tablets for easy analysis. 
 
@@ -43,7 +43,7 @@ Example product types include portable swing analyzers that clip onto your club 
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -55,7 +55,7 @@ Common mistakes include overlooking the ball's compression rating, which influen
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **swing tempo trainer** — When shopping for a swing tempo trainer, consider how it can enhance your consistency and rhythm on the course. These devices help golfers develop a more fluid swing by promoting a proper tempo through visual or auditory feedback. Look for lightweight, portable models that can easily attach to your club or be worn while practicing. 
 
@@ -65,7 +65,7 @@ Common mistakes include opting for overly complex devices or neglecting adjustab
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **winter golf balls yellow** — When shopping for winter golf balls in yellow, consider the unique benefits they offer. Yellow golf balls enhance visibility in snowy or low-light conditions, making it easier to track your shots during winter rounds. Look for balls designed with a softer cover to retain performance in colder temperatures. Mistakes to avoid include choosing balls that are too hard, as they may not perform well in the cold, and overlooking the compression rating, which should align with your swing speed.
 
@@ -75,7 +75,7 @@ Example product types include soft-compression winter golf balls and high-visibi
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Explore winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -87,7 +87,7 @@ Example product types include hollow-body irons and forged cavity-back irons, bo
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Explore players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **raw wedge** — When shopping for a raw wedge, consider the benefits of enhanced spin and control around the greens. Raw wedges, often made from softer steel, provide more friction, allowing for better ball interaction on delicate shots. Look for specifications such as loft (typically ranging from 50 to 60 degrees) and bounce angle, which affects how the club interacts with the turf. A common mistake is assuming all wedges are alike; the right grind can significantly impact performance based on your swing type. 
 
@@ -97,7 +97,7 @@ Examples of raw wedges include a lob wedge with high loft for short approach sho
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **gap wedge 50** — When shopping for a 50-degree gap wedge, it’s essential to consider your playing style and the specific needs of your short game. A gap wedge typically fills the distance gap between a pitching wedge and a sand wedge, helping to achieve accurate approach shots and delicate chips around the green. Look for a wedge with a comfortable grip and a comfortable shaft length for your height and swing style.
 
@@ -107,7 +107,7 @@ Common types include the classic blade style for better control and spin or a ca
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 ### Buying Checklist
 

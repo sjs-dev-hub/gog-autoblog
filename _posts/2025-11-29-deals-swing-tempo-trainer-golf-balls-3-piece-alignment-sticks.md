@@ -21,7 +21,7 @@ _What to compare:_
 - Adjustability for different swing speeds and styles
 - Portability and ease of setup for practice anywhere
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** When shopping for three-piece golf balls, it’s essential to consider their construction and performance attributes. Three-piece golf balls typically feature a soft core, a layer for boosting spin, and a durable outer cover, making them ideal for players seeking a balance of distance and control. Look for specifications like compression rating, cover material (such as urethane), and dimple pattern, as these can significantly affect your game. A common mistake is choosing balls solely based on brand reputation rather than personal playing style. 
 
@@ -34,7 +34,7 @@ _What to compare:_
 - Cover material for spin and durability
 - Dimple pattern for trajectory and stability
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **alignment sticks.** When shopping for alignment sticks, consider their role in improving your golf alignment and swing mechanics. Look for lightweight options that are easy to carry and set up on the course or practice range. Common specifications to evaluate include length—typically around 48 inches—and material, with options ranging from fiberglass to durable plastic. A common mistake is choosing sticks that are too thick, making them harder to handle. 
 
@@ -48,7 +48,7 @@ _What to compare:_
 - Material: Select a sturdy yet lightweight option for portability.
 - Visibility: Consider colors or patterns that stand out against grass for easier alignment.
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -64,7 +64,7 @@ _What to compare:_
 - **Face technology:** Look for innovations that enhance ball speed and control.
 - **Shaft options:** Consider flex and material to match your swing style.
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, it's essential to understand their unique benefits and specifications. Forged irons are known for their superior feel and workability, making them ideal for skilled players looking to enhance shot control and feedback. When selecting forged irons, consider the clubhead's material, typically made from soft steel, which promotes a better connection with the ball. 
 
@@ -78,7 +78,7 @@ _What to compare:_
 - Shaft flex and length (regular, stiff, or extra stiff)
 - Blade design (cavity-back for forgiveness vs. muscle-back for precision)
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, consider the benefits of enhanced spin and control around the greens. Raw wedges are designed to provide a unique feel, as the uncoated finish allows for increased friction at impact. Look for specifications such as loft options, bounce angle, and grind type, as these can significantly affect your short game performance. 
 
@@ -94,7 +94,7 @@ _What to compare:_
 - Grind type and versatility
 - Feel and weighting for your swing style
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, consider the benefits of enhancing your short game and filling the distance gap between your pitching wedge and sand wedge. Look for specifications such as shaft length, weight, and material, which can impact your swing and overall performance. Common mistakes include ignoring bounce angle and grind type, which significantly affect playability on different lies.
 
@@ -108,7 +108,7 @@ _What to compare:_
 - **Shaft Material:** Choose between steel for durability or graphite for lighter weight.
 - **Groove Design:** Look for options that provide optimal spin and control on approach shots.
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -124,7 +124,7 @@ _What to compare:_
 - Size and weight for portability
 - Design features that enhance stability during use
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mat.** When shopping for a putting mat, consider its size, material, and usability to enhance your practice at home. A larger mat provides more flexibility in your putting stroke, while materials like nylon or synthetic turf offer durability and a realistic feel. Look for features such as adjustable slopes to simulate real greens, enhancing your skill development. Common mistakes include choosing a mat that’s too small for your space or one that lacks a non-slip backing, which can hinder practice.
 
@@ -138,7 +138,7 @@ _What to compare:_
 - Material and surface texture
 - Additional features (e.g., alignment guides, slope settings)
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, focus on its benefits for improving your alignment and stroke consistency. A quality putting mirror helps golfers visualize their setup and stroke path, making it an essential tool for practice. Look for mirrors with a flat, reflective surface and alignment aids such as lines or dots to assist in proper positioning.
 
@@ -152,7 +152,7 @@ _What to compare:_
 - Reflective quality: Look for a clear surface that allows for accurate visual feedback.
 - Alignment aids: Check for built-in markings to help with setup and stroke alignment.
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **golf launch monitor.** When shopping for a golf launch monitor, it's crucial to consider its key features and specifications. Launch monitors provide valuable data on swing speed, ball speed, launch angle, and spin rates, aiding in improving your game. Look for units that utilize either radar or camera technology, as each offers different benefits; radar systems excel in outdoor settings, while camera systems typically perform better indoors. Avoid common mistakes like overlooking portability and battery life, especially if you plan to use the monitor on the course or during practice sessions. 
 
@@ -166,7 +166,7 @@ _What to compare:_
 - Portability and ease of use
 - Battery life and connectivity options
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 ### FAQ
 

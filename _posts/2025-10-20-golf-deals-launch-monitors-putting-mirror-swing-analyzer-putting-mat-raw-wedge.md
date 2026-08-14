@@ -21,7 +21,7 @@ _What to compare:_
 - Measured vs modeled data
 - App export & session history
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mirror.** Sort by rating with a minimum review count to avoid paid noise. Use this search to jump straight into relevant options and filter by price, reviews and shipping. Scan size/fit details and return policy before checkout.
 
@@ -31,7 +31,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Fast shipping if timing matters
 
-➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **swing analyzer.** Scan size/fit details and return policy before checkout. Use this search to jump straight into relevant options and filter by price, reviews and shipping. Sort by rating with a minimum review count to avoid paid noise.
 
@@ -41,7 +41,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Fast shipping if timing matters
 
-➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **putting mat.** Scan size/fit details and return policy before checkout. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Price vs review count
 - Sizing/fit & returns
 
-➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 ### Irons & Wedges
 
@@ -65,7 +65,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Model year / tech carryover
 
-➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **hollow body irons.** Scan size/fit details and return policy before checkout. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -75,7 +75,7 @@ _What to compare:_
 - Model year / tech carryover
 - Price vs review count
 
-➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **forged irons.** Sole width and bounce must match your turf. Forged heads emphasize feedback and flight control.
 
@@ -84,7 +84,7 @@ _What to compare:_
 - Blade length & sole geometry
 - Finish durability
 
-➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -98,7 +98,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Model year / tech carryover
 
-➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **alignment sticks.** Two sticks lock in stance and target line quickly. Gate drills sharpen start line and face control. High-contrast colors stay visible in rough or low light.
 
@@ -107,7 +107,7 @@ _What to compare:_
 - Clips for plane/putting drills
 - Color visibility
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **golf balls 3 piece.** Lower compression helps slow/medium speeds launch higher. Three-piece balls balance price with performance for most golfers.
 
@@ -117,7 +117,7 @@ _What to compare:_
 - High-visibility color
 - Wind stability
 
-➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️  [See golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 ### Drivers by Budget
 
@@ -130,7 +130,7 @@ _What to compare:_
 - Back/heel mass for stability or draw bias
 - Spin window vs launch (mid/low spin if you launch high)
 
-➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **high MOI driver.** Scan size/fit details and return policy before checkout. Sort by rating with a minimum review count to avoid paid noise. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -140,7 +140,7 @@ _What to compare:_
 - Price vs review count
 - Sizing/fit & returns
 
-➡️  [See high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️  [See high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **draw bias driver.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Scan size/fit details and return policy before checkout.
 
@@ -149,6 +149,6 @@ _What to compare:_
 - Fast shipping if timing matters
 - Sizing/fit & returns
 
-➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 We refresh this feed automatically. Bookmark if it helps. Some links may be monetized (Amazon Associates).

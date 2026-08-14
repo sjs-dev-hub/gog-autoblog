@@ -21,7 +21,7 @@ _What to compare:_
 - Shaft flex: Ensure it complements your swing speed.
 - Clubhead design: Determine the balance between forgiveness and control.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, consider the benefits of enhanced spin and control, as the uncoated surface promotes friction with the ball. Look for specifications such as loft options ranging from 50 to 60 degrees, varying bounce angles, and grind types that suit your playing style. A common mistake is choosing a wedge solely based on looks; focus instead on how it performs around the greens.
 
@@ -35,7 +35,7 @@ _What to compare:_
 - Grind types that match your swing style and turf interaction
 - Weight and feel for better shot consistency and confidence
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, consider their craftsmanship and feel, which provide enhanced feedback and control during play. Look for specifications such as the material used, typically a soft steel, which allows for precision shaping and a more refined touch. Be aware of common mistakes, like focusing too much on aesthetics rather than performance or neglecting to test the clubs for comfort and swing compatibility.
 
@@ -49,7 +49,7 @@ _What to compare:_
 - **Loft options:** Affects trajectory and distance management.
 - **Grip size and material:** Impacts comfort and performance during play.
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, it's essential to consider its role in your short game, filling the distance between your pitching wedge and sand wedge. A gap wedge typically has a loft that helps players execute precise approach shots, making it an invaluable tool for tackling those tricky yardages. 
 
@@ -65,7 +65,7 @@ _What to compare:_
 - Shaft length and material
 - Weight distribution and grip feel
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Cover material for durability and spin characteristics.
 - Mantle layer thickness for control and distance balance.
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, consider how it can enhance your rhythm and timing, crucial components of an effective golf swing. Look for trainers that offer adjustable settings to cater to your specific swing speed, as well as those that provide audio or visual feedback to help you maintain consistent tempo. 
 
@@ -95,7 +95,7 @@ _What to compare:_
 - Feedback mechanisms (audio, visual, or tactile)
 - Portability and durability for easy transport and use
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for yellow winter golf balls, consider their visibility against winter backgrounds, as snow and overcast skies can obscure traditional white balls. Look for features like a softer cover to enhance feel in colder conditions and a low compression core for optimal distance even when temperatures drop. Be cautious of selecting balls designed solely for summer play; they may harden in the cold, affecting performance. Popular types to consider include low-compression balls for beginners and distance-focused balls for seasoned players who want to maintain yardage.
 
@@ -107,7 +107,7 @@ _What to compare:_
 - **Compression Rating:** Lower compression balls provide better feel and distance in cold weather.
 - **Durability:** Opt for balls with tougher covers to withstand harsher winter conditions.
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for Pro V1 golf balls, it's essential to consider both performance and specifications to enhance your game. Look for features such as the ball’s compression rating, spin control, and durability. Common mistakes include choosing a ball solely based on price or brand reputation rather than performance characteristics that suit your playing style. For example, you might explore options like high-performance urethane cover golf balls or multi-layer construction designs that offer enhanced distance and control.
 
@@ -119,7 +119,7 @@ _What to compare:_
 - Spin Rate: Assess how well the ball handles greenside control to suit your short game needs.
 - Durability: Evaluate the material and construction to ensure it withstands wear over multiple rounds.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -130,7 +130,7 @@ _What to compare:_
 - Weight distribution: Look for designs that redistribute weight to enhance stability.
 - Adjustability options: Consider how easily you can modify the club to suit your swing.
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, focus on finding a model that enhances your performance without breaking the bank. Key specifications to consider include clubhead size, loft angle, and shaft flexibility, as these factors can significantly impact your game. Look for a driver that offers a large sweet spot for improved forgiveness on off-center hits.
 
@@ -146,7 +146,7 @@ _What to compare:_
 - Loft angle options
 - Shaft options and flexibility
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **draw bias driver.** When shopping for a draw bias driver, consider how this specialized club can help correct your swing path and promote a straighter flight path, ideal for golfers who tend to slice the ball. Look for key specifications including loft, adjustable weights, and shaft flex. Mistakes often occur when players choose a driver without understanding their swing characteristics or selecting a shaft that doesn't match their swing speed.
 
@@ -160,7 +160,7 @@ _What to compare:_
 - Weight distribution: Look for drivers with adjustable weights for customized performance.
 - Shaft flexibility: Ensure the shaft matches your swing speed for optimal control.
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 ### FAQ
 

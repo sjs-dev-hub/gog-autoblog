@@ -21,7 +21,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Price vs review count
 
-➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** Last-year heads and value brands often match the same COR limits as premium lines. Loft and shaft fit usually matter more than a single ‘hot’ face. Sound and feel change year to year—choose what boosts confidence.
 
@@ -32,7 +32,7 @@ _What to compare:_
 - Shaft weight & flex matched to tempo
 - Face angle/draw setting if you fight a fade
 
-➡️  [See driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️  [See driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **high MOI driver.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Sort by rating with a minimum review count to avoid paid noise.
 
@@ -42,7 +42,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Price vs review count
 
-➡️  [See high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️  [See high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 ### Training & Tech
 
@@ -55,7 +55,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Price vs review count
 
-➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **impact bag.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Sort by rating with a minimum review count to avoid paid noise. Scan size/fit details and return policy before checkout.
 
@@ -65,7 +65,7 @@ _What to compare:_
 - Price vs review count
 - Model year / tech carryover
 
-➡️  [See impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️  [See impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **swing analyzer.** Sort by rating with a minimum review count to avoid paid noise. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -75,7 +75,7 @@ _What to compare:_
 - Model year / tech carryover
 - Fast shipping if timing matters
 
-➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **golf launch monitor.** Personal launch monitors are accurate enough outdoors for gapping. Exportable shot libraries make progress trackable.
 
@@ -85,7 +85,7 @@ _What to compare:_
 - Measured vs modeled data
 - Outdoor flight capture quality
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 ### Irons & Wedges
 
@@ -99,7 +99,7 @@ _What to compare:_
 - Price vs review count
 - Sizing/fit & returns
 
-➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **players distance irons.** Blend sets if you want GI long irons with sleeker scoring clubs. Hollow or thin-face designs give ball speed in compact shapes. Loft jacking is common—check gapping at the bottom.
 
@@ -108,7 +108,7 @@ _What to compare:_
 - Blend options across set
 - Shaft weight/profile
 
-➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️  [See players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 **forged irons.** Finish durability varies—raw, chrome and PVD wear differently. Forged heads emphasize feedback and flight control.
 
@@ -118,7 +118,7 @@ _What to compare:_
 - Bounce/grind through set
 - Blade length & sole geometry
 
-➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -131,7 +131,7 @@ _What to compare:_
 - Model year / tech carryover
 - Sizing/fit & returns
 
-➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **swing tempo trainer.** Heavier heads promote rhythm over hit impulse. Longer versions exaggerate timing cues for feel learners.
 
@@ -141,7 +141,7 @@ _What to compare:_
 - Indoor-safe grip/cover
 - Flex/whip profile
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **alignment sticks.** Gate drills sharpen start line and face control. High-contrast colors stay visible in rough or low light. Two sticks lock in stance and target line quickly.
 
@@ -151,6 +151,6 @@ _What to compare:_
 - Stiffness & length
 - Clips for plane/putting drills
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 We refresh this feed automatically. Bookmark if it helps. Some links may be monetized (Amazon Associates).

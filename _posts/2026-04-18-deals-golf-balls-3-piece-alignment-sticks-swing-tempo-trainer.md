@@ -21,7 +21,7 @@ _What to compare:_
 - Cover Material: Consider options like urethane for softer feel and better spin.
 - Flight Characteristics: Look for balls that perform well in varying weather conditions and offer stability in windy conditions.
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **alignment sticks.** When shopping for alignment sticks, consider their benefits for improving your golf swing and overall accuracy. These versatile training tools help golfers establish proper alignment for their body and clubface, aiding in the development of consistent swing mechanics. Look for sticks that are lightweight yet durable, often made from materials like fiberglass or aluminum. Mistakes to avoid include purchasing overly long sticks that can be cumbersome to transport or using them incorrectly, which can hinder training rather than help. Common types of alignment sticks include collapsible options for easy storage and brightly colored versions for better visibility on the course.
 
@@ -33,7 +33,7 @@ _What to compare:_
 - Material quality for durability and resilience
 - Visibility features, such as color or reflective markings, for training effectiveness
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, consider its benefits in improving your overall swing consistency and rhythm. Look for features such as adjustable weights and customizable settings to suit your specific training needs. Common mistakes include selecting a trainer that is too heavy or complex, which can lead to improper form and frustration. 
 
@@ -47,7 +47,7 @@ _What to compare:_
 - Ease of use and portability for convenience on the course
 - Feedback mechanisms, such as visual or auditory cues, for accurate performance tracking
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for the Pro V1 golf balls, it's important to focus on specifications that enhance your game. Look for features such as a soft urethane cover for superior spin control and a large core for optimal distance. Understanding your playing style can help you select the right model, as the Pro V1 is designed for players seeking a balance of performance and feel. Common mistakes include overlooking compression ratings and not considering personal preferences in ball feel. 
 
@@ -61,7 +61,7 @@ _What to compare:_
 - Cover material: Evaluate the benefits of urethane versus surlyn.
 - Flight stability: Look for balls that provide consistent trajectory and distance.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -77,7 +77,7 @@ _What to compare:_
 - Shaft material and flex options
 - Adjustability features for loft and face angle
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **draw bias driver.** When shopping for a draw bias driver, consider its ability to help golfers counteract a slice, promoting a right-to-left ball flight for better accuracy. Look for specifications like loft angle, shaft flexibility, and adjustable weights that can enhance your performance on the course. Many players make the mistake of focusing solely on aesthetics or brand names rather than functionality. 
 
@@ -88,7 +88,7 @@ _What to compare:_
 - **Shaft Flexibility**: Choose the right flex to match your swing speed.
 - **Adjustability**: Features that allow customization for optimal performance.
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, focus on finding a blend of performance, technology, and comfort. Look for features such as adjustable loft and lie angles, as these allow you to customize the driver to match your swing. Pay attention to the clubhead size and weight, as a larger head can provide more forgiveness on off-center hits. Common mistakes include overlooking the importance of shaft flex, which can greatly affect distance and accuracy.
 
@@ -102,7 +102,7 @@ _What to compare:_
 - Shaft flex and weight options
 - Adjustability features for loft and face angle
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -120,7 +120,7 @@ _What to compare:_
 - Grind type and sole design
 - Material and finish for spin performance
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **hollow body irons.** When shopping for hollow body irons, consider their unique blend of distance, forgiveness, and playability. These clubs combine the benefits of both cavity back and blade designs, offering a larger sweet spot and improved shot accuracy. Look for specifications such as loft angles, shaft flexibility, and overall weight, as these factors impact performance. Common mistakes include neglecting to test various models and focusing solely on aesthetics rather than performance characteristics. Examples of hollow body irons include game improvement models and players' distance irons, each catering to different skill levels.
 
@@ -132,7 +132,7 @@ _What to compare:_
 - Shaft material and flex options for personalized feel
 - Club head design and weight distribution for enhanced forgiveness
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** When shopping for a 50-degree gap wedge, consider its role in your short game to bridge the distance between a pitching wedge and a sand wedge. This club is essential for achieving precise yardage control on approach shots and delicate chips around the greens. Focus on specifications such as loft angle, shaft material, and grip type to ensure comfort and performance. Common types of gap wedges include those designed for cavity back or blade styles, catering to different player preferences. 
 
@@ -146,7 +146,7 @@ _What to compare:_
 - Shaft length and material for best fit and feel
 - Clubhead design to suit your playing style and preferences
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **players distance irons.** When shopping for players distance irons, it's essential to focus on key specifications and benefits that enhance your game. These irons typically combine the control and precision of traditional blades with the added distance and forgiveness of cavity backs. Look for features like a low center of gravity and a larger sweet spot, which can help improve your overall performance.
 
@@ -160,7 +160,7 @@ _What to compare:_
 - **Loft:** Consider the loft progression to ensure consistent gapping between clubs.
 - **Offset:** Assess the club’s offset, as it can influence shot trajectory and accuracy.
 
-➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolfde-20)
+➡️ [Compare players distance irons on Amazon](https://www.amazon.com/s?k=players%20distance%20irons&tag=guildofgolf02-20)
 
 ### FAQ
 

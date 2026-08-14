@@ -21,19 +21,19 @@ Example product types include portable launch monitors that connect to mobile de
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mirror** — When shopping for a putting mirror, consider its benefits for improving your alignment and stroke consistency. A good putting mirror allows golfers to visually assess their posture, eye alignment, and target line, which are crucial for developing a reliable putting stroke. Look for mirrors that are large enough to provide a full view of your setup while being portable for easy practice at home or on the course. Common types include compact training mirrors and larger, adjustable models that can help with specific drills.
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **swing analyzer** — When shopping for a swing analyzer, consider its ability to provide real-time feedback on your swing mechanics, helping you identify areas for improvement. Look for models that offer features like 3D motion capture, shot analysis, and swing path visualization. Common mistakes include overlooking compatibility with your devices or neglecting to check battery life and charging options. There are various products available, such as portable swing analyzers that attach to your club and mobile apps that track your performance metrics.
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -43,7 +43,7 @@ _Sample product types:_ tour ball etc.
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Explore best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **high MOI driver** — When shopping for a high MOI (Moment of Inertia) driver, consider its ability to enhance stability and forgiveness on off-center hits, making it ideal for golfers seeking improved accuracy and distance. Look for specifications such as clubhead size, weight distribution, and shaft flexibility to find the right fit for your swing style. Avoid common mistakes, such as neglecting to test the driver’s feel or choosing a model that doesn’t suit your skill level.
 
@@ -53,7 +53,7 @@ Generic examples of high MOI drivers include oversized clubheads designed for ma
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $500** — When shopping for a driver under $500, it's essential to focus on key specifications that enhance your game. Look for features like adjustable loft settings, which allow for customization based on your swing style, and lightweight materials that can improve swing speed. A larger sweet spot can also benefit those who struggle with consistent impact. Common mistakes include overlooking grip size and shaft flex, which can significantly affect performance.
 
@@ -63,7 +63,7 @@ Consider driver types such as adjustable drivers with various settings for perso
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **driver under $300** — When shopping for a driver under $300, focus on the essential specifications and features that align with your playing style. Consider the clubhead size, typically around 440cc to 460cc, which can enhance forgiveness and distance. Look for adjustable loft and face angle options, allowing you to customize your launch conditions. A common mistake is prioritizing aesthetics over performance; remember, the right feel and balance are crucial for consistent swings. For example, a lightweight composite driver can help improve swing speed, while a titanium driver may offer added durability and stability.
 
@@ -71,7 +71,7 @@ _Sample product types:_ game-improvement head etc.
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -83,7 +83,7 @@ Examples of swing tempo trainers include weighted clubs or tempo sticks, both of
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Explore swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **pro v1 deals** — When shopping for Pro V1 golf balls, it's essential to consider the unique specifications that make them a favorite among golfers. Look for features like a soft outer cover for optimal feel, a high-energy core for distance, and a urethane cover that provides excellent spin control. Avoid common mistakes such as overlooking the ball's compression rating, which can affect performance based on your swing speed. 
 
@@ -93,7 +93,7 @@ Example products to consider include premium 3-piece golf balls designed for tou
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Explore pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **golf balls 3 piece** — When shopping for 3-piece golf balls, it's essential to understand their unique construction, which typically comprises a core, an inner cover, and an outer cover. This design enhances distance, control, and feel, making them ideal for various player styles. Look for specifications such as compression rating and spin performance to ensure they match your playing style. Avoid common mistakes like opting for a ball solely based on price or brand reputation. Instead, consider how the ball will perform under your typical playing conditions. Examples include golf balls designed for enhanced spin control or those optimized for maximum distance.
 
@@ -101,7 +101,7 @@ _Sample product types:_ game-improvement head etc.
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Explore golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 ### Buying Checklist
 

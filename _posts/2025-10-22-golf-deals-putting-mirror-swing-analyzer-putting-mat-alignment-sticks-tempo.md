@@ -20,7 +20,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Sizing/fit & returns
 
-➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **swing analyzer.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Scan size/fit details and return policy before checkout.
 
@@ -29,7 +29,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Price vs review count
 
-➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️  [See swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **putting mat.** Scan size/fit details and return policy before checkout. Sort by rating with a minimum review count to avoid paid noise.
 
@@ -38,7 +38,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Price vs review count
 
-➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -52,7 +52,7 @@ _What to compare:_
 - Compression for swing speed
 - Urethane vs ionomer cover
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **alignment sticks.** High-contrast colors stay visible in rough or low light. Two sticks lock in stance and target line quickly.
 
@@ -61,7 +61,7 @@ _What to compare:_
 - Clips for plane/putting drills
 - Color visibility
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **swing tempo trainer.** Heavier heads promote rhythm over hit impulse. Weighted or whippy trainers smooth sequencing from the top. Longer versions exaggerate timing cues for feel learners.
 
@@ -71,7 +71,7 @@ _What to compare:_
 - Overall length
 - Indoor-safe grip/cover
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 ### Irons & Wedges
 
@@ -84,7 +84,7 @@ _What to compare:_
 - Bounce/grind through set
 - Swing-weight consistency
 
-➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️  [See forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Scan size/fit details and return policy before checkout. Sort by rating with a minimum review count to avoid paid noise.
 
@@ -94,7 +94,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Sizing/fit & returns
 
-➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **gap wedge 50.** A 50° wedge bridges modern PW-to-SW gaps for tighter yardages. Keep shaft and swing-weight consistent with your irons. Bounce and sole grind should match your turf and delivery.
 
@@ -103,7 +103,7 @@ _What to compare:_
 - Shaft match to irons
 - Bounce/grind for turf/sand
 
-➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **hollow body irons.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Sort by rating with a minimum review count to avoid paid noise.
 
@@ -113,6 +113,6 @@ _What to compare:_
 - Price vs review count
 - Fast shipping if timing matters
 
-➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 New variants post regularly—check back tomorrow. Some links may be monetized (Amazon Associates).

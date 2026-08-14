@@ -1,0 +1,74 @@
+[
+  {
+    "articleType": "evergreen-guide",
+    "topic": "How to choose driver loft using launch, strike, and ball flight",
+    "audience": "Golfers comparing driver lofts who want a repeatable decision process instead of a universal loft recommendation.",
+    "evidence": [
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Equipment used in competition must conform to the applicable club rules."] },
+      { "title": "PGA of America: Club Fitting", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "facts": ["Equipment choices should be evaluated for the individual golfer through fitting."] }
+    ]
+  },
+  {
+    "articleType": "comparison",
+    "topic": "Putting mirror versus putting mat for purposeful home practice",
+    "audience": "Golfers choosing one practice aid and deciding whether they need setup feedback or ball-roll feedback.",
+    "evidence": [
+      { "title": "USGA Rule 13: Putting Greens", "url": "https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/rule-13.html", "facts": ["Rule 13 provides the rules context for putting greens and lines of play."] },
+      { "title": "PGA of America: Practice With Purpose", "url": "https://www.pga.com/story/practice-with-purpose-to-improve-your-game", "facts": ["Practice is more useful when it has a defined purpose and structure."] }
+    ]
+  },
+  {
+    "articleType": "evergreen-guide",
+    "topic": "How to build sensible wedge loft gaps before buying another wedge",
+    "audience": "Golfers who have an awkward distance gap near the green and are considering a gap, sand, or lob wedge.",
+    "evidence": [
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Club design and conformance are governed by the equipment rules."] },
+      { "title": "PGA of America: Club Fitting", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "facts": ["A fitting evaluates the golfer and the complete equipment setup."] }
+    ]
+  },
+  {
+    "articleType": "comparison",
+    "topic": "Forged versus hollow-body irons: feel, construction, and fitting tradeoffs",
+    "audience": "Golfers comparing iron constructions who want to separate manufacturing terms from on-course fit and performance.",
+    "evidence": [
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Conforming club requirements apply regardless of marketing category or construction method."] },
+      { "title": "PGA of America: Club Fitting", "url": "https://www.pga.com/story/club-fitting-what-you-need-to-know", "facts": ["Fit and measured results matter when comparing club options."] }
+    ]
+  },
+  {
+    "articleType": "evergreen-guide",
+    "topic": "A practical checklist for buying a used golf driver online",
+    "audience": "Value-conscious golfers evaluating a used driver listing without being able to inspect the club in person.",
+    "evidence": [
+      { "title": "USGA Informational Club Database", "url": "https://www.usga.org/InfoClubsDB/index.html", "facts": ["The database can be used to check driver conformance information."] },
+      { "title": "FTC Advertising and Marketing Basics", "url": "https://www.ftc.gov/business-guidance/advertising-marketing", "facts": ["Advertising claims should be truthful, non-deceptive, and supported."] }
+    ]
+  },
+  {
+    "articleType": "comparison",
+    "topic": "Three-piece versus two-piece golf balls for different player priorities",
+    "audience": "Golfers comparing golf-ball construction while balancing feel, durability, flight, and short-game control.",
+    "evidence": [
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Golf balls used under the rules must meet applicable equipment requirements."] },
+      { "title": "USGA Conforming Ball List", "url": "https://www.usga.org/ConformingGolfBall/gball_list.pdf", "facts": ["The conforming ball list identifies balls submitted and evaluated for conformance."] }
+    ]
+  },
+  {
+    "articleType": "evergreen-guide",
+    "topic": "How to evaluate a launch monitor for useful home practice",
+    "audience": "Golfers deciding whether a personal launch monitor provides the measurements and setup their practice actually needs.",
+    "evidence": [
+      { "title": "PGA of America: Practice With Purpose", "url": "https://www.pga.com/story/practice-with-purpose-to-improve-your-game", "facts": ["Practice should have a defined purpose and measurable structure."] },
+      { "title": "FTC Advertising and Marketing Basics", "url": "https://www.ftc.gov/business-guidance/advertising-marketing", "facts": ["Objective product claims should have a reasonable basis."] }
+    ]
+  },
+  {
+    "articleType": "comparison",
+    "topic": "Alignment sticks versus a swing tempo trainer: choose the feedback, not the gadget",
+    "audience": "Golfers choosing between inexpensive practice aids for alignment, movement, rhythm, or speed awareness.",
+    "evidence": [
+      { "title": "PGA of America: Practice With Purpose", "url": "https://www.pga.com/story/practice-with-purpose-to-improve-your-game", "facts": ["Purposeful practice connects the activity to a specific goal."] },
+      { "title": "USGA Equipment Rules", "url": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules.html", "facts": ["Equipment and use during a stipulated round are governed by applicable rules."] }
+    ]
+  }
+]

@@ -25,7 +25,7 @@ _What to compare:_
 - Size and weight options for versatility in training
 - Feedback mechanism and ease of use during practice sessions
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **swing analyzer.** When shopping for a swing analyzer, it's essential to prioritize features that enhance your performance and understanding of your swing. Look for models that provide detailed metrics such as club speed, swing path, and face angle. Wireless connectivity and compatibility with mobile devices can also enhance usability, allowing for easy data tracking and analysis.
 
@@ -39,7 +39,7 @@ _What to compare:_
 - Connectivity options and app compatibility
 - Portability and ease of use on the golf course
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, consider its benefits in improving your alignment and stroke consistency. These mirrors allow golfers to visually check their stance and aim, promoting better muscle memory and reducing the likelihood of errors on the green. Look for features such as size and portability; a larger mirror offers a comprehensive view, while a compact option is ideal for travel or smaller practice spaces. 
 
@@ -57,7 +57,7 @@ _What to compare:_
 - Reflective quality and clarity
 - Markings for alignment and stroke guidance
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -73,7 +73,7 @@ _What to compare:_
 - Weight distribution and overall design
 - User reviews and instructional support
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for Pro V1 golf balls, it's essential to focus on their performance attributes and specifications. Known for their exceptional distance, control, and soft feel, these balls are designed for serious golfers seeking to enhance their game. Common mistakes include overlooking the importance of the ball's compression rating and spin characteristics, which can significantly affect performance depending on your swing speed and playing style.
 
@@ -87,7 +87,7 @@ _What to compare:_
 - Spin rate: Influences control and performance on approach shots and around the greens.
 - Durability: Assess how well the ball withstands wear during play.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for winter golf balls in yellow, consider several key factors to enhance your game during colder months. Yellow golf balls are easier to spot against a snowy or overcast backdrop, which can boost your confidence in difficult conditions. Look for features like a softer cover for improved feel and a lower compression rating, which helps maintain distance despite chilly temperatures. Common types include low-compression balls designed for slower swing speeds and multi-layer balls that enhance spin control. 
 
@@ -101,7 +101,7 @@ _What to compare:_
 - Cover material for durability and feel.
 - Visibility against winter landscapes.
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -117,7 +117,7 @@ _What to compare:_
 - Shaft flexibility and weight
 - Grip size and comfort
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 **hollow body irons.** When shopping for hollow body irons, focus on the benefits they offer, such as enhanced forgiveness and improved distance control. These clubs typically feature a unique construction that combines a solid face with a hollowed-out back, allowing for greater weight distribution and a lower center of gravity. 
 
@@ -133,7 +133,7 @@ _What to compare:_
 - **Shaft Material and Flex**: Determine which combination aligns with your swing speed and style.
 - **Loft and Offset**: Check specifications to ensure they match your desired trajectory and distance.
 
-➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Compare hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, understanding its unique benefits and specifications is crucial. Raw wedges, typically made from uncoated steel, offer enhanced spin and feel around the greens, as they develop a natural patina over time, increasing their grip on the ball. Key specifications to consider include loft angle, bounce, and grind, which influence how the wedge interacts with different turf conditions. Common examples of raw wedges include traditional lob wedges designed for high, soft shots and gap wedges, which fill the distance void between pitching and sand wedges.
 
@@ -145,6 +145,6 @@ _What to compare:_
 - **Bounce angles:** Choose a bounce that complements your swing and course conditions.
 - **Grind types:** Consider the grind that matches your typical shot types and turf interaction.
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 *Automatically refreshed; affiliate links via Amazon Associates.*

@@ -23,7 +23,7 @@ _What to compare:_
 - Cover type (urethane or ionomer) for durability and spin
 - Compression rating to match your swing speed and playing style
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for Pro V1 golf balls, it’s essential to focus on quality and performance rather than just deals. These premium golf balls are designed for exceptional distance, a soft feel, and enhanced control around the greens. Look for specifications such as the ball's compression rating, cover material, and dimple pattern, as these factors greatly influence performance. Be cautious of purchasing from unreliable sources to avoid counterfeit products that may not deliver the expected benefits.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - Material: Evaluate the cover and core construction for durability and feel.
 - Flight characteristics: Analyze how the ball performs in terms of distance and control during play.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **alignment sticks.** When shopping for alignment sticks, consider their benefits for improving your golf stance, swing path, and overall alignment. These lightweight, portable tools help golfers visualize proper positioning, making practice sessions more effective. Look for sticks that are durable, typically made from fiberglass or lightweight aluminum, ensuring they withstand regular use. 
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Material durability for long-lasting use
 - Visibility options, such as color and reflectiveness
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -67,7 +67,7 @@ _What to compare:_
 - Portability and ease of setup
 - Compatibility with coaching apps or software for data analysis
 
-➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Compare golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **swing analyzer.** When shopping for a swing analyzer, consider how this technology can enhance your golf game by providing real-time feedback on your swing mechanics. Look for features such as data accuracy, ease of use, and compatibility with smartphones or tablets. Mistakes often stem from overlooking battery life and connectivity options, which can affect your overall experience. Common types of swing analyzers include wearable devices that attach to your club and portable sensors that can be placed on the ground for tracking swing path and speed.
 
@@ -76,7 +76,7 @@ _What to compare:_
 - **User Interface:** Evaluate the ease of reading and interpreting the displayed information.
 - **Portability and Battery Life:** Ensure the device is easy to carry and has sufficient battery longevity for your practice sessions.
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, it's essential to focus on quality and functionality to enhance your practice. An impact bag is designed to help golfers develop a better understanding of their swing dynamics, allowing for improved impact position and greater consistency. Look for bags made from durable materials that can withstand repeated strikes, with adequate weight to remain stable during use.
 
@@ -90,7 +90,7 @@ _What to compare:_
 - Size and weight stability during use
 - Design features that promote accurate feedback
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -106,7 +106,7 @@ _What to compare:_
 - Weight distribution for optimal balance
 - Shaft material and flex to match your swing speed
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** When shopping for a driver under $500, consider your skill level, swing speed, and preferred play style. A well-fitted driver can enhance distance and accuracy, making it a crucial investment. Look for key specifications like loft angle, shaft flex, and weight distribution, which can significantly impact your game. Avoid common mistakes such as neglecting to test the club in-store or overlooking the importance of grip size.
 
@@ -120,7 +120,7 @@ _What to compare:_
 - Shaft flex (regular, stiff, or extra stiff)
 - Weight distribution and adjustability features
 
-➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Compare driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, consider the balance between performance and affordability. Look for features such as adjustable loft and face angle, which can help tailor the club to your swing style. It's important to assess the driver’s shaft material and flex, as these factors can significantly impact distance and accuracy. Common mistakes include prioritizing appearance over performance or failing to check weight distribution, which affects swing speed. 
 
@@ -134,7 +134,7 @@ _What to compare:_
 - Adjustable features for customization to your playing style
 - Clubhead design for increased stability and distance control
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **draw bias driver.** When shopping for a draw bias driver, it's essential to understand how the club's design can help correct a slice and promote a right-to-left shot shape. Key specifications to consider include the loft, shaft flex, and weight distribution, as these elements influence performance. Look for features like adjustable weights or hosels that allow customization to suit your swing style.
 
@@ -150,7 +150,7 @@ _What to compare:_
 - Shaft flex to match your swing speed
 - Weight distribution affecting shot shape and forgiveness
 
-➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Compare draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 ### FAQ
 

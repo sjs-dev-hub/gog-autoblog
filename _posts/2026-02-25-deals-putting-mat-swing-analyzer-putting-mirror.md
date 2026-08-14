@@ -23,7 +23,7 @@ _What to compare:_
 - Surface material and texture
 - Portability and storage options
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **swing analyzer.** When shopping for a swing analyzer, consider its ability to provide real-time feedback on your swing mechanics, helping you identify areas for improvement. Look for models that offer essential specifications such as data accuracy, battery life, and compatibility with smartphones or tablets for easy analysis. Common mistakes include overlooking the importance of portability and ease of use; choose a device that fits seamlessly into your practice routine. Examples of product types include handheld swing analyzers that attach to your club or wearable devices that track your swing motion.
 
@@ -35,7 +35,7 @@ _What to compare:_
 - User interface and app functionality
 - Portability and ease of attachment to clubs
 
-➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Compare swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, it's essential to consider its benefits, specifications, and common mistakes to avoid. A putting mirror helps golfers enhance their alignment and stroke mechanics by providing instant visual feedback. Look for mirrors with adjustable angles to suit your practice needs and those that are compact enough for easy transport.
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Reflective quality to ensure accurate feedback
 - Adjustable features for customizable practice sessions
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, consider its benefits for improving your swing technique and enhancing your ball striking. Look for bags made from durable materials with appropriate weight to resist movement during practice. Key specifications include size, which should accommodate proper swing dynamics, and design, which should allow for easy storage and transportation. Common mistakes include choosing a bag that is too light, which can lead to inaccurate feedback, or one that lacks proper cushioning, affecting durability.
 
@@ -65,7 +65,7 @@ _What to compare:_
 - Size and weight specifications
 - Design features for portability and stability
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Bounce type: Choose between low, medium, or high bounce for your course conditions.
 - Shaft material: Consider steel for control or graphite for added distance.
 
-➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Compare gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **raw wedge.** When shopping for a raw wedge, consider its unique benefits such as enhanced spin control and a softer feel at impact, making it ideal for approach shots and short game finesse. Pay attention to specifications like loft, bounce, and grind, as these can significantly affect performance on various turf conditions. Common mistakes include choosing a loft that does not complement your existing clubs or failing to account for your playing style and typical course conditions. 
 
@@ -95,7 +95,7 @@ _What to compare:_
 - Bounce angle to match your playing style and course conditions
 - Grind type for specific turf interactions and shot versatility
 
-➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Compare raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **forged irons.** When shopping for forged irons, it's essential to consider your skill level, swing style, and personal preferences. Forged irons are known for their excellent feel and control, making them a popular choice among more experienced players. Look for specifications such as the loft angle, lie angle, and shaft material, as these factors significantly impact performance. Common mistakes include selecting irons that are too forgiving or not suited to your swing speed. 
 
@@ -109,7 +109,7 @@ _What to compare:_
 - Shaft flex and material
 - Grip size and feel
 
-➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolfde-20)
+➡️ [Compare forged irons on Amazon](https://www.amazon.com/s?k=forged%20irons&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -125,7 +125,7 @@ _What to compare:_
 - Spin capabilities for control on approach shots
 - Durability of the cover material for longevity on the course
 
-➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolfde-20)
+➡️ [Compare golf balls 3 piece on Amazon](https://www.amazon.com/s?k=golf%20balls%203%20piece&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for high-performance golf balls like the Pro V1, it's essential to consider factors that enhance your game. Prioritize specifications such as compression rating, spin control, and durability. A golf ball with a low compression rating is ideal for slower swing speeds, while higher compression balls offer enhanced distance for faster swings. 
 
@@ -139,7 +139,7 @@ _What to compare:_
 - Spin characteristics for better control around the greens.
 - Durability to ensure longevity through multiple rounds of play.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** When shopping for winter golf balls in yellow, consider their unique benefits and specifications. Winter golf balls are designed to maintain performance in colder temperatures, offering better control and distance when the ground is hard and wet. The bright yellow color enhances visibility against the often grey winter skies, making it easier to track your shots.
 
@@ -153,7 +153,7 @@ _What to compare:_
 - Visibility and color options for improved tracking.
 - Durability against cold weather conditions.
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, consider how it can enhance your rhythm and consistency on the golf course. A good swing tempo trainer helps golfers develop a smooth, repeatable swing, ultimately improving accuracy and distance. Focus on specifications such as adjustable weight and length, which can cater to different swing styles and skill levels. Be cautious of overly complex devices that may distract from the fundamentals of your swing.
 
@@ -167,7 +167,7 @@ _What to compare:_
 - Ease of use: Ensure the trainer is straightforward and encourages effective practice without confusion.
 - Material quality: Check for durable construction that can withstand regular use while maintaining performance.
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 ### FAQ
 

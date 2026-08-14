@@ -23,7 +23,7 @@ _What to compare:_
 - Length and width for available practice space
 - Stability and grip on different surfaces
 
-➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️ [Compare putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **impact bag.** When shopping for an impact bag, it's essential to understand its role in improving your golf swing. Impact bags help golfers develop a consistent strike by providing immediate feedback on swing mechanics. Look for an impact bag that is durable and large enough to absorb the force of your swing without tipping over. Common mistakes include choosing a bag that is too lightweight or not considering the material, as it should withstand repeated impacts.
 
@@ -37,7 +37,7 @@ _What to compare:_
 - **Size:** Choose a bag that fits your swing style and available practice space.
 - **Portability:** Evaluate how easy it is to transport and set up for practice.
 
-➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolfde-20)
+➡️ [Compare impact bag on Amazon](https://www.amazon.com/s?k=impact%20bag&tag=guildofgolf02-20)
 
 **putting mirror.** When shopping for a putting mirror, consider how it enhances your practice by improving alignment and stroke consistency. These mirrors allow golfers to visually assess their stance and alignment, helping to identify and correct errors in real time. Look for mirrors that offer adjustable angles and sufficient size to accommodate your putting stance. Common types include tabletop mirrors for home use and portable options designed for easy transport to the course.
 
@@ -51,7 +51,7 @@ _What to compare:_
 - Surface quality: Look for a reflective surface that minimizes distortion.
 - Alignment guides: Check for etched lines or markers that assist with setup.
 
-➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Compare putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 #### Drivers by Budget
 
@@ -67,7 +67,7 @@ _What to compare:_
 - Weight distribution and adjustability for personalized performance.
 - Shaft material and flex options to complement your swing speed.
 
-➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Compare high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **best game improvement driver.** When shopping for the best game improvement driver, focus on features that enhance your performance and boost confidence on the tee. Look for drivers with a larger clubhead, as these typically provide a bigger sweet spot, making it easier to achieve solid contact. Adjustable loft and lie angles can also help tailor the driver to your swing, promoting greater distance and accuracy. Common mistakes include ignoring custom fittings or selecting a driver based solely on aesthetics rather than performance specs.
 
@@ -81,7 +81,7 @@ _What to compare:_
 - Adjustable settings for customization
 - Shaft flexibility options to match your swing speed
 
-➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolfde-20)
+➡️ [Compare best game improvement driver on Amazon](https://www.amazon.com/s?k=best%20game%20improvement%20driver&tag=guildofgolf02-20)
 
 **driver under $300.** When shopping for a driver under $300, it's essential to consider both performance and comfort. Look for a driver that offers an adjustable loft feature, which can help you optimize your launch angle and distance. Pay attention to the clubhead size; a larger sweet spot can enhance forgiveness on off-center hits. 
 
@@ -97,7 +97,7 @@ _What to compare:_
 - Shaft flexibility and length for optimal control.
 - Grip size and feel for comfort during your swing.
 
-➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Compare driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 #### Balls & Accessories
 
@@ -113,7 +113,7 @@ _What to compare:_
 - Visibility and color options for easy identification
 - Portability and storage convenience for on-the-go training
 
-➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️ [Compare alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** Shopping for winter golf balls in yellow can enhance visibility on the course during the colder months when conditions may be less favorable. Look for balls designed specifically for cold weather, as they often feature a softer core that maintains distance and feel even in lower temperatures. Additionally, yellow golf balls can stand out against muted winter landscapes, helping you keep track of your shots more easily.
 
@@ -127,7 +127,7 @@ _What to compare:_
 - Visibility features and color durability
 - Durability and resistance to wear in harsh winter conditions
 
-➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️ [Compare winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **pro v1 deals.** When shopping for premium golf balls like the Pro V1, it's essential to consider performance and specifications that align with your playing style. These balls typically offer exceptional distance, spin control, and a soft feel, making them ideal for skilled players. 
 
@@ -143,7 +143,7 @@ _What to compare:_
 - Cover material for durability and spin.
 - Compression rating suited to your swing speed.
 
-➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️ [Compare pro v1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **swing tempo trainer.** When shopping for a swing tempo trainer, consider focusing on functionality, ease of use, and your personal swing style. A good tempo trainer can help improve your consistency and timing by promoting the correct rhythm during your swing. Look for models that incorporate adjustable settings, such as different tempo speeds, to cater to your specific needs. Common types include weighted trainers that enhance muscle memory and swing trainers that provide auditory feedback. 
 
@@ -157,7 +157,7 @@ _What to compare:_
 - Weight: Consider the weight of the trainer to find one that feels comfortable during use.
 - Portability: Look for lightweight and compact designs that are easy to transport.
 
-➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️ [Compare swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 ### FAQ
 

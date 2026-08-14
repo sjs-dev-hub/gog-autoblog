@@ -21,7 +21,7 @@ _What to compare:_
 - Price vs review count
 - Fast shipping if timing matters
 
-➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️  [See raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **hollow body irons.** Scan size/fit details and return policy before checkout. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -30,7 +30,7 @@ _What to compare:_
 - Model year / tech carryover
 - Sizing/fit & returns
 
-➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️  [See hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 **gap wedge 50.** Keep shaft and swing-weight consistent with your irons. A 50° wedge bridges modern PW-to-SW gaps for tighter yardages. Bounce and sole grind should match your turf and delivery.
 
@@ -40,7 +40,7 @@ _What to compare:_
 - Shaft match to irons
 - Loft/lie relative to PW & SW
 
-➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️  [See gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 ### Drivers by Budget
 
@@ -54,7 +54,7 @@ _What to compare:_
 - Price vs review count
 - Sizing/fit & returns
 
-➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** Current-gen drivers bring tighter tolerances and more adjustable weighting. Expect better ball-speed retention on mishits and refined acoustics. Swing-weight and shaft profile vary by vendor—check the spec sheet.
 
@@ -63,7 +63,7 @@ _What to compare:_
 - Stock shaft profile fit
 - Sound/feel preference (confidence matters)
 
-➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -76,7 +76,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Model year / tech carryover
 
-➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **Pro V1 deals.** Bulk pricing swings during season changes and holidays. Compression and feel affect distance control more than raw speed.
 
@@ -86,7 +86,7 @@ _What to compare:_
 - Dozen vs bulk/practice packs
 - Urethane vs ionomer cover
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 **alignment sticks.** Gate drills sharpen start line and face control. Two sticks lock in stance and target line quickly.
 
@@ -96,6 +96,6 @@ _What to compare:_
 - Stiffness & length
 - Clips for plane/putting drills
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 We refresh this feed automatically. Bookmark if it helps. Some links may be monetized (Amazon Associates).

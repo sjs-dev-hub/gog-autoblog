@@ -20,7 +20,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Fast shipping if timing matters
 
-➡️  [See high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️  [See high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **draw bias driver.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Sort by rating with a minimum review count to avoid paid noise. Scan size/fit details and return policy before checkout.
 
@@ -29,7 +29,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Fast shipping if timing matters
 
-➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️  [See draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $500.** Expect better ball-speed retention on mishits and refined acoustics. Swing-weight and shaft profile vary by vendor—check the spec sheet.
 
@@ -39,7 +39,7 @@ _What to compare:_
 - Sound/feel preference (confidence matters)
 - Back/heel mass for stability or draw bias
 
-➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️  [See driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 ### Training & Tech
 
@@ -52,7 +52,7 @@ _What to compare:_
 - Battery life & mounting ease
 - Outdoor flight capture quality
 
-➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️  [See golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 **putting mat.** Use this search to jump straight into relevant options and filter by price, reviews and shipping. Scan size/fit details and return policy before checkout.
 
@@ -61,7 +61,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Price vs review count
 
-➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolfde-20)
+➡️  [See putting mat on Amazon](https://www.amazon.com/s?k=putting%20mat&tag=guildofgolf02-20)
 
 **putting mirror.** Scan size/fit details and return policy before checkout. Use this search to jump straight into relevant options and filter by price, reviews and shipping.
 
@@ -70,7 +70,7 @@ _What to compare:_
 - Sizing/fit & returns
 - Model year / tech carryover
 
-➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️  [See putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 ### Balls & Accessories
 
@@ -84,7 +84,7 @@ _What to compare:_
 - Head weight placement
 - Overall length
 
-➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolfde-20)
+➡️  [See swing tempo trainer on Amazon](https://www.amazon.com/s?k=swing%20tempo%20trainer&tag=guildofgolf02-20)
 
 **winter golf balls yellow.** Sort by rating with a minimum review count to avoid paid noise. Use this search to jump straight into relevant options and filter by price, reviews and shipping. Scan size/fit details and return policy before checkout.
 
@@ -94,7 +94,7 @@ _What to compare:_
 - Fast shipping if timing matters
 - Sizing/fit & returns
 
-➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolfde-20)
+➡️  [See winter golf balls yellow on Amazon](https://www.amazon.com/s?k=winter%20golf%20balls%20yellow&tag=guildofgolf02-20)
 
 **alignment sticks.** High-contrast colors stay visible in rough or low light. Gate drills sharpen start line and face control. Two sticks lock in stance and target line quickly.
 
@@ -104,7 +104,7 @@ _What to compare:_
 - Stiffness & length
 - End caps for safety
 
-➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolfde-20)
+➡️  [See alignment sticks on Amazon](https://www.amazon.com/s?k=alignment%20sticks&tag=guildofgolf02-20)
 
 **Pro V1 deals.** Urethane covers provide greenside spin and wind control. Compression and feel affect distance control more than raw speed. Bulk pricing swings during season changes and holidays.
 
@@ -113,6 +113,6 @@ _What to compare:_
 - Dozen vs bulk/practice packs
 - Urethane vs ionomer cover
 
-➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolfde-20)
+➡️  [See Pro V1 deals on Amazon](https://www.amazon.com/s?k=pro%20v1%20deals&tag=guildofgolf02-20)
 
 New variants post regularly—check back tomorrow. Some links may be monetized (Amazon Associates).

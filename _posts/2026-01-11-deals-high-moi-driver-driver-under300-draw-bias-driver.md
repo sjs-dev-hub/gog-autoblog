@@ -19,7 +19,7 @@ Examples of high MOI drivers include those with adjustable weights and larger cl
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolfde-20)
+➡️ [Explore high MOI driver on Amazon](https://www.amazon.com/s?k=high%20MOI%20driver&tag=guildofgolf02-20)
 
 **driver under $300** — When shopping for a driver under $300, focus on finding a balance between performance and value. Look for features like adjustable loft and face angles, which can help customize your shots for improved accuracy and distance. Pay attention to the shaft material—graphite is lighter and can enhance swing speed, while the clubhead size influences forgiveness on off-center hits. 
 
@@ -29,7 +29,7 @@ Common mistakes to avoid include overlooking the importance of a proper fitting 
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolfde-20)
+➡️ [Explore driver under $300 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24300&tag=guildofgolf02-20)
 
 **draw bias driver** — When shopping for a draw bias driver, it’s essential to understand how this specialized club can enhance your game by helping to correct a slice and promote a right-to-left ball flight. Look for features such as adjustable weights and hosels, which allow for customization in face angle and center of gravity. Common mistakes include overemphasizing flashy designs or ignoring the importance of shaft flexibility and length. 
 
@@ -39,7 +39,7 @@ Consider trying different types, such as a draw bias driver with a larger clubhe
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolfde-20)
+➡️ [Explore draw bias driver on Amazon](https://www.amazon.com/s?k=draw%20bias%20driver&tag=guildofgolf02-20)
 
 **driver under $500** — When shopping for a driver under $500, it's essential to focus on key specifications and benefits that enhance your performance on the course. Look for features such as adjustable loft and lie angles, which allow for customization based on your swing style. Consider the shaft flex, as it impacts your accuracy and distance; options typically include regular, stiff, and extra stiff. Avoid common mistakes like prioritizing aesthetics over functionality or neglecting to test different models before purchase. For instance, consider a titanium driver with a large sweet spot or a composite driver designed for optimal forgiveness.
 
@@ -47,7 +47,7 @@ _Sample product types:_ forged cavity etc.
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolfde-20)
+➡️ [Explore driver under $500 on Amazon](https://www.amazon.com/s?k=driver%20under%20%24500&tag=guildofgolf02-20)
 
 #### Training & Tech
 
@@ -57,7 +57,7 @@ _Sample product types:_ tour ball etc.
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolfde-20)
+➡️ [Explore putting mirror on Amazon](https://www.amazon.com/s?k=putting%20mirror&tag=guildofgolf02-20)
 
 **swing analyzer** — When shopping for a swing analyzer, it's essential to consider how it can enhance your game by providing valuable insights into your swing mechanics, speed, and consistency. Look for features like data accuracy, ease of use, and compatibility with mobile devices. Common options include wearable sensors that attach to your glove or club, and standalone devices that capture your swing in real-time. 
 
@@ -67,7 +67,7 @@ Avoid common mistakes such as prioritizing price over quality or neglecting to r
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolfde-20)
+➡️ [Explore swing analyzer on Amazon](https://www.amazon.com/s?k=swing%20analyzer&tag=guildofgolf02-20)
 
 **golf launch monitor** — When shopping for a golf launch monitor, consider key factors that enhance your practice and gameplay analysis. A quality launch monitor captures essential data such as ball speed, launch angle, spin rate, and club path, helping you refine your swing and improve your overall performance. Mistakes often include overlooking portability and connectivity features, which can limit your use on the course or during indoor sessions. Look for products such as portable launch monitors for on-course use or more advanced, stationary models for in-depth analysis at home.
 
@@ -75,7 +75,7 @@ _Sample product types:_ tour ball etc.
 
 _Sample product types:_ game-improvement head etc.
 
-➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolfde-20)
+➡️ [Explore golf launch monitor on Amazon](https://www.amazon.com/s?k=golf%20launch%20monitor&tag=guildofgolf02-20)
 
 #### Irons & Wedges
 
@@ -87,7 +87,7 @@ Be cautious of common mistakes, such as choosing the wrong bounce angle for your
 
 _Sample product types:_ forged cavity etc.
 
-➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolfde-20)
+➡️ [Explore raw wedge on Amazon](https://www.amazon.com/s?k=raw%20wedge&tag=guildofgolf02-20)
 
 **gap wedge 50** — When shopping for a 50-degree gap wedge, consider the benefits it brings to your short game by filling the distance gap between your pitching and sand wedges. Look for a wedge with a comfortable grip and the right shaft length that suits your height and swing style. Pay attention to the wedge's loft, bounce, and grind options, as these specifications will influence your performance on different lies.
 
@@ -95,7 +95,7 @@ Common types of gap wedges include the traditional design for balanced play and 
 
 _Sample product types:_ launch trainer etc.
 
-➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolfde-20)
+➡️ [Explore gap wedge 50 on Amazon](https://www.amazon.com/s?k=gap%20wedge%2050&tag=guildofgolf02-20)
 
 **hollow body irons** — When shopping for hollow body irons, it's essential to understand their unique benefits. These clubs feature a hollow construction that enhances forgiveness, enabling golfers to achieve better distance and accuracy even on off-center strikes. Look for specifications such as loft, shaft material, and clubhead weight, all of which can influence performance.
 
@@ -107,7 +107,7 @@ Consider exploring options like game improvement hollow body irons designed for 
 
 _Sample product types:_ tour ball etc.
 
-➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolfde-20)
+➡️ [Explore hollow body irons on Amazon](https://www.amazon.com/s?k=hollow%20body%20irons&tag=guildofgolf02-20)
 
 ### Buying Checklist
 
