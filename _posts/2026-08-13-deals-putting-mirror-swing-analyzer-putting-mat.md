@@ -27,8 +27,14 @@ Choose a putting mirror when your main uncertainty is how you are aimed and set 
 
 <div class="decision-grid" markdown="1">
 
-<div><strong>Best for</strong><span>A mirror is best for golfers who can practice on a reasonably flat surface and want a simple visual check before the stroke. A mat is best for golfers with enough clear floor space who will benefit from a consistent target and repeated ball-roll tasks.</span></div>
-<div><strong>Skip it if</strong><span>Skip a mirror if visual setup checks make you more concerned with positions than hitting putts. Skip a mat if its length will not let you practice the putt distances you intend to work on or if you have no room to leave it out or unroll it consistently.</span></div>
+<div class="decision-item">
+<strong>Best for</strong>
+<span>A mirror is best for golfers who can practice on a reasonably flat surface and want a simple visual check before the stroke. A mat is best for golfers with enough clear floor space who will benefit from a consistent target and repeated ball-roll tasks.</span>
+</div>
+<div class="decision-item">
+<strong>Skip it if</strong>
+<span>Skip a mirror if visual setup checks make you more concerned with positions than hitting putts. Skip a mat if its length will not let you practice the putt distances you intend to work on or if you have no room to leave it out or unroll it consistently.</span>
+</div>
 
 </div>
 

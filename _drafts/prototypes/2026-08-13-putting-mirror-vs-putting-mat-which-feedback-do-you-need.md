@@ -29,8 +29,14 @@ Buy the feedback system that matches the mistake you are diagnosing: a mirror fo
 
 <div class="decision-grid" markdown="1">
 
-<div><strong>Best for</strong><span>Golfers who can name one specific putting behavior they want their home practice to reveal.</span></div>
-<div><strong>Skip it if</strong><span>You expect either aid to diagnose an undefined stroke problem without a focused practice routine.</span></div>
+<div class="decision-item">
+<strong>Best for</strong>
+<span>Golfers who can name one specific putting behavior they want their home practice to reveal.</span>
+</div>
+<div class="decision-item">
+<strong>Skip it if</strong>
+<span>You expect either aid to diagnose an undefined stroke problem without a focused practice routine.</span>
+</div>
 
 </div>
 

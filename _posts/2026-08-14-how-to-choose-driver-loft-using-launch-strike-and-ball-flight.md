@@ -27,8 +27,14 @@ Begin with the loft you can launch and strike consistently, then compare alterna
 
 <div class="decision-grid" markdown="1">
 
-<div><strong>Best for</strong><span>Golfers who want to replace assumptions about swing speed, handicap, or what stronger players use with a structured comparison and an individual fitting.</span></div>
-<div><strong>Skip it if</strong><span>Your contact changes so widely that each loft produces a different strike pattern. Establish a usable baseline—or work with a qualified fitter—before blaming loft for every poor flight.</span></div>
+<div class="decision-item">
+<strong>Best for</strong>
+<span>Golfers who want to replace assumptions about swing speed, handicap, or what stronger players use with a structured comparison and an individual fitting.</span>
+</div>
+<div class="decision-item">
+<strong>Skip it if</strong>
+<span>Your contact changes so widely that each loft produces a different strike pattern. Establish a usable baseline—or work with a qualified fitter—before blaming loft for every poor flight.</span>
+</div>
 
 </div>
 

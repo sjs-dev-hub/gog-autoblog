@@ -28,8 +28,14 @@ A promotion becomes useful only after the exact model, seller, condition, return
 
 <div class="decision-grid" markdown="1">
 
-<div><strong>Best for</strong><span>Shoppers willing to verify the listing details and compare like-for-like options before checking out.</span></div>
-<div><strong>Skip it if</strong><span>The offer relies on a countdown, vague percentage claim, or crossed-out price that you cannot independently confirm.</span></div>
+<div class="decision-item">
+<strong>Best for</strong>
+<span>Shoppers willing to verify the listing details and compare like-for-like options before checking out.</span>
+</div>
+<div class="decision-item">
+<strong>Skip it if</strong>
+<span>The offer relies on a countdown, vague percentage claim, or crossed-out price that you cannot independently confirm.</span>
+</div>
 
 </div>
 

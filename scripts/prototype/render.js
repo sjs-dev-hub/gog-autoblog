@@ -36,8 +36,8 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
     '## The quick verdict', '',
     verdict.bottomLine, '',
     '<div class="decision-grid" markdown="1">', '',
-    `<div><strong>Best for</strong><span>${verdict.bestFor}</span></div>`,
-    `<div><strong>Skip it if</strong><span>${verdict.skipIf}</span></div>`, '',
+    '<div class="decision-item">', `<strong>Best for</strong>`, `<span>${verdict.bestFor}</span>`, '</div>',
+    '<div class="decision-item">', `<strong>Skip it if</strong>`, `<span>${verdict.skipIf}</span>`, '</div>', '',
     '</div>', '',
     '</section>', ''
   ];

@@ -29,8 +29,14 @@ Choose the driver that tightens your ordinary strike pattern and ball-flight win
 
 <div class="decision-grid" markdown="1">
 
-<div><strong>Best for</strong><span>Golfers who can compare impact location and dispersion across several realistic swings.</span></div>
-<div><strong>Skip it if</strong><span>You are buying from a category label without checking loft, shaft, strike, and usual miss together.</span></div>
+<div class="decision-item">
+<strong>Best for</strong>
+<span>Golfers who can compare impact location and dispersion across several realistic swings.</span>
+</div>
+<div class="decision-item">
+<strong>Skip it if</strong>
+<span>You are buying from a category label without checking loft, shaft, strike, and usual miss together.</span>
+</div>
 
 </div>
 
