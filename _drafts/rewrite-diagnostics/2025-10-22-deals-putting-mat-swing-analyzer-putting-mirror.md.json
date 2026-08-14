@@ -1,0 +1,110 @@
+{
+  "filename": "2025-10-22-deals-putting-mat-swing-analyzer-putting-mirror.md",
+  "errors": [
+    "truncated or incomplete sentence: Compare the two groups. If your address pictu..."
+  ],
+  "rejectedDraft": {
+    "articleType": "comparison",
+    "title": "Putting Mirror vs. Putting Mat: Choose Feedback for the Miss You See",
+    "description": "A practical comparison for golfers choosing one home putting aid based on whether they need setup feedback, ball-roll feedback, or a clearer motion question.",
+    "audience": "Golfers choosing one practice aid and deciding whether they need setup feedback or ball-roll feedback.",
+    "dek": "A short putt leaks left, and the usual reaction is to buy more practice gear. Start with the evidence you can actually observe: an inconsistent address picture, inconsistent ball-roll results, or a motion question that neither aid can fully answer.",
+    "verdict": {
+      "bottomLine": "Choose a putting mirror when your observable uncertainty is setup. Choose a putting mat when you need repeatable start-to-target ball-roll results. Choose neither first if setup and ball roll are clear but the unanswered question is putter motion.",
+      "bestFor": "A mirror suits golfers who cannot tell whether their address picture is consistent from putt to putt. A mat suits golfers who need a repeatable home target and a simple way to track where putts start and finish.",
+      "skipIf": "Skip a mirror if your setup is already repeatable but you lack a consistent target. Skip a mat if you expect ball results alone to explain how the putter moved."
+    },
+    "visualBrief": {
+      "concept": "An overhead editorial illustration of a golfer putting in a simple home practice space. On the left, a reflected geometric image shows the golfer observing address position. On the right, several ball paths travel toward a small target. A faint curved putter-path trace between the two scenes represents motion as a separate question.",
+      "alt": "Overhead illustration contrasting setup observation, ball-roll observation, and a separate motion question during home putting practice.",
+      "caption": "Choose the feedback category before choosing the practice aid."
+    },
+    "practicePlan": {
+      "title": "The Three-Question Putting Audit",
+      "time": "15 minutes.",
+      "setup": "Use a clear, level practice area, a putter, six balls, and a small target such as a cup or taped finish point. If you have a mirror, place it where it lets you view your normal address position. If you have a mat, use it to keep the same starting point and target for every putt. Do not move the starting spot during the session.",
+      "steps": [
+        "Hit six putts from the same spot without changing the target. After each putt, record one observable result: started left, started near target, started right, short, or long.",
+        "Hit another six putts, pausing at address before every stroke. If using a mirror, observe only whether your address picture looks repeatable before you putt. Do not attempt to rebuild your stroke during this block.",
+        "Compare the two groups. If your address picture changes noticeably from putt to putt, make setup your first practice question. If your address picture is repeatable but the ball repeatedly starts away from the target or finishes inconsistently, make ball roll,"
+      ],
+      "successSignal": "The audit succeeds when you can name one observable priority—setup, ball roll, or motion—instead of buying an aid to solve an unspecified putting problem."
+    },
+    "shoppingOptions": [
+      {
+        "label": "Compare putting mirrors after setup becomes the priority.",
+        "query": "putting mirror golf practice",
+        "why": "Compare the usable viewing area with your normal address position and the space where you will practice. The useful outcome is a repeatable pre-putt setup check rather than simply owning a reflective surface."
+      },
+      {
+        "label": "Compare putting mats after ball roll becomes the priority.",
+        "query": "indoor putting mat golf",
+        "why": "Compare the available putting length with your floor space and whether the target provides a consistent finish point. The useful outcome is a start-to-target routine you can repeat often."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The missed putt is not yet a buying decision",
+        "body": "Three short putts miss at home, and the instinct is to reach for the aid with the most features. Yet the misses may leave three different questions: Was the address picture inconsistent? Did the ball repeatedly start or finish away from the intended target? Or is the unresolved issue how the putter moved? A mirror and a mat can make practice more structured, but they do not answer the same question. The PGA of America recommends practice with purpose and structure, which makes defining the question the useful first step.",
+        "recommendation": "Write down the miss you can observe before shopping. “My address does not look the same each time” points toward setup feedback, while “my ball does not start or finish near the same target” points toward ball-roll feedback."
+      },
+      {
+        "heading": "A putting mirror is for setup feedback",
+        "body": "Choose a mirror when uncertainty begins before the stroke. Perhaps your putts feel acceptable, but you cannot tell whether you have arrived at the ball with the same visual picture each time. A mirror creates a deliberate checkpoint: take your address, observe it, then make the putt. That constraint can help the golfer who changes posture, alignment, or ball position between repetitions without recognizing the change.",
+        "recommendation": "Prioritize a mirror when you want a repeatable pre-putt picture. Compare its viewing area with your usual address position and confirm that it works in the practice space you will actually use."
+      },
+      {
+        "heading": "A putting mat is for ball-roll feedback",
+        "body": "Choose a mat when the uncertainty is expressed by the ball. A golfer with ten minutes after dinner may gain more from one fixed starting point and one fixed target than from another setup reference. Repeated putts allow simple logging: did the ball start near the intended line, and did it reach the intended finish point? Those outcomes do not explain every miss, but they give the session evidence instead of guesswork.",
+        "recommendation": "Prioritize a mat if your limiting factor is a consistent home routine. Compare the usable length with your floor space and choose a target arrangement that supports the distances you will genuinely repeat."
+      },
+      {
+        "heading": "Motion is a third category, not a verdict",
+        "body": "A golfer may see a repeatable address picture and still produce varied ball-roll results. That does not prove a particular stroke fault. It only suggests that the unanswered question may concern putter motion rather than setup or ball roll. A mirror can provide setup context, and a mat can reveal outcomes, but neither should be treated as a complete motion diagnosis. Gather a clear pattern first rather than expecting a purchase to answer a different question from the one it was designed to address.",
+        "recommendation": "Do not buy a mirror simply because the stroke feels unreliable, and do not buy a mat simply because putts miss. If setup appears repeatable and ball-roll results still vary, identify motion as the next question."
+      },
+      {
+        "heading": "Keep home practice controlled and transferable",
+        "body": "Home practice is most useful as a controlled rehearsal, not as a replacement for every on-course putting demand. Rule 13 provides rules context for putting greens and lines of play, while a home practice area deliberately simplifies the task. Use that simplicity well. Keep the starting point, target, and task steady long enough to learn something, then carry one specific intention to the course, such as checking your address picture or selecting a precise start line.",
+        "recommendation": "Give one aid one job in each session. Use a mirror session to observe setup consistency, and use a mat session to record ball-roll outcomes."
+      }
+    ],
+    "takeaways": [
+      "Buy a putting mirror when setup is the observable uncertainty.",
+      "Buy a putting mat when you need repeated start-to-target ball-roll evidence.",
+      "Treat motion as a separate question when setup looks repeatable and ball-roll results still vary.",
+      "A brief structured audit is more useful than alternating between random putts and random equipment."
+    ],
+    "faq": [
+      {
+        "question": "Can a putting mirror replace a putting mat?",
+        "answer": "No. A mirror is best used to observe setup, while a mat is best used to create repeated ball-roll outcomes. One may be enough for your current question, but they do not provide the same feedback."
+      },
+      {
+        "question": "Which aid should a beginner buy first?",
+        "answer": "Choose the aid that makes the next practice session easier to define. A beginner who cannot repeat an address picture may start with a mirror, while a beginner who needs a simple target routine may start with a mat."
+      },
+      {
+        "question": "What if I cannot tell why my putts miss?",
+        "answer": "Run the three-question audit and record only what you see without assigning a cause. If setup is repeatable and ball-roll results remain inconsistent, motion is the next question rather than an automatic choice between mirror and mat."
+      },
+      {
+        "question": "Should home practice imitate a real putting green exactly?",
+        "answer": "Use home practice for a controlled task rather than expecting a complete imitation of on-course putting. Rule 13 provides the rules context for putting greens and lines of play, but a home routine is most useful when its target and purpose are clear."
+      }
+    ],
+    "sources": [
+      {
+        "title": "PGA of America: Practice With Purpose",
+        "url": "https://www.pga.com/story/practice-with-purpose-to-improve-your-game",
+        "supports": "The recommendation to give practice a defined purpose and structure."
+      },
+      {
+        "title": "USGA Rule 13: Putting Greens",
+        "url": "https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/rule-13.html",
+        "supports": "The rules context for putting greens and lines of play."
+      }
+    ],
+    "affiliateDisclosure": "Guild of Golf may earn a commission from qualifying purchases made through affiliate shopping links, at no added cost to you."
+  }
+}
