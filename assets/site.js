@@ -71,11 +71,12 @@
 
     function renderLibrary() {
       const shown = currentMatches.slice(0, visible);
+      const remaining = Math.max(0, currentMatches.length - shown.length);
       results.innerHTML = shown.length ? shown.map(resultMarkup).join('') : '<p>No guides found. Try a broader gear type, problem, or practice goal.</p>';
       if (count) count.textContent = searchInput.value.trim() ? `${currentMatches.length} matching guides` : `${currentMatches.length} published guides`;
       if (more) {
-        more.hidden = visible >= currentMatches.length;
-        more.textContent = `Show more (${currentMatches.length - visible} remaining)`;
+        more.hidden = remaining === 0;
+        more.textContent = remaining ? `Show more (${remaining} remaining)` : 'All guides shown';
       }
     }
 
@@ -86,7 +87,7 @@
         results.innerHTML = '';
         return;
       }
-      indexPromise ||= fetch('/search.json').then(response => {
+      indexPromise ||= fetch('/search.json', { cache: 'no-store' }).then(response => {
         if (!response.ok) throw new Error('Search index unavailable');
         return response.json();
       });
@@ -117,7 +118,10 @@
     }
 
     searchInput.addEventListener('input', runSearch);
-    if (more) more.addEventListener('click', () => { visible += 18; renderLibrary(); });
+    if (more) more.addEventListener('click', () => {
+      visible = Math.min(visible + 18, currentMatches.length);
+      renderLibrary();
+    });
     document.querySelectorAll('[data-search-suggestion]').forEach(button => {
       button.addEventListener('click', () => {
         searchInput.value = button.dataset.searchSuggestion;
