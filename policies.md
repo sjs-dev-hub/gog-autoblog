@@ -5,7 +5,7 @@ permalink: /policies/
 description: Privacy, Terms, Community Guidelines, and safety information for Guild of Golf.
 ---
 
-<nav class="policy-nav" aria-label="Policy sections"><a href="#privacy">Privacy</a><a href="#terms">Terms</a><a href="#community-guidelines">Community Guidelines</a><a href="#safety">Safety</a></nav>
+<nav class="policy-nav" aria-label="Policy sections" markdown="0"><a href="#privacy">Privacy</a><a href="#terms">Terms</a><a href="#community-guidelines">Community Guidelines</a><a href="#safety">Safety</a></nav>
 
 <p class="policy-note"><strong>Last updated July 28, 2026.</strong> These policies cover the Guild of Golf guide library and link to the same support team that operates the main Guild app.</p>
 
