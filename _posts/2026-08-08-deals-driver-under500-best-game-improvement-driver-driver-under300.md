@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "Top-down illustration connecting a golfer’s driver-face strike pattern with a spread of tee shots across a fairway."
 hero_caption: "Read the strike pattern and landing pattern together before deciding what a different driver must improve."
 visual_prompt: "An original educational illustration of a golfer viewed from above on a teeing ground, with several ball-flight arcs spreading toward a wide fairway and a few arcs entering rough on each side. A simple circular driver-face imprint pattern sits beside the golfer, showing a central cluster and scattered heel, toe, high, and low strike locations through abstract dots only."
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

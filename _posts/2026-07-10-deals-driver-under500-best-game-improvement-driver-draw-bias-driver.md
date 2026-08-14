@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "Illustration showing three different driver ball flights and a spread of strike locations on an abstract clubface."
 hero_caption: "Compare the flight from ordinary strikes, not only the one swing that felt perfect."
 visual_prompt: "An original editorial illustration of a golfer seen from behind at a teeing area, with three unbranded, abstract ball-flight arcs rising at different heights and landing in separate fairway corridors. Small, neutral impact marks appear across an enlarged abstract clubface silhouette beside the scene."
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

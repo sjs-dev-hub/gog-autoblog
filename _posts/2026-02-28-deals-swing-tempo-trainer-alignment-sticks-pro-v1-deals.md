@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "A golfer compares a ground-line setup drill with a smooth rhythm rehearsal at a practice range."
 hero_caption: "The better aid is the one that makes one useful observation easier to repeat."
 visual_prompt: "An original educational editorial illustration at a quiet practice range. One golfer is shown in two adjacent moments: first, addressing a ball beside two plain ground rods forming a target corridor; second, making a smooth rehearsal swing with a generic practice club. A few unmarked balls and a blank notebook rest on the grass, with no text, logos, brands, or commercial-product details."
+topics: ["Golf Balls", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

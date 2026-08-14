@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "Overhead illustration of a golfer comparing a reflective putting setup station and a target roll station at home."
 hero_caption: "One station helps make setup visible; the other makes a repeated ball path visible."
 visual_prompt: "An original overhead editorial illustration of a golfer at home comparing two simple practice stations side by side: one station shows a plain reflective setup board with a ball and putter, while the other shows a plain roll surface leading to a circular target. Subtle sightlines and ball paths distinguish visual setup feedback from ball-roll feedback."
+topics: ["Putting", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

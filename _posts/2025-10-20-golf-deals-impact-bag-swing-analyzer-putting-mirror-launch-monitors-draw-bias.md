@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: impact bag, swing analyzer, putting mirror"
 date: 2025-10-20 03:02:00 +0000
 categories: deals
+topics: ["Putting", "Driving", "Practice & Training", "Technology"]
 ---
 
 <!-- sig:fc288958 -->

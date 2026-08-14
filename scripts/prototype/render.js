@@ -4,6 +4,22 @@ function escapeYaml(value) {
   return String(value).replace(/\\/g, '\\\\').replace(/"/g, '\\"');
 }
 
+function articleTopics(article, slug) {
+  const haystack = `${slug} ${article.title} ${article.topic || ''}`.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+  const taxonomy = [
+    ['Putting', ['putt', 'putter', 'putting']],
+    ['Driving', ['driver', 'driving', 'tee-shot', 'draw-bias', 'high-moi']],
+    ['Wedges & Short Game', ['wedge', 'chipping', 'pitching', 'short-game']],
+    ['Irons', ['iron', 'irons', 'hollow-body', 'players-distance']],
+    ['Golf Balls', ['golf-ball', 'golf-balls', 'pro-v1', 'two-piece', 'three-piece']],
+    ['Practice & Training', ['practice', 'trainer', 'training', 'alignment-stick', 'impact-bag', 'swing-analyzer', 'tempo']],
+    ['Technology', ['launch-monitor', 'rangefinder', 'gps', 'sensor', 'technology', 'tech']],
+    ['Bags & Accessories', ['golf-bag', 'stand-bag', 'cart-bag', 'glove', 'towel', 'accessory']]
+  ];
+  const topics = taxonomy.filter(([, terms]) => terms.some(term => haystack.includes(term))).map(([name]) => name);
+  return topics.length ? topics : ['General Gear'];
+}
+
 function renderArticle(article, date, slug, amazonTag, options = { prototype: true }) {
   const verdict = article.verdict || {
     bottomLine: article.dek,
@@ -23,6 +39,7 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
     `description: "${escapeYaml(article.description)}"`,
     `date: ${date} 07:00:00 +0000`,
     'categories: deals',
+    `topics: [${articleTopics(article, slug).map(topic => `"${escapeYaml(topic)}"`).join(', ')}]`,
     `article_type: ${article.articleType}`,
     `hero_alt: "${escapeYaml(visualBrief.alt)}"`,
     `hero_caption: "${escapeYaml(visualBrief.caption)}"`,

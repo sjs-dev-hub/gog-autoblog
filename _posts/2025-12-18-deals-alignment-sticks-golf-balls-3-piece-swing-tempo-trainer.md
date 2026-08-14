@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "Illustration contrasting a ground alignment corridor with a smooth rehearsal swing using a training club."
 hero_caption: "Choose the aid that makes the next practice error easiest to see."
 visual_prompt: "An original editorial illustration of a golfer at a quiet practice range viewed from above and slightly behind. On one side, two plain unbranded rods form a target corridor beside a ball; on the other, the golfer makes a rehearsal swing with a simple unbranded training club. Subtle dashed arcs show a straight setup reference and a smooth swing rhythm, with no text or labels."
+topics: ["Golf Balls", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

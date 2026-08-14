@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: raw wedge, hollow body irons, 50° gap wedges"
 date: 2025-10-22 14:59:00 +0000
 categories: deals
+topics: ["Driving", "Wedges & Short Game", "Irons"]
 ---
 
 <!-- sig:271f9e56 -->

@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: forged irons, players-distance irons, hollow body irons"
 date: 2025-10-20 02:29:00 +0000
 categories: deals
+topics: ["Wedges & Short Game", "Irons"]
 ---
 
 <!-- sig:7df84844 -->

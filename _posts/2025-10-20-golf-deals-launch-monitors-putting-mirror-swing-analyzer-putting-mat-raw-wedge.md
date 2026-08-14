@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: launch monitors, putting mirror, swing analyzer"
 date: 2025-10-20 03:00:00 +0000
 categories: deals
+topics: ["Putting", "Wedges & Short Game", "Practice & Training", "Technology"]
 ---
 
 <!-- sig:a5ece4b1 -->

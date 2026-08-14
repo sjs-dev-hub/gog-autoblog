@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "A golfer uses a compact practice station to compare two unbranded iron shapes toward one target."
 hero_caption: "One target and a short record of results can make an iron decision clearer than a construction label alone."
 visual_prompt: "An original editorial illustration of a golfer at a compact practice bay comparing two unbranded iron silhouettes, with a small landing zone and a simple notebook resting beside a few balls."
+topics: ["Wedges & Short Game", "Irons"]
 ---
 
 <div class="article-audience" markdown="1">

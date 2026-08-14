@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "Illustration of a golfer progressing from a setup check to a ball-roll target and a scored practice result."
 hero_caption: "A useful home station moves from a visible setup check to a ball-roll task only when the earlier task is repeatable."
 visual_prompt: "An original editorial illustration showing a three-stage home putting progression from left to right: a golfer quietly checking eye and putter position over a reflective practice surface, then rolling balls down a plain indoor lane toward a small target, then recording a simple row of successful attempts with pebbles. Use neutral, unbranded equipment and a clean room."
+topics: ["Putting", "Technology"]
 ---
 
 <div class="article-audience" markdown="1">

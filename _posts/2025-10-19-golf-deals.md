@@ -3,6 +3,7 @@ layout: post
 title: "Daily Golf Deals — 2025-10-19"
 date: 2025-10-19 07:00:00 +0000
 categories: deals
+topics: ["General Gear"]
 ---
 
 Curated high-intent search links for golf gear. Some links may be monetized (Amazon Associates).

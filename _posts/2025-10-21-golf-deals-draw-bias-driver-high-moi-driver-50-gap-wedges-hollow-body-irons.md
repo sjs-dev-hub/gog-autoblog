@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-21: draw bias driver, high moi driver, 50° gap wedges"
 date: 2025-10-21 07:00:00 +0000
 categories: deals
+topics: ["Driving", "Wedges & Short Game", "Irons"]
 ---
 
 <!-- sig:bc6c90df -->

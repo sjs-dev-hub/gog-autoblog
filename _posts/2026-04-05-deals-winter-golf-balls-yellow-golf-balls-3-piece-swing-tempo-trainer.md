@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "This illustration shows a golfer using ground rods for a visual reference and a weighted practice club for a balanced rehearsal swing."
 hero_caption: "A ground reference answers a placement question, while a rehearsal tool emphasizes the repeatability of the motion."
 visual_prompt: "Create an original educational illustration from an elevated rear angle at a plain practice tee. One side shows a golfer standing beside two unmarked rods placed on the ground to form a safe, open alignment reference around a ball. The other side shows the golfer making a balanced rehearsal swing with a plain, unbranded weighted practice club. Use simple visual spacing and gentle motion arcs only, with no words, logos, prices, or recognizable commercial products."
+topics: ["Golf Balls", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

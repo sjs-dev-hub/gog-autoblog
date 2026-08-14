@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "A golfer observes several tee-shot flights beside a simple diagram of strike locations on a driver face."
 hero_caption: "Compare repeated strike and flight patterns before changing loft."
 visual_prompt: "An original editorial illustration of a golfer at a practice tee viewed from behind, with three separate ball-flight arcs in the sky and a simplified driver-face diagram beside the golfer showing three distinct impact locations."
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

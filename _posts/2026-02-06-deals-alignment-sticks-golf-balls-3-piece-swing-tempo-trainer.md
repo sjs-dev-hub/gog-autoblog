@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "A beginner golfer choosing between ground alignment rods and a weighted practice club at a range."
 hero_caption: "Choose the feedback you can observe before choosing the aid."
 visual_prompt: "An original editorial illustration of a beginner golfer at a practice area choosing between two simple training setups: two plain rods on the ground pointing toward a distant flag on one side, and a plain weighted practice club being swung in a balanced pose on the other. The golfer looks thoughtfully between the visible target line and the flowing motion."
+topics: ["Golf Balls", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

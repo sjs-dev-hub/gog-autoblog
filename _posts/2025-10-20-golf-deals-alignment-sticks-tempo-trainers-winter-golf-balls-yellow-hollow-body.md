@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: alignment sticks, tempo trainers, winter golf balls yellow"
 date: 2025-10-20 03:09:00 +0000
 categories: deals
+topics: ["Irons", "Golf Balls", "Practice & Training"]
 ---
 
 <!-- sig:f500c8bc -->

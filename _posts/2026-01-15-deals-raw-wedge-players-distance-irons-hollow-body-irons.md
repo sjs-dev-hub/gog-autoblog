@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2026-01-15"
 date: 2026-01-15 07:00:00 +0000
 categories: deals
+topics: ["Wedges & Short Game", "Irons"]
 ---
 
 Welcome to the "Guild of Golf — Daily Deals" roundup for January 15, 2026, where practicality meets opportunity! Explore a carefully curated selection of essential golf gear that enhances your game while providing great value. Compare our featured deals with top options available on Amazon to ensure you're making informed choices for your next round on the course.

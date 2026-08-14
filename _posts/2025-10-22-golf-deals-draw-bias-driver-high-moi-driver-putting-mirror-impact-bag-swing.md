@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: draw bias driver, high moi driver, putting mirror"
 date: 2025-10-22 15:02:00 +0000
 categories: deals
+topics: ["Putting", "Driving", "Practice & Training"]
 ---
 
 <!-- sig:3bbf3bd3 -->

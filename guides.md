@@ -11,17 +11,11 @@ description: Search the complete Guild of Golf library by equipment, practice go
 <div><p class="eyebrow">Search the complete library</p><h2>What do you want help with?</h2><p>Search checks titles, summaries, and article content.</p></div>
 <label><span class="sr-only">Search all golf guides</span><input type="search" data-guide-search placeholder="Try 'putting pace' or 'wedge gaps'" autocomplete="off" autofocus></label>
 </div>
-<div class="finder-prompts" aria-label="Search suggestions">
-<button type="button" data-search-suggestion="putting">Putting practice</button>
-<button type="button" data-search-suggestion="forgiving driver">More forgiving drives</button>
-<button type="button" data-search-suggestion="wedge gap">Wedge gaps</button>
-<button type="button" data-search-suggestion="golf ball">Golf balls</button>
-<button type="button" data-search-suggestion="launch monitor">Practice technology</button>
-</div>
 </section>
 
 <section class="guide-library" data-guide-library aria-live="polite">
-<div class="library-heading"><div><p class="eyebrow">Complete archive</p><h2>Browse every guide</h2></div><p data-library-count>Loading the library…</p></div>
+<div class="library-heading"><div><p class="eyebrow">Browse by part of the game</p><h2>Choose a collection</h2></div><p data-library-count>Loading the library…</p></div>
+<div class="topic-filters" data-topic-filters aria-label="Filter guides by topic"></div>
 <div class="library-results" data-search-results></div>
 <button class="secondary-action library-more" type="button" data-library-more hidden>Show more results</button>
 </section>

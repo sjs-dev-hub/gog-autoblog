@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: forged irons, 50° gap wedges, raw wedge"
 date: 2025-10-20 07:00:00 +0000
 categories: deals
+topics: ["Wedges & Short Game", "Irons"]
 ---
 
 <!-- sig:83fef721 -->

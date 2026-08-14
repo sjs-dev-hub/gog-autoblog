@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "Illustration of a golfer comparing three tee-shot trajectories while using a notebook and simple practice setup."
 hero_caption: "Observe the pattern first, then decide whether loft has an uncovered job to do."
 visual_prompt: "An original educational illustration of a golfer viewed from behind at a tee box, with three simple unlabeled ball-flight arcs rising from three tee shots. Beside the golfer are a driver, a notebook with blank pages, and two plain practice rods arranged on the grass, suggesting observation before purchase."
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

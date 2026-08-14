@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "Overhead illustration of a compact home putting area with a ball, putter, reflective setup aid, and narrow rolling lane."
 hero_caption: "A small home station works when one aid answers one question quickly."
 visual_prompt: "An original overhead editorial illustration of a compact apartment corner arranged as a simple putting station: a narrow clear strip of floor, a golf ball, a plain putter, a small reflective rectangle, and a rolled-up practice surface set to one side. Show two subtle pathways in the composition, one centered on the reflective rectangle and one extending along the clear lane, to contrast setup observation with ball-roll observation."
+topics: ["Putting", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

@@ -8,6 +8,7 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     {%- if page.description -%}<p class="post-dek">{{ page.description }}</p>{%- endif -%}
     <div class="post-byline"><span>Guild of Golf editorial</span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time></div>
+    {%- if page.topics -%}<nav class="post-topics" aria-label="Article topics">{%- for topic in page.topics -%}<a href="{{ '/guides/' | relative_url }}?topic={{ topic | url_encode }}">{{ topic }}</a>{%- endfor -%}</nav>{%- endif -%}
   </header>
   {%- if page.hero_image -%}
   <figure class="article-hero"><img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | escape }}"><figcaption>{{ page.hero_caption }}</figcaption></figure>

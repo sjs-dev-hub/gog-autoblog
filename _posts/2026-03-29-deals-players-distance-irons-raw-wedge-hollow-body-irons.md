@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "A golfer compares two unbranded irons by hitting toward the same practice-range landing corridor and recording results."
 hero_caption: "A construction change earns its place when it improves a repeatable target result."
 visual_prompt: "An original editorial illustration of a golfer on a practice range alternating between two unbranded iron silhouettes, with two simple landing corridors marked by plain stakes and a notebook recording shot counts."
+topics: ["Wedges & Short Game", "Irons"]
 ---
 
 <div class="article-audience" markdown="1">

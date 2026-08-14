@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: putting mirror, putting mat, swing analyzer"
 date: 2025-10-22 18:12:00 +0000
 categories: deals
+topics: ["Putting", "Driving", "Practice & Training", "Technology"]
 ---
 
 <!-- sig:eb6294e1 -->

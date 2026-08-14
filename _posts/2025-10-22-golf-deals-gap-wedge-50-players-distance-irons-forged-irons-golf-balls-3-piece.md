@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: gap wedge 50, players distance irons, forged irons"
 date: 2025-10-22 20:57:00 +0000
 categories: deals
+topics: ["Wedges & Short Game", "Irons", "Golf Balls"]
 ---
 
 If you want value without doom-scrolling, start here. A bit of context first, then focused filters to scan prices and specs quickly:

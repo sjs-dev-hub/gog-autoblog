@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "Golfer comparing a ground alignment reference with a smooth tempo rehearsal at a practice area."
 hero_caption: "Two kinds of practice feedback answer different questions."
 visual_prompt: "An original editorial illustration of a golfer at a practice mat viewed from a slightly elevated three-quarter angle. On one side, two plain colored rods create a ground reference toward a target; on the other, the same golfer makes a smooth rehearsal with a simple unbranded weighted training club. Use subtle curved motion trails and a distant flag shape, but no text, logos, labels, prices, or recognizable commercial product designs."
+topics: ["Golf Balls", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

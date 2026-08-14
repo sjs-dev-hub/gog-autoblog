@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: driver under $500, best game improvement driver, driver under $300"
 date: 2025-10-20 01:49:00 +0000
 categories: deals
+topics: ["Driving"]
 ---
 
 <!-- sig:cbc86cc6 -->

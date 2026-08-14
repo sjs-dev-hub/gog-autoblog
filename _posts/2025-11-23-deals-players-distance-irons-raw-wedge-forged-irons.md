@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-11-23"
 date: 2025-11-23 07:00:00 +0000
 categories: deals
+topics: ["Wedges & Short Game", "Irons"]
 ---
 
 Welcome to the "Guild of Golf — Daily Deals" for November 23, 2025, where we bring you a curated selection of practical golf gear that enhances your game without breaking the bank. This roundup features top-notch equipment and accessories, showcasing the best options available on the market and easy comparisons on Amazon for your convenience. Whether you're a seasoned pro or just starting out, these daily deals offer something for every golfer looking to elevate their experience on the course.

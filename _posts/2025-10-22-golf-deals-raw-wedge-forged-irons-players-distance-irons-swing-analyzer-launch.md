@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: raw wedge, forged irons, players-distance irons"
 date: 2025-10-22 01:03:00 +0000
 categories: deals
+topics: ["Wedges & Short Game", "Irons", "Practice & Training"]
 ---
 
 <!-- sig:1ab201d9 -->

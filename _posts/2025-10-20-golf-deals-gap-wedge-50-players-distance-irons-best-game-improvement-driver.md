@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: gap wedge 50, players distance irons, best game improvement driver"
 date: 2025-10-20 01:21:00 +0000
 categories: deals
+topics: ["Driving", "Wedges & Short Game", "Irons"]
 ---
 
 If you want value without doom-scrolling, start here: context on the pick, then quick filters that surface the right options fast. Start with these categories:

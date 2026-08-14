@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "An overhead illustration contrasting setup observation on a reflective practice surface with ball-roll observation on a home putting lane."
 hero_caption: "Choose the first tool by the feedback you cannot get from your current practice space."
 visual_prompt: "An overhead editorial illustration of a quiet home practice lane split into two connected zones: one golfer addresses a ball beside a plain reflective rectangle that shows posture and alignment from above, while the other rolls balls along a simple unbranded turf lane toward a cup. A small sequence of three balls demonstrates a straight, left, and right start line."
+topics: ["Putting", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

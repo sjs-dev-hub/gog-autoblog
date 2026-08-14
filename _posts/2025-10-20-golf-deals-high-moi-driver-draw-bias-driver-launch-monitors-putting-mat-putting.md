@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: high moi driver, draw bias driver, launch monitors"
 date: 2025-10-20 02:30:00 +0000
 categories: deals
+topics: ["Putting", "Driving", "Technology"]
 ---
 
 <!-- sig:66d9c593 -->

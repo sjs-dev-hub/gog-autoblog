@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "Overhead illustration of a right-handed golfer using two alignment rods and a tee to observe three different drive patterns in a compact practice space."
 hero_caption: "A small setup can make a recurring right miss easier to observe before equipment enters the decision."
 visual_prompt: "An original overhead editorial illustration of a compact practice bay: a right-handed golfer addresses a teed ball with two plain alignment rods on the ground, a small strike-location marker beside the tee, and three distinct ball-flight arcs shown as simple unlabelled lines toward an open range."
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

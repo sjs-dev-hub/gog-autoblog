@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: players distance irons, gap wedge 50, forged irons"
 date: 2025-10-20 01:16:00 +0000
 categories: deals
+topics: ["Driving", "Wedges & Short Game", "Irons"]
 ---
 
 New day, new deals. Below is a focused shortlist with **why** each search matters and **what to compare** before you buy. Start with these categories:

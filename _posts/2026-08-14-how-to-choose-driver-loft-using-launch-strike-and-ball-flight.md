@@ -9,6 +9,7 @@ hero_alt: "Illustration showing three different driver ball-flight trajectories 
 hero_caption: "Compare one variable at a time, then judge the flight you can reproduce."
 visual_prompt: "An original editorial illustration showing three driver-launch windows—low, medium, and high—alongside generic adjustable-loft clubhead silhouettes on a quiet fairway backdrop, with no brands or text."
 hero_image: "/assets/generated/articles/2026-08-14-how-to-choose-driver-loft-using-launch-strike-and-ball-flight.webp"
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

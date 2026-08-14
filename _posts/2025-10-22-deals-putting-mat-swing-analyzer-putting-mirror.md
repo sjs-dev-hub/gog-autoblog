@@ -10,6 +10,7 @@ article_type: comparison
 hero_alt: "Top-down illustration of three ways to observe putting practice at home: address position, ball roll, and stroke motion."
 hero_caption: "Choose feedback by matching the tool to the part of the putt you can observe."
 visual_prompt: "An original top-down home-practice scene split into three connected areas: a golfer addressing a ball beside a plain reflective setup panel, a ball rolling along a plain strip of indoor turf toward a small cup, and a simple unbranded phone on a stand positioned to view the stroke. Use subtle arrows made from floor shadows and ball paths rather than printed markings to distinguish setup, roll, and motion observation."
+topics: ["Putting", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

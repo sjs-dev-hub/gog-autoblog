@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: high moi driver, draw bias driver, swing analyzer"
 date: 2025-10-22 19:43:00 +0000
 categories: deals
+topics: ["Putting", "Driving", "Practice & Training"]
 ---
 
 <!-- sig:8b52f3d8 -->

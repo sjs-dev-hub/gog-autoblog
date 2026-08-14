@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "A golfer practicing at home uses a simple display with a few selected measurements leading toward a target while excess data fades into the background."
 hero_caption: "Useful home-practice data narrows the next decision instead of multiplying distractions."
 visual_prompt: "An original editorial illustration of a golfer in a simple home hitting bay looking at a small neutral data display, with three clear paths from the display to a target: one path has a few highlighted measurement symbols and the others fade into a loose cloud of tiny unselected symbols. The composition contrasts useful decision-making with information overload."
+topics: ["Putting", "Technology"]
 ---
 
 <div class="article-audience" markdown="1">

@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "Illustration contrasting scattered driver-face contact with a repeatable directional ball-flight pattern."
 hero_caption: "Contact location and ball flight answer different buying questions."
 visual_prompt: "An original editorial illustration of a golfer at a tee box viewed from behind, with three ball-flight paths and three corresponding impact marks shown as simple abstract dots across an unbranded driver-face diagram beside the golfer. One grouping is scattered, one is centered, and one is centered with the same sideways flight."
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

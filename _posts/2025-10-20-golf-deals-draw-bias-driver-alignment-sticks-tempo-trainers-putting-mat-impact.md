@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: draw bias driver, alignment sticks, tempo trainers"
 date: 2025-10-20 02:41:00 +0000
 categories: deals
+topics: ["Putting", "Driving", "Practice & Training"]
 ---
 
 <!-- sig:4bb8c796 -->

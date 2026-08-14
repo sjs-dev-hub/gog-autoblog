@@ -9,6 +9,7 @@ hero_alt: "A golfer compares a reflective putting setup aid with a plain indoor 
 hero_caption: "Two home-practice tools answer different questions before and after the ball is struck."
 visual_prompt: "An original editorial illustration of a golfer kneeling indoors beside two simple, unbranded practice stations: a small reflective rectangle showing a putter and golf ball at address on one side, and a plain roll-out surface with a ball traveling toward a cup-shaped target on the other. Use subtle arrows, not words, to show the mirror delivering setup feedback and the surface delivering ball-roll feedback."
 hero_image: "/assets/generated/putting-feedback-field-guide.png"
+topics: ["Putting", "Practice & Training"]
 ---
 
 <div class="article-audience" markdown="1">

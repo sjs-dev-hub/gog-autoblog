@@ -10,6 +10,7 @@ article_type: evergreen-guide
 hero_alt: "A golfer practices driver start line toward a fairway corridor with a notebook and three budget envelopes."
 hero_caption: "A driver budget becomes clearer when it follows an observable practice result."
 visual_prompt: "An original editorial illustration of a golfer on a practice tee hitting toward a wide fairway corridor marked by two simple ground stakes, with a notebook, an older unbranded driver, and three plain nested budget envelopes beside the bag."
+topics: ["Driving"]
 ---
 
 <div class="article-audience" markdown="1">

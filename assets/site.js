@@ -44,15 +44,30 @@
   }
 
   function resultMarkup(guide) {
-    return `<a href="${escapeHtml(guide.url)}"><small>${escapeHtml(guide.type)} · ${escapeHtml(guide.date)}</small><strong>${escapeHtml(displayTitle(guide.title))}</strong><span>${escapeHtml(guide.excerpt)}</span></a>`;
+    const topics = (guide.topics || []).slice(0, 2).map(topic => `<em>${escapeHtml(topic)}</em>`).join('');
+    return `<a href="${escapeHtml(guide.url)}"><small>${escapeHtml(guide.type)} · ${escapeHtml(guide.date)}</small><strong>${escapeHtml(displayTitle(guide.title))}</strong><span>${escapeHtml(guide.excerpt)}</span>${topics ? `<span class="result-topics">${topics}</span>` : ''}</a>`;
   }
 
   if (searchInput && results) {
     const library = document.querySelector('[data-guide-library]');
     const count = document.querySelector('[data-library-count]');
     const more = document.querySelector('[data-library-more]');
+    const topicFilters = document.querySelector('[data-topic-filters]');
     let currentMatches = [];
     let visible = 18;
+    let selectedTopic = new URLSearchParams(window.location.search).get('topic') || '';
+
+    function renderTopicFilters(guides) {
+      if (!topicFilters) return;
+      const counts = new Map();
+      guides.forEach(guide => (guide.topics || []).forEach(topic => counts.set(topic, (counts.get(topic) || 0) + 1)));
+      const topics = [...counts.entries()].filter(([, total]) => total >= 5).sort((a, b) => b[1] - a[1]);
+      topicFilters.innerHTML = `<button type="button" data-topic="" class="${selectedTopic ? '' : 'active'}">All guides <span>${guides.length}</span></button>${topics.map(([topic, total]) => `<button type="button" data-topic="${escapeHtml(topic)}" class="${selectedTopic === topic ? 'active' : ''}">${escapeHtml(topic)} <span>${total}</span></button>`).join('')}`;
+      topicFilters.querySelectorAll('[data-topic]').forEach(button => button.addEventListener('click', () => {
+        selectedTopic = button.dataset.topic;
+        runSearch();
+      }));
+    }
 
     function renderLibrary() {
       const shown = currentMatches.slice(0, visible);
@@ -77,13 +92,16 @@
       });
       try {
         const guides = await indexPromise;
-        const matches = query.length >= 2 ? rankGuides(guides, query) : guides;
+        if (library) renderTopicFilters(guides);
+        const searched = query.length >= 2 ? rankGuides(guides, query) : guides;
+        const matches = selectedTopic ? searched.filter(guide => (guide.topics || []).includes(selectedTopic)) : searched;
         if (library) {
           currentMatches = matches;
           visible = 18;
           renderLibrary();
           const url = new URL(window.location.href);
           query ? url.searchParams.set('q', query) : url.searchParams.delete('q');
+          selectedTopic ? url.searchParams.set('topic', selectedTopic) : url.searchParams.delete('topic');
           history.replaceState(null, '', url);
         } else {
           const preview = matches.slice(0, 8);

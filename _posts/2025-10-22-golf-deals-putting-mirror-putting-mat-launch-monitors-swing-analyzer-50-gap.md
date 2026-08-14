@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: putting mirror, putting mat, launch monitors"
 date: 2025-10-22 02:09:00 +0000
 categories: deals
+topics: ["Putting", "Practice & Training", "Technology"]
 ---
 
 <!-- sig:7f14db97 -->

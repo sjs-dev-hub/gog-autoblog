@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-20: raw wedge, players-distance irons, 50° gap wedges"
 date: 2025-10-20 07:00:00 +0000
 categories: deals
+topics: ["Wedges & Short Game", "Irons"]
 ---
 
 <!-- sig:4d08c4c8 -->

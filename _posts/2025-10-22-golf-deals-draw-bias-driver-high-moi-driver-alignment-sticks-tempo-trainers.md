@@ -3,6 +3,7 @@ layout: post
 title: "Guild of Golf — Daily Deals — 2025-10-22: draw bias driver, high moi driver, alignment sticks"
 date: 2025-10-22 19:31:00 +0000
 categories: deals
+topics: ["Driving", "Practice & Training"]
 ---
 
 <!-- sig:1fb07b7a -->
