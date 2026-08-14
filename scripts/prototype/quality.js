@@ -22,7 +22,7 @@ function similarity(a, b) {
 }
 
 function articleText(article) {
-  return [article.title, article.description, article.dek]
+  return [article.title, article.description, article.dek, article.verdict?.bottomLine, article.verdict?.bestFor, article.verdict?.skipIf]
     .concat((article.sections || []).flatMap(section => [section.heading, section.body, section.recommendation]))
     .concat(article.takeaways || [])
     .concat((article.faq || []).flatMap(item => [item.question, item.answer]))
@@ -37,6 +37,8 @@ function validateArticle(article, comparisons = []) {
   if (!article.description || article.description.length < 80 || article.description.length > 170) errors.push('description must be 80-170 characters');
   if (!Array.isArray(article.sections) || article.sections.length < 3) errors.push('at least three sections are required');
   if (!Array.isArray(article.sources) || article.sources.length < 2) errors.push('at least two sources are required');
+  if (!article.verdict?.bottomLine || !article.verdict?.bestFor || !article.verdict?.skipIf) errors.push('decision verdict is incomplete');
+  if (!article.visualBrief?.concept || !article.visualBrief?.alt || !article.visualBrief?.caption) errors.push('visual brief is incomplete');
   for (const source of article.sources || []) {
     try {
       const url = new URL(source.url);

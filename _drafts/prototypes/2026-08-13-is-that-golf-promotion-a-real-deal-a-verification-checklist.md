@@ -7,11 +7,32 @@ categories: deals
 article_type: current-deals
 prototype: true
 permalink: /prototype/is-that-golf-promotion-a-real-deal-a-verification-checklist/
+hero_alt: "Illustrated golf products beside a magnifier and visual verification checklist."
+hero_caption: "Verify the exact product and terms before treating a golf promotion as a genuine deal."
 ---
 
-> **For:** Golfers who see a promotion or affiliate link and want to determine whether the offer is useful for their game and budget.
+<div class="article-audience">
+
+**Built for:** Golfers who see a promotion or affiliate link and want to determine whether the offer is useful for their game and budget.
+
+</div>
 
 This prototype intentionally makes no live price claim because no verified product feed was supplied. It demonstrates how a daily deals article should separate confirmed facts from shopping guidance instead of manufacturing urgency.
+
+<section class="decision-card" aria-label="Quick verdict">
+
+## The quick verdict
+
+A promotion becomes useful only after the exact model, seller, condition, return terms, and recent comparison price have been verified at the time of purchase.
+
+<div class="decision-grid">
+
+<div><strong>Best for</strong><span>Shoppers willing to verify the listing details and compare like-for-like options before checking out.</span></div>
+<div><strong>Skip it if</strong><span>The offer relies on a countdown, vague percentage claim, or crossed-out price that you cannot independently confirm.</span></div>
+
+</div>
+
+</section>
 
 ## Verify the exact product and seller
 

@@ -1,14 +1,21 @@
 ---
 layout: default
 ---
+{%- assign featured = site.posts.first -%}
 <section class="home-hero">
-  <p class="eyebrow">Field notes · Buying guides · Better-fit gear</p>
-  <h1>Buy golf gear with a reason—not a slogan.</h1>
-  <p class="hero-dek">Clear comparisons, fitting context, and practical tradeoffs for golfers who want equipment that makes sense for how they actually play.</p>
-  <div class="hero-actions">
-    <a class="primary-action" href="#latest-guides">Explore the latest guides</a>
-    <a class="secondary-action" href="https://app.guildofgolf.com">Find golfers in the app</a>
+  <div class="hero-copy">
+    <p class="eyebrow">Independent-minded golf buying guides</p>
+    <h1>Know what matters before you buy.</h1>
+    <p class="hero-dek">Useful comparisons, fitting context, and honest tradeoffs—built to help you choose gear for your game, not somebody else's marketing plan.</p>
+    <div class="hero-actions">
+      <a class="primary-action" href="#latest-guides">Browse the guides</a>
+      <a class="secondary-action" href="https://app.guildofgolf.com">Find your next round</a>
+    </div>
   </div>
+  <figure class="hero-art">
+    <img src="{{ '/assets/generated/driver-fitting-field-guide.png' | relative_url }}" alt="Editorial diagram of a driver, golf ball, and three launch-flight arcs">
+    <figcaption>Guild field guide: fit the decision to the golfer.</figcaption>
+  </figure>
 </section>
 
 <section class="editorial-strip" aria-label="Editorial standards">
@@ -19,25 +26,33 @@ layout: default
 
 <section class="latest-section" id="latest-guides">
   <div class="section-heading">
-    <div>
-      <p class="eyebrow">From the Guild desk</p>
-      <h2>Latest gear guides</h2>
-    </div>
+    <div><p class="eyebrow">From the Guild desk</p><h2>Latest field notes</h2></div>
     <a href="{{ '/feed.xml' | relative_url }}">Follow via RSS</a>
   </div>
+
+  {%- if featured -%}
+  <article class="featured-story">
+    <div class="featured-kicker">Newest field note</div>
+    <div>
+      <p class="post-card-meta"><span>{{ featured.date | date: "%b %-d, %Y" }}</span><span>{{ featured.article_type | default: "Gear guide" | replace: "-", " " }}</span></p>
+      <h3><a href="{{ featured.url | relative_url }}">{{ featured.title | escape }}</a></h3>
+      <p>{{ featured.description | default: featured.excerpt | strip_html | normalize_whitespace | truncate: 230 }}</p>
+      <a class="read-link" href="{{ featured.url | relative_url }}">Read the field note <span aria-hidden="true">→</span></a>
+    </div>
+  </article>
+  {%- endif -%}
 
   {%- assign post_collection = paginator.posts | default: site.posts -%}
   <div class="post-grid">
     {%- for post in post_collection -%}
+      {%- unless post.url == featured.url -%}
       <article class="post-card">
-        <div class="post-card-meta">
-          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-          <span>{{ post.article_type | default: "Gear guide" | replace: "-", " " }}</span>
-        </div>
+        <div class="post-card-meta"><span>{{ post.date | date: "%b %-d, %Y" }}</span><span>{{ post.article_type | default: "Gear guide" | replace: "-", " " }}</span></div>
         <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
         <p>{{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 190 }}</p>
         <a class="read-link" href="{{ post.url | relative_url }}">Read the guide <span aria-hidden="true">→</span></a>
       </article>
+      {%- endunless -%}
     {%- endfor -%}
   </div>
 

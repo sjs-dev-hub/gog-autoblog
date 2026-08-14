@@ -7,11 +7,32 @@ categories: deals
 article_type: comparison
 prototype: true
 permalink: /prototype/putting-mirror-vs-putting-mat-which-feedback-do-you-need/
+hero_alt: "Side-by-side illustration of a putting mirror setup and an indoor putting mat."
+hero_caption: "The useful choice depends on whether you need feedback about setup or the rolling ball."
 ---
 
-> **For:** Golfers buying one home-practice aid and deciding whether setup feedback or roll feedback matters more right now.
+<div class="article-audience">
+
+**Built for:** Golfers buying one home-practice aid and deciding whether setup feedback or roll feedback matters more right now.
+
+</div>
 
 A mirror and a mat are not interchangeable. A mirror mainly makes setup and movement visible; a mat mainly gives the ball a repeatable surface and target. Your current practice question should decide which one earns space at home.
+
+<section class="decision-card" aria-label="Quick verdict">
+
+## The quick verdict
+
+Buy the feedback system that matches the mistake you are diagnosing: a mirror for setup and movement awareness, or a mat for start-line and pace practice.
+
+<div class="decision-grid">
+
+<div><strong>Best for</strong><span>Golfers who can name one specific putting behavior they want their home practice to reveal.</span></div>
+<div><strong>Skip it if</strong><span>You expect either aid to diagnose an undefined stroke problem without a focused practice routine.</span></div>
+
+</div>
+
+</section>
 
 ## Choose a mirror for visible setup feedback
 

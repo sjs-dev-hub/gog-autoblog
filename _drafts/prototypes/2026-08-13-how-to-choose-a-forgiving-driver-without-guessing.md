@@ -7,11 +7,33 @@ categories: deals
 article_type: evergreen-guide
 prototype: true
 permalink: /prototype/how-to-choose-a-forgiving-driver-without-guessing/
+hero_alt: "Illustrated driver face, impact locations, and three possible golf-ball flight arcs."
+hero_caption: "Strike pattern and ball flight give a fitting decision more context than a forgiveness label."
+hero_image: /assets/generated/driver-fitting-field-guide.png
 ---
 
-> **For:** Golfers who want more playable tee shots and tend to lose distance or direction on off-center contact.
+<div class="article-audience">
+
+**Built for:** Golfers who want more playable tee shots and tend to lose distance or direction on off-center contact.
+
+</div>
 
 Forgiveness is not one specification and the highest advertised stability is not automatically the best fit. Start with impact pattern, launch, and your usual miss, then compare heads and shafts in that context.
+
+<section class="decision-card" aria-label="Quick verdict">
+
+## The quick verdict
+
+Choose the driver that tightens your ordinary strike pattern and ball-flight window, not the head that produces one exceptional shot or carries the loudest forgiveness label.
+
+<div class="decision-grid">
+
+<div><strong>Best for</strong><span>Golfers who can compare impact location and dispersion across several realistic swings.</span></div>
+<div><strong>Skip it if</strong><span>You are buying from a category label without checking loft, shaft, strike, and usual miss together.</span></div>
+
+</div>
+
+</section>
 
 ## Begin with the miss you need to manage
 

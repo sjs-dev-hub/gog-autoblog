@@ -3,13 +3,29 @@
 const articleSchema = {
   type: 'object',
   additionalProperties: false,
-  required: ['articleType', 'title', 'description', 'audience', 'dek', 'sections', 'takeaways', 'faq', 'sources', 'affiliateDisclosure'],
+  required: ['articleType', 'title', 'description', 'audience', 'dek', 'verdict', 'visualBrief', 'sections', 'takeaways', 'faq', 'sources', 'affiliateDisclosure'],
   properties: {
     articleType: { type: 'string', enum: ['evergreen-guide', 'comparison', 'current-deals'] },
     title: { type: 'string', minLength: 20, maxLength: 80 },
     description: { type: 'string', minLength: 80, maxLength: 170 },
     audience: { type: 'string', minLength: 15, maxLength: 180 },
     dek: { type: 'string', minLength: 40, maxLength: 260 },
+    verdict: {
+      type: 'object', additionalProperties: false, required: ['bottomLine', 'bestFor', 'skipIf'],
+      properties: {
+        bottomLine: { type: 'string', minLength: 40, maxLength: 320 },
+        bestFor: { type: 'string', minLength: 20, maxLength: 220 },
+        skipIf: { type: 'string', minLength: 20, maxLength: 220 }
+      }
+    },
+    visualBrief: {
+      type: 'object', additionalProperties: false, required: ['concept', 'alt', 'caption'],
+      properties: {
+        concept: { type: 'string', minLength: 30, maxLength: 400 },
+        alt: { type: 'string', minLength: 20, maxLength: 180 },
+        caption: { type: 'string', minLength: 20, maxLength: 220 }
+      }
+    },
     sections: {
       type: 'array', minItems: 3, maxItems: 8,
       items: {

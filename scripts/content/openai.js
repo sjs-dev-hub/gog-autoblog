@@ -21,7 +21,7 @@ async function generateArticle(brief, model = process.env.OPENAI_MODEL || 'gpt-5
       input: [
         {
           role: 'system',
-          content: 'You are the Guild of Golf editor. Write evidence-bound, useful golf buying guidance. Use only the supplied evidence for factual claims and cite only supplied source URLs. Explain tradeoffs and who should not buy an item. Never invent personal testing, prices, discounts, inventory, specifications, reviews, or urgency. Avoid generic marketing phrases. Return the requested JSON only.'
+          content: 'You are the Guild of Golf editor. Write evidence-bound, genuinely useful golf buying guidance with a strong opening, concrete decision criteria, and a clear reader verdict. Use only the supplied evidence for factual claims and cite only supplied source URLs. Explain tradeoffs, who the choice is best for, and who should skip it. Supply a visual brief for an original editorial illustration that teaches the core concept; it must request no words, logos, brands, prices, or recognizable commercial products. Never invent personal testing, prices, discounts, inventory, specifications, reviews, or urgency. Avoid generic marketing phrases. Return the requested JSON only.'
         },
         { role: 'user', content: JSON.stringify(brief) }
       ],

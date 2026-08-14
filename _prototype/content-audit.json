@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-08-14T02:28:00.282Z",
+  "methodology": "Repository-only content analysis. Search traffic and revenue were not available, so this does not classify SEO performance.",
+  "totals": {
+    "posts": 342,
+    "postsWithGenericLanguage": 302,
+    "postsWithMalformedMarkers": 298,
+    "postsWithVeryHighSimilarity": 8
+  },
+  "pilotCandidates": [
+    {
+      "name": "2026-04-12-deals-alignment-sticks-swing-tempo-trainer-golf-balls-3-piece.md",
+      "wordCount": 1899,
+      "genericHits": 45,
+      "malformedMarkers": 13,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638781682-005314.md",
+        "score": 0.4580152671755725
+      },
+      "riskScore": 422
+    },
+    {
+      "name": "2026-01-22-deals-hollow-body-irons-players-distance-irons-raw-wedge.md",
+      "wordCount": 2007,
+      "genericHits": 43,
+      "malformedMarkers": 13,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638781682-005314.md",
+        "score": 0.42748091603053434
+      },
+      "riskScore": 404
+    },
+    {
+      "name": "2026-03-29-deals-players-distance-irons-raw-wedge-hollow-body-irons.md",
+      "wordCount": 1917,
+      "genericHits": 41,
+      "malformedMarkers": 14,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638674414-004555.md",
+        "score": 0.3879781420765027
+      },
+      "riskScore": 389
+    },
+    {
+      "name": "2026-02-28-deals-swing-tempo-trainer-alignment-sticks-pro-v1-deals.md",
+      "wordCount": 1856,
+      "genericHits": 41,
+      "malformedMarkers": 13,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638781682-005314.md",
+        "score": 0.4122137404580153
+      },
+      "riskScore": 388
+    },
+    {
+      "name": "2025-12-18-deals-alignment-sticks-golf-balls-3-piece-swing-tempo-trainer.md",
+      "wordCount": 1931,
+      "genericHits": 40,
+      "malformedMarkers": 14,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638781682-005314.md",
+        "score": 0.4732824427480916
+      },
+      "riskScore": 386
+    },
+    {
+      "name": "2026-02-06-deals-alignment-sticks-golf-balls-3-piece-swing-tempo-trainer.md",
+      "wordCount": 2039,
+      "genericHits": 39,
+      "malformedMarkers": 14,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638781682-005314.md",
+        "score": 0.4961832061068702
+      },
+      "riskScore": 379
+    },
+    {
+      "name": "2026-06-02-deals-driver-under300-driver-under500-draw-bias-driver.md",
+      "wordCount": 1990,
+      "genericHits": 39,
+      "malformedMarkers": 14,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638674414-004555.md",
+        "score": 0.4918032786885246
+      },
+      "riskScore": 379
+    },
+    {
+      "name": "2026-04-05-deals-winter-golf-balls-yellow-golf-balls-3-piece-swing-tempo-trainer.md",
+      "wordCount": 1927,
+      "genericHits": 39,
+      "malformedMarkers": 14,
+      "closestDuplicate": {
+        "name": "2025-10-20-golf-deals-extra-18638781682-005314.md",
+        "score": 0.48854961832061067
+      },
+      "riskScore": 378
+    },
+    {
+      "name": "2026-03-15-deals-draw-bias-driver-driver-under500-best-game-improvement-driver.md",
+      "wordCount": 2034,
+      "genericHits": 39,
+      "malformedMarkers": 13,
+      "closestDuplicate": {
+        "name": "2025-10-19-golf-deals.md",
+        "score": 0.5271739130434783
+      },
+      "riskScore": 377
+    },
+    {
+      "name": "2026-07-10-deals-driver-under500-best-game-improvement-driver-draw-bias-driver.md",
+      "wordCount": 1866,
+      "genericHits": 39,
+      "malformedMarkers": 13,
+      "closestDuplicate": {
+        "name": "2025-10-19-golf-deals.md",
+        "score": 0.3695652173913043
+      },
+      "riskScore": 369
+    }
+  ]
+}
