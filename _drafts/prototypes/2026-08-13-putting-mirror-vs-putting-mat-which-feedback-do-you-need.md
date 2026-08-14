@@ -13,7 +13,7 @@ visual_prompt: "A split editorial diagram comparing a neutral putting mirror set
 hero_image: "/assets/generated/putting-feedback-field-guide.png"
 ---
 
-<div class="article-audience">
+<div class="article-audience" markdown="1">
 
 **Built for:** Golfers buying one home-practice aid and deciding whether setup feedback or roll feedback matters more right now.
 
@@ -21,13 +21,13 @@ hero_image: "/assets/generated/putting-feedback-field-guide.png"
 
 A mirror and a mat are not interchangeable. A mirror mainly makes setup and movement visible; a mat mainly gives the ball a repeatable surface and target. Your current practice question should decide which one earns space at home.
 
-<section class="decision-card" aria-label="Quick verdict">
+<section class="decision-card" aria-label="Quick verdict" markdown="1">
 
 ## The quick verdict
 
 Buy the feedback system that matches the mistake you are diagnosing: a mirror for setup and movement awareness, or a mat for start-line and pace practice.
 
-<div class="decision-grid">
+<div class="decision-grid" markdown="1">
 
 <div><strong>Best for</strong><span>Golfers who can name one specific putting behavior they want their home practice to reveal.</span></div>
 <div><strong>Skip it if</strong><span>You expect either aid to diagnose an undefined stroke problem without a focused practice routine.</span></div>
@@ -54,7 +54,7 @@ Using both tools can be productive when the mirror provides a setup checkpoint a
 
 **Guild recommendation:** Write one measurable goal for a ten-minute session—for example, start eight of ten balls through a gate—then use only the tool that informs that goal.
 
-<section class="practice-plan" aria-label="Practice plan">
+<section class="practice-plan" aria-label="Practice plan" markdown="1">
 
 <p class="practice-time">Try this · 10 minutes</p>
 
@@ -74,13 +74,13 @@ Choose a straight six-foot putt or an equivalent indoor target and use only the 
 
 </section>
 
-<section class="shopping-guide" aria-label="Shopping options">
+<section class="shopping-guide" aria-label="Shopping options" markdown="1">
 
 ## Put the guide to work
 
 <p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
 
-<div class="shopping-grid">
+<div class="shopping-grid" markdown="1">
 
 <div class="shopping-option">
 

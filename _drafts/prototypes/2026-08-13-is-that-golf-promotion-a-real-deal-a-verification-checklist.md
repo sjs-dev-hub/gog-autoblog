@@ -12,7 +12,7 @@ hero_caption: "Verify the exact product and terms before treating a golf promoti
 visual_prompt: "An editorial shopping verification scene with a golf glove, ball sleeve, magnifier, checklist shapes, and comparison cards, with no brands, prices, labels, or text."
 ---
 
-<div class="article-audience">
+<div class="article-audience" markdown="1">
 
 **Built for:** Golfers who see a promotion or affiliate link and want to determine whether the offer is useful for their game and budget.
 
@@ -20,13 +20,13 @@ visual_prompt: "An editorial shopping verification scene with a golf glove, ball
 
 This prototype intentionally makes no live price claim because no verified product feed was supplied. It demonstrates how a daily deals article should separate confirmed facts from shopping guidance instead of manufacturing urgency.
 
-<section class="decision-card" aria-label="Quick verdict">
+<section class="decision-card" aria-label="Quick verdict" markdown="1">
 
 ## The quick verdict
 
 A promotion becomes useful only after the exact model, seller, condition, return terms, and recent comparison price have been verified at the time of purchase.
 
-<div class="decision-grid">
+<div class="decision-grid" markdown="1">
 
 <div><strong>Best for</strong><span>Shoppers willing to verify the listing details and compare like-for-like options before checking out.</span></div>
 <div><strong>Skip it if</strong><span>The offer relies on a countdown, vague percentage claim, or crossed-out price that you cannot independently confirm.</span></div>
@@ -53,7 +53,7 @@ Prices, coupons, inventory, and seller terms can change quickly. A responsible d
 
 **Guild recommendation:** Require a source URL and verification time for every price or discount statement; omit the claim when either is unavailable.
 
-<section class="practice-plan" aria-label="Practice plan">
+<section class="practice-plan" aria-label="Practice plan" markdown="1">
 
 <p class="practice-time">Try this · 10 minutes</p>
 
@@ -73,13 +73,13 @@ Open the exact listing, a second seller or manufacturer reference, and a blank n
 
 </section>
 
-<section class="shopping-guide" aria-label="Shopping options">
+<section class="shopping-guide" aria-label="Shopping options" markdown="1">
 
 ## Put the guide to work
 
 <p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
 
-<div class="shopping-grid">
+<div class="shopping-grid" markdown="1">
 
 <div class="shopping-option">
 

@@ -11,7 +11,7 @@ visual_prompt: "An original editorial illustration showing three driver-launch w
 hero_image: "/assets/generated/articles/2026-08-14-how-to-choose-driver-loft-using-launch-strike-and-ball-flight.webp"
 ---
 
-<div class="article-audience">
+<div class="article-audience" markdown="1">
 
 **Built for:** Golfers comparing driver lofts who want a repeatable decision process instead of a universal loft recommendation.
 
@@ -19,13 +19,13 @@ hero_image: "/assets/generated/articles/2026-08-14-how-to-choose-driver-loft-usi
 
 The right driver loft is not a number to borrow from a friend. It is the setting that gives your own swing a useful, repeatable ball flight when strike quality varies—as it inevitably does on the course.
 
-<section class="decision-card" aria-label="Quick verdict">
+<section class="decision-card" aria-label="Quick verdict" markdown="1">
 
 ## The quick verdict
 
 Begin with the loft you can launch and strike consistently, then compare alternatives one at a time against the same target and the same ball. Treat the resulting launch, strike pattern, and ball flight as a decision record—not as a search for a universally “correct” loft.
 
-<div class="decision-grid">
+<div class="decision-grid" markdown="1">
 
 <div><strong>Best for</strong><span>Golfers who want to replace assumptions about swing speed, handicap, or what stronger players use with a structured comparison and an individual fitting.</span></div>
 <div><strong>Skip it if</strong><span>Your contact changes so widely that each loft produces a different strike pattern. Establish a usable baseline—or work with a qualified fitter—before blaming loft for every poor flight.</span></div>
@@ -84,7 +84,7 @@ If you play in competitions, equipment used must conform to the applicable club 
 
 **Guild recommendation:** Use your comparison notes as the starting brief for an individual fitting, then verify that the final club configuration conforms to applicable competition rules.
 
-<section class="practice-plan" aria-label="Practice plan">
+<section class="practice-plan" aria-label="Practice plan" markdown="1">
 
 <p class="practice-time">Try this · 15 minutes</p>
 
@@ -104,13 +104,13 @@ Use one ball model, one target corridor, your normal tee height, and face spray 
 
 </section>
 
-<section class="shopping-guide" aria-label="Shopping options">
+<section class="shopping-guide" aria-label="Shopping options" markdown="1">
 
 ## Put the guide to work
 
 <p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
 
-<div class="shopping-grid">
+<div class="shopping-grid" markdown="1">
 
 <div class="shopping-option">
 

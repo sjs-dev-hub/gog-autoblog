@@ -13,7 +13,7 @@ visual_prompt: "An editorial driver fitting diagram showing a neutral club head,
 hero_image: "/assets/generated/driver-fitting-field-guide.png"
 ---
 
-<div class="article-audience">
+<div class="article-audience" markdown="1">
 
 **Built for:** Golfers who want more playable tee shots and tend to lose distance or direction on off-center contact.
 
@@ -21,13 +21,13 @@ hero_image: "/assets/generated/driver-fitting-field-guide.png"
 
 Forgiveness is not one specification and the highest advertised stability is not automatically the best fit. Start with impact pattern, launch, and your usual miss, then compare heads and shafts in that context.
 
-<section class="decision-card" aria-label="Quick verdict">
+<section class="decision-card" aria-label="Quick verdict" markdown="1">
 
 ## The quick verdict
 
 Choose the driver that tightens your ordinary strike pattern and ball-flight window, not the head that produces one exceptional shot or carries the loudest forgiveness label.
 
-<div class="decision-grid">
+<div class="decision-grid" markdown="1">
 
 <div><strong>Best for</strong><span>Golfers who can compare impact location and dispersion across several realistic swings.</span></div>
 <div><strong>Skip it if</strong><span>You are buying from a category label without checking loft, shaft, strike, and usual miss together.</span></div>
@@ -54,7 +54,7 @@ Manufacturers describe stability with terms such as high MOI, perimeter weightin
 
 **Guild recommendation:** Shortlist two or three conforming heads, test them with comparable shafts, and keep the current driver in the session as a baseline.
 
-<section class="practice-plan" aria-label="Practice plan">
+<section class="practice-plan" aria-label="Practice plan" markdown="1">
 
 <p class="practice-time">Try this · 15 minutes</p>
 
@@ -74,13 +74,13 @@ Use your current driver, one ball model, a consistent tee height, and face spray
 
 </section>
 
-<section class="shopping-guide" aria-label="Shopping options">
+<section class="shopping-guide" aria-label="Shopping options" markdown="1">
 
 ## Put the guide to work
 
 <p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
 
-<div class="shopping-grid">
+<div class="shopping-grid" markdown="1">
 
 <div class="shopping-option">
 

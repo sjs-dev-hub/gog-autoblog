@@ -11,7 +11,7 @@ visual_prompt: "An original editorial illustration of a golfer kneeling indoors 
 hero_image: "/assets/generated/putting-feedback-field-guide.png"
 ---
 
-<div class="article-audience">
+<div class="article-audience" markdown="1">
 
 **Built for:** Golfers choosing one practice aid and deciding whether they need setup feedback or ball-roll feedback.
 
@@ -19,13 +19,13 @@ hero_image: "/assets/generated/putting-feedback-field-guide.png"
 
 When short putts start missing left, right, or with uncertain pace, buying more practice time is not the same as buying better feedback. A mirror helps make the address position repeatable; a mat gives each stroke a destination and a roll to observe. Choose the tool that exposes the question you can actually answer in your available space.
 
-<section class="decision-card" aria-label="Quick verdict">
+<section class="decision-card" aria-label="Quick verdict" markdown="1">
 
 ## The quick verdict
 
 Choose a putting mirror when your main uncertainty is how you are aimed and set up at address; choose a putting mat when you need to rehearse a repeatable start line and pace to a target.
 
-<div class="decision-grid">
+<div class="decision-grid" markdown="1">
 
 <div><strong>Best for</strong><span>A mirror is best for golfers who can practice on a reasonably flat surface and want a simple visual check before the stroke. A mat is best for golfers with enough clear floor space who will benefit from a consistent target and repeated ball-roll tasks.</span></div>
 <div><strong>Skip it if</strong><span>Skip a mirror if visual setup checks make you more concerned with positions than hitting putts. Skip a mat if its length will not let you practice the putt distances you intend to work on or if you have no room to leave it out or unroll it consistently.</span></div>
@@ -64,7 +64,7 @@ Home practice is rehearsal, not a substitute for reading an outdoor putt. On the
 
 **Guild recommendation:** Before an on-course round, reduce the home lesson to one cue you can use without an aid, such as setting the putter behind the ball calmly or choosing a target before starting the stroke.
 
-<section class="practice-plan" aria-label="Practice plan">
+<section class="practice-plan" aria-label="Practice plan" markdown="1">
 
 <p class="practice-time">Try this · 12 minutes.</p>
 
@@ -85,13 +85,13 @@ Use a level-looking section of floor, one golf ball, a putter, and a small targe
 
 </section>
 
-<section class="shopping-guide" aria-label="Shopping options">
+<section class="shopping-guide" aria-label="Shopping options" markdown="1">
 
 ## Put the guide to work
 
 <p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>
 
-<div class="shopping-grid">
+<div class="shopping-grid" markdown="1">
 
 <div class="shopping-option">
 

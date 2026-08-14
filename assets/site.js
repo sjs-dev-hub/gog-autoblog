@@ -31,6 +31,13 @@
         results.hidden = false;
       }
     });
+    document.querySelectorAll('[data-search-suggestion]').forEach(button => {
+      button.addEventListener('click', () => {
+        searchInput.value = button.dataset.searchSuggestion;
+        searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+        searchInput.focus();
+      });
+    });
   }
 
   const article = document.querySelector('.post-content');
@@ -38,7 +45,8 @@
   if (!article || !rail) return;
 
   article.querySelectorAll('p').forEach(paragraph => {
-    if (paragraph.textContent.trim() === '**') paragraph.remove();
+    const text = paragraph.textContent.trim();
+    if (text === '**' || /^<\/(?:div|section)>$/.test(text) || /^Sample product types:/i.test(text)) paragraph.remove();
   });
 
   const headings = Array.from(article.querySelectorAll('h2'));

@@ -28,14 +28,14 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
     `hero_caption: "${escapeYaml(visualBrief.caption)}"`,
     `visual_prompt: "${escapeYaml(article.visualBrief?.concept || '')}"`,
     '---', '',
-    '<div class="article-audience">', '',
+    '<div class="article-audience" markdown="1">', '',
     `**Built for:** ${article.audience}`, '',
     '</div>', '',
     article.dek, '',
-    '<section class="decision-card" aria-label="Quick verdict">', '',
+    '<section class="decision-card" aria-label="Quick verdict" markdown="1">', '',
     '## The quick verdict', '',
     verdict.bottomLine, '',
-    '<div class="decision-grid">', '',
+    '<div class="decision-grid" markdown="1">', '',
     `<div><strong>Best for</strong><span>${verdict.bestFor}</span></div>`,
     `<div><strong>Skip it if</strong><span>${verdict.skipIf}</span></div>`, '',
     '</div>', '',
@@ -52,11 +52,11 @@ function renderArticle(article, date, slug, amazonTag, options = { prototype: tr
     lines.push(`## ${section.heading}`, '', section.body, '', `**Guild recommendation:** ${section.recommendation}`, '');
   }
   if (practicePlan) {
-    lines.push('<section class="practice-plan" aria-label="Practice plan">', '', `<p class="practice-time">Try this · ${practicePlan.time}</p>`, '', `## ${practicePlan.title}`, '', practicePlan.setup, '', '<ol>', '');
+    lines.push('<section class="practice-plan" aria-label="Practice plan" markdown="1">', '', `<p class="practice-time">Try this · ${practicePlan.time}</p>`, '', `## ${practicePlan.title}`, '', practicePlan.setup, '', '<ol>', '');
     practicePlan.steps.forEach(step => lines.push(`<li>${step}</li>`));
     lines.push('', '</ol>', '', `<p class="success-signal"><strong>What progress looks like:</strong> ${practicePlan.successSignal}</p>`, '', '</section>', '');
   }
-  lines.push('<section class="shopping-guide" aria-label="Shopping options">', '', '## Put the guide to work', '', '<p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>', '', '<div class="shopping-grid">', '');
+  lines.push('<section class="shopping-guide" aria-label="Shopping options" markdown="1">', '', '## Put the guide to work', '', '<p class="shopping-intro">These searches are a starting point—not a substitute for the fit and comparison criteria above.</p>', '', '<div class="shopping-grid" markdown="1">', '');
   shoppingOptions.forEach(option => {
     const optionLink = `https://www.amazon.com/s?k=${encodeURIComponent(option.query)}&tag=${encodeURIComponent(amazonTag)}`;
     lines.push('<div class="shopping-option">', '', `### ${option.label}`, '', option.why, '', `<a href="${optionLink}" class="gg-cta" target="_blank" rel="sponsored noopener">See current options <span aria-hidden="true">↗</span></a>`, '', '</div>', '');

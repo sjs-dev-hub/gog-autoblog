@@ -19,7 +19,7 @@ layout: default
 </section>
 
 <section class="guide-search" aria-labelledby="guide-search-title">
-  <div><p class="eyebrow">342 guides, one useful answer</p><h2 id="guide-search-title">What are you trying to improve?</h2><p>Search by gear, miss, practice goal, or buying question.</p></div>
+  <div><p class="eyebrow">343 guides, one useful answer</p><h2 id="guide-search-title">What are you trying to improve?</h2><p>Search by gear, miss, practice goal, or buying question.</p></div>
   <label><span class="sr-only">Search all golf guides</span><input type="search" data-guide-search placeholder="Try “putting alignment” or “forgiving driver”" autocomplete="off"></label>
   <div class="search-results" data-search-results hidden></div>
 </section>
@@ -66,7 +66,7 @@ layout: default
   </article>
   {%- endif -%}
 
-  {%- assign post_collection = paginator.posts | default: site.posts -%}
+  {%- assign post_collection = site.posts | slice: 0, 7 -%}
   <div class="post-grid">
     {%- for post in post_collection -%}
       {%- unless post.url == featured.url -%}
@@ -80,11 +80,5 @@ layout: default
     {%- endfor -%}
   </div>
 
-  {%- if paginator.total_pages > 1 -%}
-    <nav class="pagination" aria-label="Article pages">
-      {%- if paginator.previous_page -%}<a href="{{ paginator.previous_page_path | relative_url }}">← Newer guides</a>{%- else -%}<span></span>{%- endif -%}
-      <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {%- if paginator.next_page -%}<a href="{{ paginator.next_page_path | relative_url }}">Older guides →</a>{%- endif -%}
-    </nav>
-  {%- endif -%}
+  <div class="archive-cta"><p>Looking for something specific? Search all 343 guides by the problem you want to solve.</p><a class="secondary-action" href="{{ '/guides/' | relative_url }}">Open the guide finder →</a></div>
 </section>
