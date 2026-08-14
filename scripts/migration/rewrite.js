@@ -45,7 +45,7 @@ async function generateValidatedRewrite(brief, filename, comparisons, acceptedTi
   let revision = null;
   let lastArticle = null;
   let lastErrors = [];
-  for (let attempt = 1; attempt <= 2; attempt += 1) {
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
     const article = await generateArticle(revision ? { ...brief, revision } : brief);
     const errors = validateArticle(article, comparisons);
     for (const title of acceptedTitles) {
@@ -65,7 +65,7 @@ async function generateValidatedRewrite(brief, filename, comparisons, acceptedTi
   const diagnosticsDir = path.join(root, '_drafts', 'rewrite-diagnostics');
   fs.mkdirSync(diagnosticsDir, { recursive: true });
   fs.writeFileSync(path.join(diagnosticsDir, `${filename}.json`), `${JSON.stringify({ filename, errors: lastErrors, rejectedDraft: lastArticle }, null, 2)}\n`, 'utf8');
-  throw new Error(`${filename} failed quality checks after two OpenAI passes`);
+  throw new Error(`${filename} failed quality checks after three OpenAI passes`);
 }
 
 (async () => {
