@@ -4,26 +4,3 @@ title: Find a Guide
 permalink: /guides/
 description: Search the complete Guild of Golf library by equipment, practice goal, or on-course problem.
 ---
-
-<section class="finder-hero">
-<div class="finder-hero-copy">
-<p class="eyebrow">Guild field-guide library</p>
-<h1>Find the guide that fits your game.</h1>
-<p class="finder-dek">Start with a part of your game, a recurring miss, or a buying decision. Search every article, then narrow the library without digging through hundreds of headlines.</p>
-<div class="finder-proof"><span><strong>{{ site.posts | size }}</strong> published guides</span><span><strong>8</strong> focused collections</span><span><strong>1</strong> useful next step</span></div>
-</div>
-<figure class="finder-hero-art"><img src="{{ '/assets/generated/putting-feedback-field-guide.png' | relative_url }}" alt="Putting practice tools arranged as a focused field guide"><figcaption>Browse by the problem—not the product pitch.</figcaption></figure>
-</section>
-
-<section class="finder-search" aria-labelledby="finder-search-title">
-<div><p class="eyebrow">Search the complete archive</p><h2 id="finder-search-title">What do you want help with?</h2><p>Search titles, summaries, and full article content.</p></div>
-<label><span class="sr-only">Search all golf guides</span><input type="search" data-guide-search placeholder="Try ‘putting pace,’ ‘right miss,’ or ‘wedge gaps’" autocomplete="off" autofocus></label>
-</section>
-
-<section class="guide-library" data-guide-library aria-live="polite">
-<div class="library-heading"><div><p class="eyebrow">Browse by part of the game</p><h2>Choose a collection.</h2></div><p data-library-count>Loading the library…</p></div>
-<div class="topic-filters" data-topic-filters aria-label="Filter guides by topic"></div>
-<div class="results-heading"><strong>Guides for you</strong><span>Newest and fully edited articles appear first.</span></div>
-<div class="library-results" data-search-results></div>
-<button class="secondary-action library-more" type="button" data-library-more hidden>Show more results</button>
-</section>
