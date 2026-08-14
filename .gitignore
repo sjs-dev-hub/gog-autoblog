@@ -1,2 +1,11 @@
 node_modules/
 _site/
+
+# Local secrets and credentials must never be committed.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
