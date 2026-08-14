@@ -33,8 +33,8 @@ function validateArticle(article, comparisons = []) {
   const errors = [];
   const text = articleText(article);
   if (!['evergreen-guide', 'comparison', 'current-deals'].includes(article.articleType)) errors.push('invalid articleType');
-  if (!article.title || article.title.length < 20 || article.title.length > 80) errors.push('title must be 20-80 characters');
-  if (!article.description || article.description.length < 80 || article.description.length > 170) errors.push('description must be 80-170 characters');
+  if (!article.title || article.title.length < 20 || article.title.length > 110) errors.push('title must be 20-110 characters');
+  if (!article.description || article.description.length < 80 || article.description.length > 240) errors.push('description must be 80-240 characters');
   if (!Array.isArray(article.sections) || article.sections.length < 3) errors.push('at least three sections are required');
   if (!Array.isArray(article.sources) || article.sources.length < 2) errors.push('at least two sources are required');
   if (!article.verdict?.bottomLine || !article.verdict?.bestFor || !article.verdict?.skipIf) errors.push('decision verdict is incomplete');
@@ -44,7 +44,15 @@ function validateArticle(article, comparisons = []) {
   for (const option of article.shoppingOptions || []) {
     if (/https?:|amazon\./i.test(option.query || '')) errors.push(`shopping query must be search terms, not a URL: ${option.label || 'unnamed option'}`);
   }
-  const completeSentenceFields = [article.verdict?.bottomLine, article.verdict?.bestFor, article.verdict?.skipIf, ...(article.shoppingOptions || []).map(option => option.why)];
+  const completeSentenceFields = [
+    article.description, article.dek,
+    article.verdict?.bottomLine, article.verdict?.bestFor, article.verdict?.skipIf,
+    article.practicePlan?.setup, article.practicePlan?.successSignal,
+    ...(article.practicePlan?.steps || []),
+    ...(article.sections || []).flatMap(section => [section.body, section.recommendation]),
+    ...(article.shoppingOptions || []).map(option => option.why),
+    ...(article.faq || []).map(item => item.answer)
+  ];
   for (const value of completeSentenceFields) if (value && !/[.!?)]$/.test(value.trim())) errors.push(`truncated or incomplete sentence: ${value.slice(0, 45)}...`);
   for (const source of article.sources || []) {
     try {
