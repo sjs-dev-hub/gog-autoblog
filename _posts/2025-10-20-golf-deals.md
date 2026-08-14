@@ -3,6 +3,7 @@ layout: post
 title: "Daily Golf Deals — 2025-10-20"
 date: 2025-10-20 07:00:00 +0000
 categories: deals
+library_exclude: true
 topics: ["General Gear"]
 ---
 

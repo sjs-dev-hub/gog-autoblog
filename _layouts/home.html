@@ -2,6 +2,7 @@
 layout: default
 ---
 {%- assign editorial_posts = site.posts | where_exp: "post", "post.article_type" -%}
+{%- assign discoverable_posts = site.posts | where_exp: "post", "post.library_exclude != true" -%}
 {%- assign featured = editorial_posts.first | default: site.posts.first -%}
 <section class="home-hero">
   <div class="hero-copy">
@@ -20,7 +21,7 @@ layout: default
 </section>
 
 <section class="guide-search" aria-labelledby="guide-search-title">
-  <div><p class="eyebrow">{{ site.posts | size }} guides, one useful answer</p><h2 id="guide-search-title">What are you trying to improve?</h2><p>Search every guide by gear, miss, practice goal, or buying question.</p></div>
+  <div><p class="eyebrow">{{ discoverable_posts | size }} guides, one useful answer</p><h2 id="guide-search-title">What are you trying to improve?</h2><p>Search every guide by gear, miss, practice goal, or buying question.</p></div>
   <label><span class="sr-only">Search all golf guides</span><input type="search" data-guide-search placeholder="Try “putting alignment” or “forgiving driver”" autocomplete="off"></label>
   <div class="search-results" data-search-results hidden></div>
 </section>
@@ -81,5 +82,5 @@ layout: default
     {%- endfor -%}
   </div>
 
-  <div class="archive-cta"><p>These are featured selections—not the entire archive. Search all {{ site.posts | size }} guides by the problem you want to solve.</p><a class="secondary-action" href="{{ '/guides/' | relative_url }}">Open the complete library →</a></div>
+  <div class="archive-cta"><p>These are featured selections—not the entire archive. Search all {{ discoverable_posts | size }} guides by the problem you want to solve.</p><a class="secondary-action" href="{{ '/guides/' | relative_url }}">Open the complete library →</a></div>
 </section>

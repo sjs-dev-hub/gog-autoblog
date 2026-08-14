@@ -91,7 +91,7 @@
         return response.json();
       });
       try {
-        const guides = await indexPromise;
+        const guides = (await indexPromise).filter(guide => !guide.libraryExclude);
         if (library) renderTopicFilters(guides);
         const searched = query.length >= 2 ? rankGuides(guides, query) : guides;
         const matches = selectedTopic ? searched.filter(guide => (guide.topics || []).includes(selectedTopic)) : searched;

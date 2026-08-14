@@ -11,6 +11,7 @@ permalink: /search.json
     "type": {{ post.article_type | default: "Gear guide" | replace: "-", " " | jsonify }},
     "topics": {{ post.topics | default: empty | jsonify }},
     "editorial": {% if post.article_type %}true{% else %}false{% endif %},
+    "libraryExclude": {% if post.library_exclude %}true{% else %}false{% endif %},
     "excerpt": {{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 180 | jsonify }},
     "searchText": {{ post.content | strip_html | normalize_whitespace | truncate: 3000 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
