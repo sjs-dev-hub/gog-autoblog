@@ -1,6 +1,20 @@
 # _config.yml
-title: Guild of Golf — Daily Deals
-description: Automated daily posts with curated golf gear search links. Some links may be monetized via affiliate programs.
+title: Guild of Golf Gear Guides
+description: Practical golf equipment guidance, fitting context, and honest tradeoffs to help you make better decisions for your game.
+
+# Default rich-link artwork for Messages, social networks, and other link previews.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/social/guild-guide-share.png
+        width: 1824
+        height: 911
+        alt: Golf equipment arranged for a thoughtful club-fitting and buying decision.
+
+twitter:
+  card: summary_large_image
 
 # Theme
 theme: minima
