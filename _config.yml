@@ -28,7 +28,7 @@ plugins:
 # Traffic measurement. These values are public site identifiers, never API keys.
 # Add them after creating the corresponding Google properties.
 google_analytics: G-J6K69S3YRF
-google_site_verification:
+google_site_verification: A47IA1JcwTwYtGgZLcfJTjD4wSdbqqZHhUbkK3kc3hw
 
 # Pagination
 paginate: 5
