@@ -29,7 +29,9 @@ async function generateArticle(brief, model = process.env.OPENAI_MODEL || 'gpt-5
     })
   });
   if (!response.ok) throw new Error(`OpenAI request failed (${response.status}): ${await response.text()}`);
-  const outputText = extractOutputText(await response.json());
+  const payload = await response.json();
+  if (payload.usage) console.log(`OpenAI text usage: ${JSON.stringify(payload.usage)}`);
+  const outputText = extractOutputText(payload);
   if (!outputText) throw new Error('OpenAI response did not contain structured output text');
   return JSON.parse(outputText);
 }

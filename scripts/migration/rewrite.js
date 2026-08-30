@@ -3,8 +3,10 @@
 const fs = require('fs');
 const path = require('path');
 const { generateArticle } = require('../content/openai');
+const { generateArticleImage } = require('../content/image');
 const { articleText, similarity, validateArticle } = require('../prototype/quality');
 const { renderArticle } = require('../prototype/render');
+const { nextLegacyPost, preserveOriginalRouting } = require('./queue');
 
 const root = path.resolve(__dirname, '..', '..');
 const postsDir = path.join(root, '_posts');
@@ -52,14 +54,23 @@ function chooseBrief(filename, source) {
 }
 function parseTargets() {
   const targetIndex = process.argv.indexOf('--target');
-  return targetIndex >= 0 ? [process.argv[targetIndex + 1]] : defaultTargets;
+  if (targetIndex >= 0) return [process.argv[targetIndex + 1]];
+  if (process.argv.includes('--next')) {
+    const entries = fs.readdirSync(postsDir).filter(name => name.endsWith('.md'))
+      .map(filename => ({ filename, source: fs.readFileSync(path.join(postsDir, filename), 'utf8') }));
+    const next = nextLegacyPost(entries);
+    return next ? [next] : [];
+  }
+  return defaultTargets;
 }
 
 async function generateValidatedRewrite(brief, filename, comparisons, acceptedTitles) {
   let revision = null;
   let lastArticle = null;
   let lastErrors = [];
-  for (let attempt = 1; attempt <= 3; attempt += 1) {
+  const configuredAttempts = Number.parseInt(process.env.REWRITE_MAX_ATTEMPTS || '3', 10);
+  const maxAttempts = Math.max(1, Math.min(3, Number.isFinite(configuredAttempts) ? configuredAttempts : 3));
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
     const article = await generateArticle(revision ? { ...brief, revision } : brief);
     const errors = validateArticle(article, comparisons);
     for (const title of acceptedTitles) {
@@ -79,7 +90,7 @@ async function generateValidatedRewrite(brief, filename, comparisons, acceptedTi
   const diagnosticsDir = path.join(root, '_drafts', 'rewrite-diagnostics');
   fs.mkdirSync(diagnosticsDir, { recursive: true });
   fs.writeFileSync(path.join(diagnosticsDir, `${filename}.json`), `${JSON.stringify({ filename, errors: lastErrors, rejectedDraft: lastArticle }, null, 2)}\n`, 'utf8');
-  throw new Error(`${filename} failed quality checks after three OpenAI passes`);
+  throw new Error(`${filename} failed quality checks after ${maxAttempts} OpenAI pass(es)`);
 }
 
 (async () => {
@@ -91,10 +102,18 @@ async function generateValidatedRewrite(brief, filename, comparisons, acceptedTi
     return;
   }
   if (!process.env.OPENAI_API_KEY) throw new Error('OPENAI_API_KEY is required; no fallback rewrite will be created');
+  const targets = parseTargets();
+  if (!targets.length) {
+    console.log('Archive migration complete: no eligible legacy posts remain.');
+    return;
+  }
+  if (process.argv.includes('--publish') && targets.length !== 1) {
+    throw new Error('Publishing is limited to exactly one archive rewrite per run');
+  }
   fs.mkdirSync(outputDir, { recursive: true });
   const acceptedRewrites = [];
   const acceptedTitles = [];
-  for (const [targetIndex, filename] of parseTargets().entries()) {
+  for (const [targetIndex, filename] of targets.entries()) {
     if (!/^\d{4}-\d{2}-\d{2}-[a-z0-9-]+\.md$/.test(filename)) throw new Error(`Invalid target filename: ${filename}`);
     const sourcePath = path.join(postsDir, filename);
     if (!fs.existsSync(sourcePath)) throw new Error(`Target does not exist: ${filename}`);
@@ -129,9 +148,20 @@ async function generateValidatedRewrite(brief, filename, comparisons, acceptedTi
     const article = await generateValidatedRewrite(articleBrief, filename, comparisons.concat(acceptedRewrites), acceptedTitles);
     acceptedRewrites.push(articleText(article));
     acceptedTitles.push(article.title);
-    let rendered = renderArticle(article, date, slug, config.amazonTag, { prototype: false });
-    rendered = rendered.replace('categories: deals\n', `categories: deals\nmigration_target: "_posts/${filename}"\noriginal_url_preserved: true\n`);
-    fs.writeFileSync(path.join(outputDir, filename), rendered, 'utf8');
-    console.log(`Drafted rewrite: ${filename}`);
+    const publishing = process.argv.includes('--publish');
+    const heroImage = process.argv.includes('--image')
+      ? await generateArticleImage(article, date, slug)
+      : null;
+    let rendered = renderArticle(article, date, slug, config.amazonTag, { prototype: false, heroImage });
+    rendered = preserveOriginalRouting(rendered, source);
+    rendered = rendered.replace('categories: deals\n', `categories: deals\noriginal_url_preserved: true\n`);
+    if (publishing) {
+      fs.writeFileSync(sourcePath, rendered, 'utf8');
+      console.log(`Published archive rewrite in place: ${filename}`);
+    } else {
+      rendered = rendered.replace('categories: deals\n', `categories: deals\nmigration_target: "_posts/${filename}"\n`);
+      fs.writeFileSync(path.join(outputDir, filename), rendered, 'utf8');
+      console.log(`Drafted rewrite: ${filename}`);
+    }
   }
 })().catch(error => { console.error(error.message); process.exitCode = 1; });

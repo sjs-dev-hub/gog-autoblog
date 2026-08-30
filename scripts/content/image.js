@@ -29,6 +29,7 @@ async function generateArticleImage(article, date, slug) {
   });
   if (!response.ok) throw new Error(`OpenAI image request failed (${response.status}): ${await response.text()}`);
   const payload = await response.json();
+  if (payload.usage) console.log(`OpenAI image usage: ${JSON.stringify(payload.usage)}`);
   const base64 = payload.data?.[0]?.b64_json;
   if (!base64) throw new Error('OpenAI image response did not contain image data');
   const relativePath = path.posix.join('/assets/generated/articles', `${date}-${slug}.webp`);
