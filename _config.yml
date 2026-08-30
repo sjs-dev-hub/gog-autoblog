@@ -23,6 +23,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
+
+# Traffic measurement. These values are public site identifiers, never API keys.
+# Add them after creating the corresponding Google properties.
+google_analytics:
+google_site_verification:
 
 # Pagination
 paginate: 5

@@ -1,4 +1,33 @@
 (() => {
+  function trackAffiliateClick(link) {
+    const article = link.closest('article');
+    const heading = link.closest('section')?.querySelector('h2, h3');
+    const destination = new URL(link.href);
+    const event = {
+      event: 'affiliate_click',
+      affiliate_network: 'amazon',
+      article_path: window.location.pathname,
+      article_title: document.querySelector('h1')?.textContent.trim() || document.title,
+      link_text: link.textContent.trim().slice(0, 100),
+      link_position: [...document.querySelectorAll('a[href*="amazon.com"]')].indexOf(link) + 1,
+      section_title: heading?.textContent.trim() || '',
+      destination_path: destination.pathname,
+      destination_type: destination.pathname.startsWith('/s') ? 'search' : 'product',
+      page_type: article ? 'article' : 'site'
+    };
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(event);
+    if (typeof window.gtag === 'function') {
+      const { event: eventName, ...parameters } = event;
+      window.gtag('event', eventName, parameters);
+    }
+  }
+
+  document.querySelectorAll('a[href*="amazon.com"]').forEach(link => {
+    link.dataset.affiliateNetwork = 'amazon';
+    link.addEventListener('click', () => trackAffiliateClick(link));
+  });
+
   const searchInput = document.querySelector('[data-guide-search]');
   const results = document.querySelector('[data-search-results]');
   let indexPromise;
