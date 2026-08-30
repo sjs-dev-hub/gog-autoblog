@@ -15,6 +15,8 @@ test('measurement identifiers are valid public values and contain no credentials
   assert.match(config, /google_analytics:\s*(?:G-[A-Z0-9]+)?\s*\n/);
   assert.match(config, /google_site_verification:\s*(?:[A-Za-z0-9_-]+)?\s*\n/);
   assert.match(head, /site\.google_analytics/);
+  assert.match(head, /^<head>\s/);
+  assert.match(head, /<\/head>\s*$/);
   assert.doesNotMatch(config, /OPENAI_API_KEY|sk-[A-Za-z0-9_-]+/);
 });
 

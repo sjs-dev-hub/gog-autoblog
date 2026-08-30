@@ -1,9 +1,7 @@
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#174d35">
-{%- if site.google_site_verification -%}
-<meta name="google-site-verification" content="{{ site.google_site_verification | escape }}">
-{%- endif -%}
 {%- seo -%}
 {%- assign share_image = page.image.path | default: page.image | default: '/assets/social/guild-guide-share.png' -%}
 <meta property="og:image" content="{{ share_image | absolute_url }}">
@@ -32,3 +30,4 @@
   gtag('config', '{{ site.google_analytics | escape }}');
 </script>
 {%- endif -%}
+</head>
