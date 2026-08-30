@@ -9,10 +9,10 @@ test('crawler discovery files are configured', () => {
   assert.match(robots, /Sitemap: \{\{ '\/sitemap\.xml' \| absolute_url \}\}/);
 });
 
-test('measurement identifiers are optional and contain no credentials', () => {
+test('measurement identifiers are valid public values and contain no credentials', () => {
   const config = fs.readFileSync('_config.yml', 'utf8');
   const head = fs.readFileSync('_includes/head.html', 'utf8');
-  assert.match(config, /google_analytics:\s*\n/);
+  assert.match(config, /google_analytics:\s*(?:G-[A-Z0-9]+)?\s*\n/);
   assert.match(config, /google_site_verification:\s*\n/);
   assert.match(head, /site\.google_analytics/);
   assert.doesNotMatch(config, /OPENAI_API_KEY|sk-[A-Za-z0-9_-]+/);
