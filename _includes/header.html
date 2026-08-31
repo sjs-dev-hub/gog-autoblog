@@ -12,9 +12,9 @@
       <span class="brand-copy"><strong>Guild of Golf</strong><span>Gear notes &amp; buying guides</span></span>
     </a>
     <nav class="site-nav" aria-label="Primary navigation">
-      <a href="{{ '/' | relative_url }}">Latest</a>
-      <a href="{{ '/guides/' | relative_url }}">Find a guide</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Latest</a>
+      <a href="{{ '/guides/' | relative_url }}"{% if page.url == '/guides/' %} aria-current="page"{% endif %}>Find a guide</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
       <a class="app-link" href="https://app.guildofgolf.com"><span class="app-link-long">Open the app</span><span class="app-link-short">App</span> <span aria-hidden="true">→</span></a>
     </nav>
   </div>

@@ -471,3 +471,205 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: none; bord
   background: var(--gold-light);
   box-shadow: 0 7px 18px rgba(7,28,44,.18);
 }
+
+/* 20260831: align Deals & Guides with the Guild application shell while
+ * preserving the publication's editorial hierarchy. */
+:root {
+  --page: #f4f1e9;
+  --surface: #fffdf8;
+  --surface-elevated: #fff;
+  --surface-subtle: #f0f3ed;
+  --ink: #13271e;
+  --muted: #6c7b72;
+  --line: #d9e0d8;
+  --green: #1d6447;
+  --green-dark: #103f30;
+  --green-light: #24714c;
+  --green-bright: #24714c;
+  --gold: #d5a94f;
+  --gold-light: #f0d48f;
+  --navy: #0b2b43;
+  --paper: #fffdf8;
+  --concept-gold: #e0bd70;
+  --shell: 1320px;
+  --content: 1220px;
+  --radius-control: 8px;
+  --radius-card: 12px;
+  --shadow-subtle: 0 6px 18px rgba(10,45,42,.055);
+  --shadow-raised: 0 14px 34px rgba(10,45,42,.08);
+  --font-display: Georgia, "Times New Roman", serif;
+  --font-ui: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 6% 4%, rgba(213,169,79,.12), transparent 26rem),
+    radial-gradient(circle at 92% 10%, rgba(36,113,76,.1), transparent 28rem),
+    linear-gradient(180deg, var(--page), #fbfaf6 48%, #f1f4ee);
+  font-family: var(--font-ui);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4 { font-family: var(--font-ui); }
+
+.home-hero h1,
+.finder-hero h1,
+.post-title,
+.page-header h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+
+.hero-dek {
+  font-family: var(--font-ui);
+  font-size: clamp(17px,1.8vw,20px);
+  line-height: 1.6;
+}
+
+.eyebrow { font-weight: 700; }
+
+.product-switcher {
+  min-height: 34px;
+  padding-left: max(24px, calc((100vw - var(--shell)) / 2));
+  border-top-width: 2px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .14em;
+}
+
+.product-switcher a {
+  min-width: 128px;
+  padding-inline: 20px;
+  transition: color 160ms ease, background-color 160ms ease;
+}
+
+.product-switcher a.is-active { background: var(--concept-gold); }
+
+.site-header { min-height: 84px; }
+
+.header-inner {
+  width: 100%;
+  max-width: var(--shell);
+  min-height: 84px;
+  padding-inline: 24px;
+}
+
+.brand-copy strong { font-size: 22px; }
+
+.site-nav a {
+  position: relative;
+  min-height: 44px;
+  font-weight: 650;
+  transition: color 160ms ease, background-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.site-nav a[aria-current="page"] { color: #fff; }
+
+.site-nav a[aria-current="page"]::after {
+  content: "";
+  position: absolute;
+  right: 12px;
+  bottom: 5px;
+  left: 12px;
+  height: 2px;
+  border-radius: 999px;
+  background: var(--gold);
+}
+
+.site-nav .app-link {
+  min-height: 46px;
+  border: 1px solid #efd785;
+  background: linear-gradient(180deg,#f1d77f,#dfa93e);
+  box-shadow: 0 3px 10px rgba(4,24,35,.16);
+}
+
+.primary-action,
+.secondary-action,
+.finder-prompts button,
+.topic-filters button,
+.library-more,
+.post-content .gg-cta {
+  border-radius: var(--radius-control);
+  font-family: var(--font-ui);
+  font-weight: 650;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid rgba(213,169,79,.55);
+  outline-offset: 3px;
+  box-shadow: none;
+}
+
+.home-hero {
+  max-width: var(--shell);
+  border-radius: 0 0 16px 16px;
+  box-shadow: 0 16px 40px rgba(2,22,27,.13);
+}
+
+.guide-search,
+.editorial-strip,
+.post-card,
+.featured-story,
+.archive-cta,
+.guide-path,
+.guide-path-wide,
+.library-results > a,
+.article-hero,
+.article-rail,
+.post-content,
+.decision-card,
+.practice-plan,
+.shopping-guide,
+.shopping-option,
+.app-callout,
+.policy-nav {
+  border-color: var(--line);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-subtle);
+}
+
+.post-card,
+.featured-story,
+.archive-cta,
+.library-results > a,
+.article-rail,
+.post-content {
+  background: rgba(255,253,248,.94);
+}
+
+.post-card,
+.guide-path,
+.guide-path-wide,
+.library-results > a {
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.post-card:hover,
+.guide-path:hover,
+.guide-path-wide:hover,
+.library-results > a:hover {
+  border-color: #aebfb4;
+  box-shadow: var(--shadow-raised);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 760px) {
+  .product-switcher { min-height: 32px; padding-left: 0; }
+  .header-inner { min-height: 76px; padding-inline: 18px; }
+  .site-nav a { min-height: 42px; }
+  .home-hero { border-radius: 0 0 12px 12px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
