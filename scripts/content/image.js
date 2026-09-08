@@ -8,12 +8,15 @@ const root = path.resolve(__dirname, '..', '..');
 async function generateArticleImage(article, date, slug) {
   if (!process.env.OPENAI_API_KEY) throw new Error('OPENAI_API_KEY is required for article image generation');
   const prompt = [
-    'Create an original premium editorial illustration for a Guild of Golf buying guide.',
+    'Create an original, photorealistic editorial golf photograph for a Guild of Golf field guide.',
     `Editorial concept: ${article.visualBrief.concept}`,
-    'Use a refined golf-magazine style with cream textured paper, deep forest green, muted gold, and restrained slate-blue accents.',
-    'Make the image educational and visually legible at both desktop and mobile sizes.',
-    'Use generic golf equipment only. No recognizable commercial product designs.',
-    'No people, logos, brands, words, letters, numbers, prices, user interface, or watermark.',
+    'Use authentic natural light, realistic skin, fabric, turf, weather, and equipment materials, with the restrained polish of a premium golf magazine photo essay.',
+    'Show a believable adult golfer when the concept benefits from a person; use an ordinary, attainable practice or course setting rather than a glossy advertisement.',
+    'Compose one clear teaching moment with the primary subject near the center so the same photograph crops safely to a wide desktop frame and a taller mobile frame.',
+    'Leave calm negative space where a future HTML caption or annotation could sit, but do not render the annotation into the photograph.',
+    'Use generic, unbranded golf equipment and clothing only. No recognizable commercial product designs.',
+    'No logos, brands, words, letters, numbers, arrows, prices, user interface, border, collage, illustration, or watermark.',
+    'Avoid uncanny anatomy, extra fingers or limbs, malformed clubs, impossible grip positions, and physically implausible ball placement.',
     'Do not imply hands-on testing or a product endorsement.'
   ].join(' ');
   const response = await fetch('https://api.openai.com/v1/images/generations', {
